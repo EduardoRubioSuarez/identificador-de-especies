@@ -1,0 +1,876 @@
+[
+ {
+  "id": "familias",
+  "title": "Clave para las familias de Brachyura presentes en el área",
+  "ownerTaxon": null,
+  "pages": "567-574",
+  "nodes": [
+   {
+    "id": "familias:1",
+    "step": 1,
+    "options": [
+     {
+      "label": "1a",
+      "text": "Esternitos torácicos anteriores muy anchos, los posteriores (al nivel de los pereiópodos 4 y 5) angostos y en forma de quilla. Forma general del cuerpo ovalada, alargada (Fig. 1)",
+      "target": "Raninidae",
+      "inferred": false
+     },
+     {
+      "label": "1b",
+      "text": "Esternitos torácicos anteriores no notoriamente anchos, los posteriores no en forma de quilla. Forma general del cuerpo variable, pero no alargada",
+      "target": "2",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:2",
+    "step": 2,
+    "options": [
+     {
+      "label": "2a",
+      "text": "Cuadro bucal de forma triangular, prolongado hacia delante formando un canal (Figs 2b, 4b y 5b)",
+      "target": "3",
+      "inferred": false
+     },
+     {
+      "label": "2b",
+      "text": "Cuadro bucal de forma más bien cuadrangular, no prolongado hacia delante formando un canal (Figs 11b y 12b)",
+      "target": "6",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:3",
+    "step": 3,
+    "options": [
+     {
+      "label": "3a",
+      "text": "Caparazón corto, dejando los primeros dos o tres segmentos abdominales completamente visibles en el plano dorsal (Figs 2a y 3a)",
+      "target": "4",
+      "inferred": false
+     },
+     {
+      "label": "3b",
+      "text": "Caparazón bien desarrollado, recubriendo todos los segmentos abdominales",
+      "target": "5",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:4",
+    "step": 4,
+    "options": [
+     {
+      "label": "4a",
+      "text": "Tercer par de maxilípedos cortos, dejando al descubierto la región anterior del cuadro bucal (Fig. 2b)",
+      "target": "Dorippidae",
+      "inferred": false
+     },
+     {
+      "label": "4b",
+      "text": "Tercer par de maxilípedos alargados, recubriendo casi enteramente el cuadro bucal (Fig. 3b)",
+      "target": "Cyclodorippidae",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:5",
+    "step": 5,
+    "options": [
+     {
+      "label": "5a",
+      "text": "Aperturas de los canales eferentes situadas a ambos lados del endostomio (Fig. 4b). Caparazón generalmente de forma subcircular y globosa, ocasionalmente provisto de protuberancias irregulares (Fig. 4a)",
+      "target": "Leucosiidae",
+      "inferred": false
+     },
+     {
+      "label": "5b",
+      "text": "Aperturas de los canales eferentes situadas en las bases del primer par de pereiópodos (Figs 5b y c). Caparazón generalmente alto y de margen anterior arqueado (Fig. 5a)",
+      "target": "Calappidae",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:6",
+    "step": 6,
+    "options": [
+     {
+      "label": "6a",
+      "text": "Quinto par de pereiópodos en posición dorsal y fuertemente reducido (Figs 6 a 8)",
+      "target": "7",
+      "inferred": false
+     },
+     {
+      "label": "6b",
+      "text": "Quinto par de pereiópodos semejante a los demás, eventualmente algo más corto",
+      "target": "9",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:7",
+    "step": 7,
+    "options": [
+     {
+      "label": "7a",
+      "text": "Caparazón comprimido dorsoventralmente y recubierto de tubérculos (Fig. 6)",
+      "target": "Palicidae",
+      "inferred": false
+     },
+     {
+      "label": "7b",
+      "text": "Caparazón algo globoso y muy pubescente, o bien, aplanado dorsalmente, sin tubérculos dorsales",
+      "target": "8",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:8",
+    "step": 8,
+    "options": [
+     {
+      "label": "8a",
+      "text": "Cangrejos que se protegen cargando una valva de almeja, una esponja u otro objeto (Figs 7b y c). Frente convexo, con un par de tubérculos (Fig. 7a)",
+      "target": "Dromiidae",
+      "inferred": false
+     },
+     {
+      "label": "8b",
+      "text": "Cangrejos generalmente asociados con corales. Frente triangular, con una fuerte ranura dorsal (Fig. 8)",
+      "target": "Dynomenidae",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:9",
+    "step": 9,
+    "options": [
+     {
+      "label": "9a",
+      "text": "Rostro reducido o ausente; órbitas bien definidas. Caparazón generalmente de forma cuadrangular, poligonal u ovalada (hasta circular), su región anterior poco o no estrechada",
+      "target": "10",
+      "inferred": false
+     },
+     {
+      "label": "9b",
+      "text": "Rostro bien desarrollado, a menudo alargado; órbitas generalmente incompletas. Caparazón generalmente de forma triangular, más angosto en su parte anterior",
+      "target": "19",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:10",
+    "step": 10,
+    "options": [
+     {
+      "label": "10a",
+      "text": "Mero del tercer par de maxilípedos muy reducido, más angosto que el isquio, su exopodito reducido (Fig. 9c). Especies muy pequeñas, parásitas en corales (Figs 9a y b)",
+      "target": "Cryptochiridae",
+      "inferred": false
+     },
+     {
+      "label": "10b",
+      "text": "Mero del tercer par de maxilípedos aproximadamente tan ancho como el isquio, su exopodito no reducido. Especies encontradas en diversos hábitats",
+      "target": "11",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:11",
+    "step": 11,
+    "options": [
+     {
+      "label": "11a",
+      "text": "Carpo del tercer par de maxilípedos articulado en el ángulo ántero-interno del mero o cerca de éste (Fig. 12). Aperturas genitales del macho situadas en las coxas del quinto par de pereiópodos (en posición esternal o intermedia en algunos géneros de Goneplacidae) (Figs 14b y c)",
+      "target": "12",
+      "inferred": false
+     },
+     {
+      "label": "11b",
+      "text": "Carpo del tercer par de maxilípedos no articulado en el ángulo ántero-interno del mero o cerca de éste. Aperturas genitales del macho situadas en el esternón",
+      "target": "16",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:12",
+    "step": 12,
+    "options": [
+     {
+      "label": "12a",
+      "text": "Por lo menos el último artejo del quinto par de pereiópodos aplanado, utilizado como apéndice natatorio (Fig. 10)",
+      "target": "Portunidae",
+      "inferred": false
+     },
+     {
+      "label": "12b",
+      "text": "Último artejo del quinto par de pereiópodos normal, semejante a aquel de los demás pereiópodos",
+      "target": "13",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:13",
+    "step": 13,
+    "options": [
+     {
+      "label": "13a",
+      "text": "Anténulas replegadas longitudinalmente en sus fosetas (Figs 11b y 12b)",
+      "target": "14",
+      "inferred": false
+     },
+     {
+      "label": "13b",
+      "text": "Anténulas replegadas oblicua- o transversalmente en sus fosetas",
+      "target": "15",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:14",
+    "step": 14,
+    "options": [
+     {
+      "label": "14a",
+      "text": "Caparazón subcircular (Fig. 11a). Flagelo antenal ausente o presente, y en este último caso, largo y setoso (Fig. 11b)",
+      "target": "Atelecyclidae",
+      "inferred": false
+     },
+     {
+      "label": "14b",
+      "text": "Caparazón ancho, ovalado o hexagonal (Fig. 12a). Flagelo antenal siempre presente, corto y setoso (Fig. 12b)",
+      "target": "Cancridae",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:15",
+    "step": 15,
+    "options": [
+     {
+      "label": "15a",
+      "text": "Caparazón generalmente hexagonal (Fig. 13a) o transversalmente ovalado (Fig. 13c). Aperturas genitales del macho situadas en la coxa del quinto par de pereiópodos. Abdomen del macho considerablemente más angosto a nivel de los segmentos 4 a 7 (Fig. 13b). Más frecuente en aguas someras",
+      "target": "Xanthidae",
+      "inferred": false
+     },
+     {
+      "label": "15b",
+      "text": "Caparazón generalmente subcuadrado, hexagonal o transversalmente ovalado (Fig. 14a). Primer pleópodo del macho (órgano copulador) situado dentro de un conducto que se extiende entre las placas esternales 7 y 8 (Fig. 14b) o bien, es de posición netamente esternal (Fig. 14c); parte del esternito 8 es siempre visible cerca del segundo segmento abdominal. Más frecuente en aguas profundas de la plataforma continental",
+      "target": "Goneplacidae",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:16",
+    "step": 16,
+    "options": [
+     {
+      "label": "16a",
+      "text": "Ojos y órbitas reducidos. Caparazón de la hembra a menudo blando. Cuerpo generalmente redondeado (Fig. 15a) u ovalado (Fig. 15b) (especies principalmente comensales de invertebrados)",
+      "target": "Pinnotheridae",
+      "inferred": false
+     },
+     {
+      "label": "16b",
+      "text": "Ojos normales. Caparazón bien calcificado, duro en ambos sexos. Forma del cuerpo generalmente cuadrangular, con los bordes laterales rectos o ligeramente curvos",
+      "target": "17",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:17",
+    "step": 17,
+    "options": [
+     {
+      "label": "17a",
+      "text": "Frente generalmente ancha, pero ocasionalmente angosta. Pedúnculos oculares cortos o medianos. Maxilípedos del tercer par algo separados en su línea media, dejando al descubierto parte de la cavidad bucal",
+      "target": "18",
+      "inferred": false
+     },
+     {
+      "label": "17b",
+      "text": "Frente angosta o muy angosta. Pedúnculos oculares largos (Figs 16a y b). Maxilípedos del tercer par juntos, recubriendo completamente la cavidad bucal",
+      "target": "Ocypodidae",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:18",
+    "step": 18,
+    "options": [
+     {
+      "label": "18a",
+      "text": "Márgenes laterales del caparazón rectos o ligeramente arqueados. Frente ancha (Fig. 17)",
+      "target": "Grapsidae",
+      "inferred": false
+     },
+     {
+      "label": "18b",
+      "text": "Márgenes laterales del caparazón hinchados y fuertemente arqueados. Frente angosta (Fig. 18)",
+      "target": "Gecarcinidae",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "familias:19",
+    "step": 19,
+    "options": [
+     {
+      "label": "19a",
+      "text": "Quelípedos muy móviles, generalmente más cortos (Figs 19b y c) o de igual longitud que los demás pereiópodos, pero en algunos casos netamente más largos (Fig. 19a). Órbitas ausentes o incompletas (Figs 19b y d), pero ocasionalmente bien formadas",
+      "target": "Majidae",
+      "inferred": false
+     },
+     {
+      "label": "19b",
+      "text": "Quelípedos poco móviles, a menudo más largos y más robustos que los demás pereiópodos. Órbitas siempre bien formadas (Fig. 20)",
+      "target": "Parthenopidae",
+      "inferred": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "calappidae-generos",
+  "title": "Calappidae: clave para los géneros presentes en el área y para las especies de interés para la pesca",
+  "ownerTaxon": "Calappidae",
+  "pages": "578-579",
+  "nodes": [
+   {
+    "id": "calappidae-generos:1",
+    "step": 1,
+    "options": [
+     {
+      "label": "1a",
+      "text": "Caparazón aproximadamente tan largo como ancho, con un solo par de pequeñas espinas laterales levemente recurvadas hacia adelante (Fig. 1)",
+      "target": "Cycloes bairdii",
+      "inferred": false
+     },
+     {
+      "label": "1b",
+      "text": "Caparazón netamente más ancho que largo",
+      "target": "2",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "calappidae-generos:2",
+    "step": 2,
+    "options": [
+     {
+      "label": "2a",
+      "text": "Márgenes laterales del caparazón con una fuerte espina recta (Fig. 2)",
+      "target": "Platymera gaudichaudii",
+      "inferred": false
+     },
+     {
+      "label": "2b",
+      "text": "Márgenes laterales del caparazón sin espina fuerte y recta",
+      "target": "3",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "calappidae-generos:3",
+    "step": 3,
+    "options": [
+     {
+      "label": "3a",
+      "text": "Márgenes laterales del caparazón provistos de fuertes dientes triangulares aplanados; márgenes póstero-laterales formando una expansión dentada que recubre la base de los pereiópodos (Figs 3 y 4)",
+      "target": "4",
+      "inferred": false
+     },
+     {
+      "label": "3b",
+      "text": "Márgenes laterales del caparazón sin dientes triangulares fuertes y aplanados; márgenes póstero-laterales sinuosos, no formando expansiones laterales dentadas (Figs 5 a 8)",
+      "target": "5",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "calappidae-generos:4",
+    "step": 4,
+    "options": [
+     {
+      "label": "4a",
+      "text": "Caparazón ancho, su anchura por lo menos 1 1/2 veces la longitud; región posterior con escasos tubérculos (Fig. 3)",
+      "target": "Calappa convexa",
+      "inferred": false
+     },
+     {
+      "label": "4b",
+      "text": "Caparazón angosto, su anchura nunca más de 1 1/4 veces la longitud; regiones anterior y posterior con numerosos tubérculos cónicos (Fig. 4)",
+      "target": "Calappa saussurei",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "calappidae-generos:5",
+    "step": 5,
+    "options": [
+     {
+      "label": "5a",
+      "text": "Caparazón casi ovalado, fuertemente arqueado y de superficie regular, sin depresiones laterales ni protuberancias muy marcadas. Frente imperceptiblemente prolongada hacia delante (Figs 5 y 6)",
+      "target": "6",
+      "inferred": false
+     },
+     {
+      "label": "5b",
+      "text": "Caparazón subrectangular u octogonal, poco o moderadamente arqueado y de superficie irregular, con protuberancias y depresiones muy marcadas. Frente netamente prolongada hacia adelante (Figs 7 y 8)",
+      "target": "7",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "calappidae-generos:6",
+    "step": 6,
+    "options": [
+     {
+      "label": "6a",
+      "text": "Cresta dorsal de la pinza recortada en 4 dientes irregulares, mal definidos y con algunos pequeños tubérculos en el margen. Superficie externa de la mano con numerosos tubérculos pequeños y puntiagudos, alineados en crestas. Color del caparazón uniforme o con franjas transversales, a veces elípticas. Anchura del caparazón raramente superior a 7 cm (Fig. 5)",
+      "target": "Hepatus kossmanni",
+      "inferred": false
+     },
+     {
+      "label": "6b",
+      "text": "Cresta dorsal de la pinza recortada en 4 dientes bien definidos, puntiagudos, triangulares, sin tubérculos en el margen. Superficie externa de la mano recubierta de grandes tubérculos redondeados o aplanados. Color del caparazón rojo-púrpura con numerosos pequeños círculos (manchas) amarillos o anaranjados. Anchura del caparazón hasta 13 cm (Fig. 6)",
+      "target": "Hepatus lineatus",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "calappidae-generos:7",
+    "step": 7,
+    "options": [
+     {
+      "label": "7a",
+      "text": "Caparazón subrectangular, de superficie irregular; regiones laterales cóncavas (Fig. 7)",
+      "target": "Hepatella",
+      "inferred": false
+     },
+     {
+      "label": "7b",
+      "text": "Caparazón octagonal, con 6 protuberancias principales muy marcadas (Fig. 8)",
+      "target": "Osachila",
+      "inferred": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cancridae-especies",
+  "title": "Cancridae: clave para las especies presentes en el área",
+  "ownerTaxon": "Cancridae",
+  "pages": "586",
+  "nodes": [
+   {
+    "id": "cancridae-especies:1",
+    "step": 1,
+    "options": [
+     {
+      "label": "1a",
+      "text": "Fisuras entre los dientes del margen ántero-lateral del caparazón mal definidas; dientes anchos, proyectando levemente fuera del contorno general del caparazón. Margen póstero-lateral casi recto (Fig. 1)",
+      "target": "Cancer johngarthi",
+      "inferred": false
+     },
+     {
+      "label": "1b",
+      "text": "Fisuras entre los dientes del margen ántero-lateral profundas y bien definidas; dientes subtriangulares, puntiagudos, proyectando netamente fuera del contorno general del caparazón. Margen póstero-lateral sinuoso (Fig. 2)",
+      "target": "2",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "cancridae-especies:2",
+    "step": 2,
+    "options": [
+     {
+      "label": "2a",
+      "text": "Talla máxima de los adultos alrededor de 5 cm (anchura del caparazón). Carpo del quelípedo con 2 espinas subterminales; superficie externa y borde dorsal de la mano con tubérculos bien marcados; dedo móvil de la pinza casi completamente negro (Fig. 3a)",
+      "target": "Cancer amphioetus",
+      "inferred": false
+     },
+     {
+      "label": "2b",
+      "text": "Talla máxima de los adultos alrededor de 18 cm (anchura del caparazón). Carpo del quelípedo con una sola espina subterminal; superficie externa de la mano recubierta de tubérculos finos, su borde dorsal liso; dedo móvil de la pinza negro en su mitad distal (Fig. 3b)",
+      "target": "Cancer antennarius",
+      "inferred": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dorippidae-generos",
+  "title": "Dorippidae: clave para los géneros presentes en el área",
+  "ownerTaxon": "Dorippidae",
+  "pages": "592",
+  "nodes": [
+   {
+    "id": "dorippidae-generos:1",
+    "step": 1,
+    "options": [
+     {
+      "label": "1a",
+      "text": "Artejos basales de las anténulas normales, no hinchados (Fig. 1a)",
+      "target": "Ethusa",
+      "inferred": false
+     },
+     {
+      "label": "1b",
+      "text": "Artejos basales de las anténulas fuertemente hinchados (Fig. 1b)",
+      "target": "Ethusina",
+      "inferred": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gecarcinidae-especies",
+  "title": "Gecarcinidae: clave para las especies presentes en el área",
+  "ownerTaxon": "Gecarcinidae",
+  "pages": "595-596",
+  "nodes": [
+   {
+    "id": "gecarcinidae-especies:1",
+    "step": 1,
+    "options": [
+     {
+      "label": "1a",
+      "text": "Distancia órbito-frontal (entre los bordes externos de las órbitas) superior a la mitad de la anchura del caparazón. Diente orbital externo fuerte, puntiagudo, triangular (Fig. 1)",
+      "target": "Cardisoma crassum",
+      "inferred": false
+     },
+     {
+      "label": "1b",
+      "text": "Distancia órbito-frontal inferior a la mitad de la anchura del caparazón. Diente orbital externo reducido a un tubérculo (Figs 2a, 3a y 4a)",
+      "target": "2",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "gecarcinidae-especies:2",
+    "step": 2,
+    "options": [
+     {
+      "label": "2a",
+      "text": "Caparazón moderadamente ancho (Fig. 2a). Borde anterior (distal) del mero del tercer maxilípedo redondeado, sin muesca (Fig. 2b)",
+      "target": "Gecarcinus quadratus",
+      "inferred": false
+     },
+     {
+      "label": "2b",
+      "text": "Caparazón mucho más ancho que largo (Figs 3a y 4a). Borde anterior (distal) del mero del tercer maxilípedo con una muesca bien marcada (Figs 3b y 4b)",
+      "target": "3",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "gecarcinidae-especies:3",
+    "step": 3,
+    "options": [
+     {
+      "label": "3a",
+      "text": "Muesca del mero del tercer maxilípedo profunda, en forma de \"V\" (Fig. 3b)",
+      "target": "Gecarcinus planatus",
+      "inferred": false
+     },
+     {
+      "label": "3b",
+      "text": "Muesca del mero del tercer maxilípedo poco profunda, convexa (Fig. 4b). Especie endémica de isla Malpelo, Colombia",
+      "target": "Gecarcinus malpilensis",
+      "inferred": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "grapsidae-subfamilias",
+  "title": "Grapsidae: clave para las subfamilias presentes en el área",
+  "ownerTaxon": "Grapsidae",
+  "pages": "602-603",
+  "nodes": [
+   {
+    "id": "grapsidae-subfamilias:1",
+    "step": 1,
+    "options": [
+     {
+      "label": "1a",
+      "text": "Anténulas visibles dorsalmente, ubicadas en dos fisuras profundas y anchas en la frente (Fig. 1)",
+      "target": "Plagusiinae",
+      "inferred": false
+     },
+     {
+      "label": "1b",
+      "text": "Anténulas replegadas por debajo de la frente e invisibles dorsalmente",
+      "target": "2",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "grapsidae-subfamilias:2",
+    "step": 2,
+    "options": [
+     {
+      "label": "2a",
+      "text": "Una cresta oblicua y peluda ubicada en la superficie ventral (visible) del mero del tercer par de maxilípedos (Fig. 2)",
+      "target": "Sesarminae",
+      "inferred": false
+     },
+     {
+      "label": "2b",
+      "text": "Superficie ventral (visible) del mero del tercer par de maxilípedos sin cresta oblicua y peluda",
+      "target": "3",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "grapsidae-subfamilias:3",
+    "step": 3,
+    "options": [
+     {
+      "label": "3a",
+      "text": "Borde ventral de la órbita prolongado ventralmente hacia el cuadro bucal (Fig. 3a y b)",
+      "target": "Grapsinae",
+      "inferred": false
+     },
+     {
+      "label": "3b",
+      "text": "Borde ventral de la órbita no prolongado hacia el cuadro bucal, mal definido y reforzado por una cresta suborbital (Fig. 3c)",
+      "target": "Varuninae",
+      "inferred": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ocypodidae-generos",
+  "title": "Ocypodidae: clave para los géneros presentes en el área",
+  "ownerTaxon": "Ocypodidae",
+  "pages": "614-615",
+  "nodes": [
+   {
+    "id": "ocypodidae-generos:1",
+    "step": 1,
+    "options": [
+     {
+      "label": "1a",
+      "text": "Caparazón ovalado, las regiones branquiales fuertemente proyectadas hacia los lados; distancia órbito-frontal (entre los bordes externos de las órbitas) inferior a dos tercios de la anchura del caparazón (Fig. 1a). Margen ventral de la frente con una hendidura mediana (Fig. 1b). Alcanza tallas superiores a 7 cm de anchura de caparazón",
+      "target": "Ucides",
+      "inferred": false
+     },
+     {
+      "label": "1b",
+      "text": "Caparazón rectangular; distancia órbito-frontal superior a dos tercios de la anchura del caparazón (Figs 2a y 3a). Margen ventral de la frente convexo (Figs 3b y c) o levemente angular (Fig. 2b), sin hendidura mediana",
+      "target": "2",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "ocypodidae-generos:2",
+    "step": 2,
+    "options": [
+     {
+      "label": "2a",
+      "text": "Pedúnculo ocular corto y robusto; córnea más larga que la mitad de la longitud del pedúnculo (Fig. 2b). Quelípedos del macho (y de la hembra) ligeramente asimétricos (Fig. 2a)",
+      "target": "Ocypode",
+      "inferred": false
+     },
+     {
+      "label": "2b",
+      "text": "Pedúnculo ocular delgado y alargado; córnea más corta que la mitad de la longitud del pedúnculo (Figs 3b y c). Quelípedos del macho fuertemente asimétricos (Fig. 3a), los de la hembra pequeños y simétricos",
+      "target": "Uca",
+      "inferred": false
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "portunidae-especies",
+  "title": "Portunidae: clave para las especies presentes en el área",
+  "ownerTaxon": "Portunidae",
+  "pages": "618-621",
+  "nodes": [
+   {
+    "id": "portunidae-especies:1",
+    "step": 1,
+    "options": [
+     {
+      "label": "1a",
+      "text": "Pedúnculos oculares extremadamente largos, su longitud por lo menos igual a un tercio de la anchura del caparazón. Caparazón con 4 o 5 dientes ántero-laterales, a veces muy pequeños (Figs 1a y 2a)",
+      "target": "2",
+      "inferred": false
+     },
+     {
+      "label": "1b",
+      "text": "Pedúnculos oculares cortos, su longitud mucho menor que un tercio de la anchura del caparazón. Caparazón con 9 dientes ántero-laterales (Fig. 3)",
+      "target": "3",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "portunidae-especies:2",
+    "step": 2,
+    "options": [
+     {
+      "label": "2a",
+      "text": "Propodio y dáctilo de los pereiópodos 2, 3 y 4 típicamente aplanados, al igual que en el quinto pereiópodo (Fig. 1c). Pinza del quelípedo de longitud aproximadamente 4 veces mayor que su altura (Fig. 1b)",
+      "target": "Euphylax dovii",
+      "inferred": false
+     },
+     {
+      "label": "2b",
+      "text": "Propodio y dáctilo aplanados únicamente en el quinto pereiópodo (Fig. 2c). Pinza del quelípedo de longitud inferior a 4 veces su altura (Fig. 2b)",
+      "target": "Euphylax robustus",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "portunidae-especies:3",
+    "step": 3,
+    "options": [
+     {
+      "label": "3a",
+      "text": "Dientes ántero-laterales alternativamente largos y cortos (Fig. 4a). Superficie externa y borde superior de la pinza con un total de 4 espinas bien marcadas (Fig. 4b)",
+      "target": "Cronius ruber",
+      "inferred": false
+     },
+     {
+      "label": "3b",
+      "text": "Dientes ántero-laterales iguales o subiguales, salvo el noveno (diente lateral) que puede ser mucho más largo que el octavo (Fig. 3). Superficie externa y borde superior de la pinza con 2 o 3 espinas (Fig. 5)",
+      "target": "4",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "portunidae-especies:4",
+    "step": 4,
+    "options": [
+     {
+      "label": "4a",
+      "text": "Fisura supraorbital profunda y ancha, en forma de \"V\" (Fig. 6a)",
+      "target": "Arenaeus mexicanus",
+      "inferred": false
+     },
+     {
+      "label": "4b",
+      "text": "Fisura supraorbital visible, pero poco marcada (Fig. 6b)",
+      "target": "5",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "portunidae-especies:5",
+    "step": 5,
+    "options": [
+     {
+      "label": "5a",
+      "text": "Borde medial del carpo del quelípedo con una fuerte espina. Abdomen del macho triangular (Fig. 7a)",
+      "target": "Portunus",
+      "inferred": false
+     },
+     {
+      "label": "5b",
+      "text": "Borde medial del carpo del quelípedo sin espina. Abdomen del macho en forma de \"T\" (Fig. 7b)",
+      "target": "6",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "portunidae-especies:6",
+    "step": 6,
+    "options": [
+     {
+      "label": "6a",
+      "text": "Dientes centrales de la frente muy reducidos, a veces completamente obsoletos (Fig. 8a)",
+      "target": "Callinectes bellicosus",
+      "inferred": false
+     },
+     {
+      "label": "6b",
+      "text": "Dientes centrales de la frente bien desarrollados, aunque siempre más pequeños que los dientes laterales (Figs 8b, c y d)",
+      "target": "7",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "portunidae-especies:7",
+    "step": 7,
+    "options": [
+     {
+      "label": "7a",
+      "text": "Diente lateral (9) del caparazón corto, su margen anterior menos de 2 veces la longitud del margen posterior del diente inmediatamente precedente (8) (Fig. 9a). Especie circunscrita a Miraflores, Panamá",
+      "target": "Callinectes exasperatus",
+      "inferred": false
+     },
+     {
+      "label": "7b",
+      "text": "Diente lateral (9) del caparazón largo, su margen anterior más de 2 veces la longitud del margen posterior del diente inmediatamente precedente (8) (Fig. 9b)",
+      "target": "8",
+      "inferred": false
+     }
+    ]
+   },
+   {
+    "id": "portunidae-especies:8",
+    "step": 8,
+    "options": [
+     {
+      "label": "8a",
+      "text": "Dientes laterales de la frente en forma de triángulo agudo (Fig. 8c). Sexto segmento abdominal del macho más ancho en la base (contigua al quinto segmento), bordes laterales de la base netamente divergentes. Telson de la hembra en forma de triángulo equilátero (Fig. 10a)",
+      "target": "Callinectes arcuatus",
+      "inferred": false
+     },
+     {
+      "label": "8b",
+      "text": "Dientes laterales de la frente en forma de lóbulo (Fig. 8d). Sexto segmento abdominal del macho angosto en la base (contigua al quinto segmento), bordes laterales de la base casi paralelos. Telson de la hembra en forma de triángulo más largo que ancho (Fig. 10b)",
+      "target": "Callinectes toxotes",
+      "inferred": false
+     }
+    ]
+   }
+  ]
+ }
+]

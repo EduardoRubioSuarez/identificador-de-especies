@@ -1,0 +1,22 @@
+A. Texto de las opciones: 88 de 90 coinciden con el PDF (puntaje mínimo 90). Promedio 99.4.
+   revisar gecarcinidae-especies:1a (85.5): Distancia órbito-frontal (entre los bordes externos de las órbitas) su
+   revisar gecarcinidae-especies:1b (82.1): Distancia órbito-frontal inferior a la mitad de la anchura del caparaz
+B. Destinos: 80 de 90 se leen junto a su opción en el PDF.
+   revisar familias:2b -> paso 6: el número no se lee junto a la opción (OCR)
+   revisar familias:3b -> paso 5: el número no se lee junto a la opción (OCR)
+   revisar familias:9b -> paso 19: el número no se lee junto a la opción (OCR)
+   revisar familias:10b -> paso 11: el número no se lee junto a la opción (OCR)
+   revisar familias:11b -> paso 16: el número no se lee junto a la opción (OCR)
+   revisar familias:17a -> paso 18: el número no se lee junto a la opción (OCR)
+   revisar calappidae-generos:2b -> paso 3: el número no se lee junto a la opción (OCR)
+   revisar gecarcinidae-especies:1a -> Cardisoma crassum: no aparece junto a la opción (puntaje 57)
+   revisar gecarcinidae-especies:2a -> Gecarcinus quadratus: no aparece junto a la opción (puntaje 44)
+   revisar portunidae-especies:7b -> paso 8: el número no se lee junto a la opción (OCR)
+C. Secciones de fichas: 139 de 139 coinciden con el PDF (puntaje mínimo 88).
+D. Especies con autor: 223 de 229 aparecen en el PDF (puntaje mínimo 85).
+   revisar Gecarcinus planatus Stimpson, 1860 (83.3)
+   revisar Mithrax denticulatus Bell, 1835 (81.5)
+   revisar Medaeus pelagius (Glassell, 1936) (81.5)
+   revisar Medaeus spinulifer (Rathbun, 1898) (82.1)
+   revisar Pilumnus reticulatus Stimpson, 1860 (83.9)
+   revisar Xanthodius stimpsoni (A. Milne Edwards, 1879) (83.3)

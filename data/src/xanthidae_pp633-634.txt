@@ -1,0 +1,70 @@
+# Lista de especies de Xanthidae, pp. 633-634 del documento, transcrita a mano desde la imagen de la página
+# (el OCR de la p. 634 estaba dañado y omitía especies). Formato: nombre | autor | código FAO (opcional) | nota (opcional)
+Globopilumnus xantusii | Stimpson, 1860
+Glyptoxanthus labyrinthicus | (Stimpson, 1860)
+Glyptoxanthus meandricus | (Lockington, 1877)
+Gonopanope angusta | (Lockington, 1877)
+Gonopanope areolata | (Rathbun, 1898)
+Gonopanope nitida | (Rathbun, 1898)
+Heteractaea lunata | (Milne Edwards y Lucas, 1843)
+Heteractaea peterseni | Garth, 1940
+Hexapanopeus beebei | Garth, 1961 | | (*) Sólo en la costa Pacífica del Canal de Panamá
+Hexapanopeus costaricensis | Garth, 1940
+Hexapanopeus nicaraguensis | (Rathbun, 1904)
+Hexapanopeus orcutti | Rathbun, 1930
+Hexapanopeus rubicundus | Rathbun, 1933
+Hexapanopeus sinaloensis | Rathbun, 1930
+Kraussia americana | Garth, 1939
+Liomera cinctimana | (White, 1847)
+Lipaesthesius leeanus | Rathbun, 1898
+Lophopanopeus frontalis | (Rathbun, 1893)
+Lophoxanthus lamellipes | (Stimpson, 1860)
+Medaeus pelagius | (Glassell, 1936) | | Medaeus (sensu Rathbun)
+Medaeus spinulifer | (Rathbun, 1898) | | Medaeus (sensu Rathbun)
+Menippe frontalis | A. Milne Edwards, 1879 | XANTH Men 3
+Menippe obtusa | Stimpson, 1859
+Metopocarcinus concavatus | Crane, 1947
+Metopocarcinus truncatus | Stimpson, 1860
+Microcassiope xantusii | (Stimpson, 1871)
+Micropanope armstrongi | (Garth, 1948)
+Micropanope ashcrafti | Garth, 1986
+Micropanope cristimanus | Stimpson, 1871
+Micropanope lata | (Faxon, 1893)
+Micropanope maculatus | (Rathbun, 1898) | | Micropanope ? maculatus
+Micropanope taylori | Garth, 1986
+Nanocassiope polita | (Rathbun, 1893)
+Neopanope peterseni | Glassell, 1933
+Ozius perlatus | Stimpson, 1860
+Ozius verreauxii | de Saussure, 1853 | XANTH Ozi 1
+Panopeus bermudensis | Benedict y Rathbun, 1891 | | Panopeus aff. bermudensis
+Panopeus chilensis | Milne Edwards y Lucas, 1844
+Panopeus diversus | Rathbun, 1933
+Panopeus latus | Faxon, 1893
+Panopeus mirafloresensis | Abele y Kim, 1989
+Panopeus purpureus | Lockington, 1877
+Panopeus rugosus | A. Milne Edwards, 1880 | | (*) Sólo en la costa Pacífica del Canal de Panamá
+Paractaea sulcata | (Stimpson, 1860)
+Paraxanthias insculptus | (Stimpson, 1871)
+Pilumnoides rotundus | Garth, 1940
+Pilumnus depressus | Stimpson, 1871
+Pilumnus gonzalensis | Rathbun, 1893
+Pilumnus limosus | Smith, 1869
+Pilumnus nobilii | Garth, 1948
+Pilumnus pygmaeus | Boone, 1926
+Pilumnus reticulatus | Stimpson, 1860
+Pilumnus spinohirsutus | (Lockington, 1877)
+Pilumnus stimpsoni | Miers, 1886
+Pilumnus tectus | Rathbun, 1933
+Pilumnus townsendi | Rathbun, 1923
+Pilumnus xantusii | Stimpson, 1860
+Platyactaea dovii | (Stimpson, 1871)
+Platypodiella gemmata | Rathbun, 1902
+Platypodiella rotundata | (Stimpson, 1860)
+Quadrella nitida | Smith, 1869
+Trapezia corallina | Gerstaecker, 1856
+Trapezia digitalis | Latreille, 1825
+Trapezia ferruginea | Latreille, 1825
+Trapezia formosa | Smith, 1869
+Xanthodius cooksoni | Miers, 1877
+Xanthodius sternberghi | Stimpson, 1859
+Xanthodius stimpsoni | (A. Milne Edwards, 1879) | | Xanthodius (sensu Rathbun) stimpsoni

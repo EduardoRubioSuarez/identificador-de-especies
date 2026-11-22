@@ -1,0 +1,3713 @@
+[
+ {
+  "id": "dromiidae",
+  "rank": "family",
+  "scientificName": "Dromiidae",
+  "parent": null,
+  "author": "De Haan, 1833",
+  "speciesInArea": 4,
+  "children": []
+ },
+ {
+  "id": "dynomenidae",
+  "rank": "family",
+  "scientificName": "Dynomenidae",
+  "parent": null,
+  "author": "Ortmann, 1892",
+  "speciesInArea": 1,
+  "children": []
+ },
+ {
+  "id": "cyclodorippidae",
+  "rank": "family",
+  "scientificName": "Cyclodorippidae",
+  "parent": null,
+  "author": "Alcock, 1896",
+  "speciesInArea": 3,
+  "children": []
+ },
+ {
+  "id": "raninidae",
+  "rank": "family",
+  "scientificName": "Raninidae",
+  "parent": null,
+  "author": "De Haan, 1839",
+  "speciesInArea": 5,
+  "children": []
+ },
+ {
+  "id": "calappidae",
+  "rank": "family",
+  "scientificName": "Calappidae",
+  "parent": null,
+  "author": "De Haan, 1833",
+  "speciesInArea": 14,
+  "keyId": "calappidae-generos",
+  "children": [
+   "Cycloes",
+   "Platymera",
+   "Calappa",
+   "Hepatus",
+   "Hepatella",
+   "Osachila"
+  ]
+ },
+ {
+  "id": "dorippidae",
+  "rank": "family",
+  "scientificName": "Dorippidae",
+  "parent": null,
+  "author": "MacLeay, 1838",
+  "speciesInArea": 8,
+  "keyId": "dorippidae-generos",
+  "children": [
+   "Ethusa",
+   "Ethusina"
+  ]
+ },
+ {
+  "id": "leucosiidae",
+  "rank": "family",
+  "scientificName": "Leucosiidae",
+  "parent": null,
+  "author": "Samouelle, 1819",
+  "speciesInArea": 20,
+  "children": []
+ },
+ {
+  "id": "majidae",
+  "rank": "family",
+  "scientificName": "Majidae",
+  "parent": null,
+  "author": "Samouelle, 1819",
+  "speciesInArea": 93,
+  "children": [
+   "Maiopsis",
+   "Mithrax",
+   "Stenocionops",
+   "Ala",
+   "Hemus",
+   "Macrocoeloma",
+   "Microphrys",
+   "Teleophrys",
+   "Thoe"
+  ]
+ },
+ {
+  "id": "parthenopidae",
+  "rank": "family",
+  "scientificName": "Parthenopidae",
+  "parent": null,
+  "author": "MacLeay, 1838",
+  "speciesInArea": 19,
+  "children": []
+ },
+ {
+  "id": "atelecyclidae",
+  "rank": "family",
+  "scientificName": "Atelecyclidae",
+  "parent": null,
+  "author": "Ortmann, 1893",
+  "speciesInArea": 3,
+  "children": []
+ },
+ {
+  "id": "cancridae",
+  "rank": "family",
+  "scientificName": "Cancridae",
+  "parent": null,
+  "author": "Latreille, 1803",
+  "speciesInArea": 3,
+  "keyId": "cancridae-especies",
+  "children": [
+   "Cancer"
+  ]
+ },
+ {
+  "id": "cryptochiridae",
+  "rank": "family",
+  "scientificName": "Cryptochiridae",
+  "parent": null,
+  "author": "Paulson, 1875",
+  "speciesInArea": null,
+  "children": []
+ },
+ {
+  "id": "gecarcinidae",
+  "rank": "family",
+  "scientificName": "Gecarcinidae",
+  "parent": null,
+  "author": "MacLeay, 1838",
+  "speciesInArea": 4,
+  "keyId": "gecarcinidae-especies",
+  "children": [
+   "Cardisoma",
+   "Gecarcinus"
+  ]
+ },
+ {
+  "id": "goneplacidae",
+  "rank": "family",
+  "scientificName": "Goneplacidae",
+  "parent": null,
+  "author": "MacLeay, 1838",
+  "speciesInArea": 17,
+  "children": []
+ },
+ {
+  "id": "grapsidae",
+  "rank": "family",
+  "scientificName": "Grapsidae",
+  "parent": null,
+  "author": "MacLeay, 1838",
+  "speciesInArea": 30,
+  "keyId": "grapsidae-subfamilias",
+  "children": [
+   "Plagusiinae",
+   "Sesarminae",
+   "Grapsinae",
+   "Varuninae",
+   "Cyclograpsus",
+   "Euchirograpsus",
+   "Geograpsus",
+   "Glyptograpsus",
+   "Goetice",
+   "Hemigrapsus",
+   "Pachygrapsus",
+   "Planes"
+  ]
+ },
+ {
+  "id": "ocypodidae",
+  "rank": "family",
+  "scientificName": "Ocypodidae",
+  "parent": null,
+  "author": "Rafinesque, 1815",
+  "speciesInArea": 38,
+  "keyId": "ocypodidae-generos",
+  "children": [
+   "Ucides",
+   "Ocypode",
+   "Uca"
+  ]
+ },
+ {
+  "id": "palicidae",
+  "rank": "family",
+  "scientificName": "Palicidae",
+  "parent": null,
+  "author": "Rathbun, 1898",
+  "speciesInArea": 5,
+  "children": []
+ },
+ {
+  "id": "pinnotheridae",
+  "rank": "family",
+  "scientificName": "Pinnotheridae",
+  "parent": null,
+  "author": "De Haan, 1833",
+  "speciesInArea": 38,
+  "children": []
+ },
+ {
+  "id": "portunidae",
+  "rank": "family",
+  "scientificName": "Portunidae",
+  "parent": null,
+  "author": "Rafinesque, 1815",
+  "speciesInArea": 18,
+  "keyId": "portunidae-especies",
+  "children": [
+   "Euphylax",
+   "Cronius",
+   "Arenaeus",
+   "Portunus",
+   "Callinectes"
+  ]
+ },
+ {
+  "id": "xanthidae",
+  "rank": "family",
+  "scientificName": "Xanthidae",
+  "parent": null,
+  "author": "MacLeay, 1838",
+  "speciesInArea": 91,
+  "children": [
+   "Ozius",
+   "Menippe",
+   "Actaea",
+   "Carpilus",
+   "Cataleptodius",
+   "Chacellus",
+   "Coralliope",
+   "Cycloxanthops",
+   "Daira",
+   "Domecia",
+   "Edwardsium",
+   "Epixanthus",
+   "Eriphia",
+   "Eriphides",
+   "Eurypanopeus",
+   "Eurytium",
+   "Globopilumnus",
+   "Glyptoxanthus",
+   "Gonopanope",
+   "Heteractaea",
+   "Hexapanopeus",
+   "Kraussia",
+   "Liomera",
+   "Lipaesthesius",
+   "Lophopanopeus",
+   "Lophoxanthus",
+   "Medaeus",
+   "Metopocarcinus",
+   "Microcassiope",
+   "Micropanope",
+   "Nanocassiope",
+   "Neopanope",
+   "Panopeus",
+   "Paractaea",
+   "Paraxanthias",
+   "Pilumnoides",
+   "Pilumnus",
+   "Platyactaea",
+   "Platypodiella",
+   "Quadrella",
+   "Trapezia",
+   "Xanthodius"
+  ]
+ },
+ {
+  "id": "cycloes-bairdii",
+  "rank": "species",
+  "scientificName": "Cycloes bairdii",
+  "parent": "Cycloes",
+  "children": []
+ },
+ {
+  "id": "cycloes",
+  "rank": "genus",
+  "scientificName": "Cycloes",
+  "parent": "Calappidae",
+  "children": [
+   "Cycloes bairdii"
+  ]
+ },
+ {
+  "id": "platymera-gaudichaudii",
+  "rank": "species",
+  "scientificName": "Platymera gaudichaudii",
+  "parent": "Platymera",
+  "author": "H. Milne Edwards, 1837",
+  "faoCode": "CAL Murs 1",
+  "sheet": {
+   "otherNames": "Mursia gaudichaudii (H. Milne Edwards, 1837).",
+   "vernacular": "FAO: Es - Cajeta paco; Fr - Migraine paco; In - Paco box crab.",
+   "distinctive": "Caparazón transversalmente ovalado, con una espina lateral larga y robusta, dispuesta en ángulo recto con respecto al eje longitudinal del cuerpo; márgenes ántero-laterales arqueados y finamente dentados; márgenes póstero-laterales sinuosos. Una espina semejante, más corta, ubicada en el ángulo ántero-lateral del mero de los quelípedos. Borde dorsal de la pinza transformada en una cresta dentada. Color: caparazón amarillo-anaranjado con tubérculos rojos.",
+   "size": "Máxima: 10,4 cm (macho) y 6,4 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive principalmente en las zonas intermedia y externa de la plataforma continental, sobre fondos arenosos, lodosos, conchíferos o mixtos, entre 31 y 146 m de profundidad pero puede alcanzar profundidades de hasta 400 m. Sin embargo, muestra una marcada preferencia por fondos arenosos y ha sido capturado con mayor frecuencia entre 60 y 140 m.",
+   "fisheries": "Dentro del área (por lo menos en las costas de México), esta especie es generalmente desechada, a pesar de ser muy abundante como fauna acompañante en las pesquerías camaroneras. Fuera del área, frente a las costas de Perú y Chile, es explotada localmente con redes de arrastre y nasas y se comercializa en fresco."
+  },
+  "children": []
+ },
+ {
+  "id": "platymera",
+  "rank": "genus",
+  "scientificName": "Platymera",
+  "parent": "Calappidae",
+  "children": [
+   "Platymera gaudichaudii"
+  ]
+ },
+ {
+  "id": "calappa-convexa",
+  "rank": "species",
+  "scientificName": "Calappa convexa",
+  "parent": "Calappa",
+  "author": "de Saussure, 1853",
+  "faoCode": "CAL Cal 5",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Cajeta bola; Fr - Migraine arche; In - Arched box crab.",
+   "distinctive": "Caparazón muy grande, fuertemente arqueado, casi hemisférico, su anchura generalmente más de 1 1/2 veces la longitud, recubierto de fuertes prominencias tuberculadas; márgenes laterales con dientes anchos, triangulares, aplanados, formando una proyección o expansión póstero-lateral que recubre los pereiópodos; región posterior del caparazón y dientes laterales provistos de gránulos alineados en crestas cortas. Borde dorsal de la mano de la pinza transformado en una cresta de 6 dientes principales. Color: caparazón rojizo con manchas amarillas; crestas granulosas del caparazón amarillas.",
+   "size": "Máxima: 14,5 cm (macho) y 12,7 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive generalmente sobre fondos arenosos de la zona interna de la plataforma continental, entre 9 y 58 m de profundidad. Suele encontrarse también sobre fondos duros y ha sido observado ocasionalmente a menos de 4 m.",
+   "fisheries": "Explotado localmente por las pesquerías artesanales, pero también es muy frecuente en las capturas de arrastre camaroneras, ya que se encuentra en la franja de la plataforma continental más comúnmente visitada por los barcos pesqueros. Se vende fresco en los mercados locales de Colombia."
+  },
+  "children": []
+ },
+ {
+  "id": "calappa",
+  "rank": "genus",
+  "scientificName": "Calappa",
+  "parent": "Calappidae",
+  "children": [
+   "Calappa convexa",
+   "Calappa saussurei",
+   "Calappa hepatica",
+   "Calappa convexa d"
+  ]
+ },
+ {
+  "id": "calappa-saussurei",
+  "rank": "species",
+  "scientificName": "Calappa saussurei",
+  "parent": "Calappa",
+  "author": "Rathbun, 1898",
+  "faoCode": "CAL Cal 6",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Cajeta bola pequeña; Fr - Petite migraine arche; In - Small arched box crab.",
+   "distinctive": "Caparazón de talla mediana a grande, fuertemente arqueado, relativamente angosto (su anchura nunca más de 1 1/4 veces la longitud); superficie dorsal recubierta de numerosos tubérculos prominentes; márgenes laterales con dientes anchos, triangulares, aplanados, recorridos por una cresta corta formada por gránulos; dientes póstero-laterales formando una proyección o expansión lateral que recubre los pereiópodos. Borde dorsal de la mano de la pinza transformada en una cresta con 6 a 8 dientes. Color: caparazón blanco-crema a beige con tubérculos de color anaranjado.",
+   "size": "Máxima: 4,3 cm (macho) y 4,3 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Ha sido encontrada en una gran variedad de fondos: arena compacta, conchuela, arena conchífera, rocas, sustrato arcilloso, restos de coral y grava, entre 1 y 274 m de profundidad, pero es más común entre 30 y 100 m sobre fondos de arena fina a mediana.",
+   "fisheries": "Una especie de talla relativamente pequeña, pero ocasionalmente abundante en las capturas de arrastre camaroneras, pudiendo llegar a constituir un porcentaje importante de la biomasa de cangrejos recolectados, en particular en la parte septentrional del área de pesca."
+  },
+  "children": []
+ },
+ {
+  "id": "hepatus-kossmanni",
+  "rank": "species",
+  "scientificName": "Hepatus kossmanni",
+  "parent": "Hepatus",
+  "author": "Neumann, 1878",
+  "faoCode": "CAL Hepa 1",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Cajeta habana; Fr - Migraine havane; In - Havana box crab.",
+   "distinctive": "Caparazón fuertemente arqueado anteriormente, moderadamente alto; frente truncada, no rebasando el nivel de las cavidades suborbitarias; márgenes ántero-laterales con dentículos agudos, y divididos en grandes dientes obtusos, muy característicos en la parte posterior; márgenes póstero-laterales sinuosos, sin dientes fuertes. Cuarto segmento abdominal del macho con un par de fuertes protuberancias elípticas. Borde dorsal de la pinza transformado en una cresta recortada en 4 dientes irregulares, mal definidos y provistos de algunos pequeños tubérculos en el margen; superficie externa de la mano recubierta de numerosos pequeños tubérculos puntiagudos alineados en crestas. Color: bastante variable. Caparazón de tonalidad generalmente amarillento-habana a rojo-herrumbroso, con franjas transversales rojizas o pardas, a veces elípticas, que pueden ser muy pronunciadas o faltar completamente en algunos ejemplares.",
+   "size": "Máxima: 7,2 cm (macho) y 6,8 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive sobre fondos fangosos y arenosos de la plataforma continental y ha sido recolectado entre 3,5 y 75 m de profundidad.",
+   "fisheries": "Aunque es probablemente la especie de Calappidae más abundante en nuestro área de pesca, H. kossmanni no es explotado comercialmente. Su talla es comparable a aquella de H. chilensis, una especie explotada localmente a nivel artesanal en las costas de Chile donde se consume fresca. H. kossmanni es extremadamente común en las capturas de arrastre camaroneras a través de todo el Pacífico centro-oriental."
+  },
+  "children": []
+ },
+ {
+  "id": "hepatus",
+  "rank": "genus",
+  "scientificName": "Hepatus",
+  "parent": "Calappidae",
+  "children": [
+   "Hepatus kossmanni",
+   "Hepatus lineatus"
+  ]
+ },
+ {
+  "id": "hepatus-lineatus",
+  "rank": "species",
+  "scientificName": "Hepatus lineatus",
+  "parent": "Hepatus",
+  "author": "Rathbun, 1898",
+  "faoCode": "CAL Hepa 2",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Cajeta moteada; Fr - Migraine tachetée; In - Spoted box crab.",
+   "distinctive": "Caparazón fuertemente arqueado, alto; frente ligeramente prominente, rebasando el nivel de las cavidades suborbitarias; márgenes ántero-laterales levemente denticulados, recortados en dientes irregulares, mal definidos en ejemplares adultos; márgenes póstero-laterales sinuosos, sin dientes fuertes. Cuarto segmento abdominal del macho con varios pares de protuberancias de diferentes tamaños. Borde superior de la pinza transformado en una cresta recortada en 4 dientes agudos, triangulares, bien definidos y desprovistos de tubérculos. Superficie externa de la mano recubierta de grandes tubérculos redondeados o aplanados. Color: cuerpo rojo-púrpura, con numerosos pequeños círculos (o manchas) amarillos o anaranjados que cubren todo el caparazón, parte del abdomen, y gran parte de los pereiópodos.",
+   "size": "Máxima: 12,9 cm (macho) y 9,8 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive en la zona intermareal (parte norte del golfo) y sobre la plataforma continental, a menudo enterrado en la arena. Habitualmente se encuentra sobre fondos arenosos en aguas poco profundas, pero ha sido recolectado en profundidades de hasta 185 m.",
+   "fisheries": "Es la especie más grande del género Hepatus en el Pacífico americano. Se concentra principalmente en el golfo de California, México. No se explota comercialmente en el área, pero suele aprovecharse a nivel local, ya que es común en las capturas de arrastre camaroneras (especialmente de especies del género Penaeus) en las regiones norte y central del golfo, y también es abundante en las aguas someras de bahías o ensenadas de fondos arenosos en la parte norte del Golfo."
+  },
+  "children": []
+ },
+ {
+  "id": "hepatella",
+  "rank": "genus",
+  "scientificName": "Hepatella",
+  "parent": "Calappidae",
+  "children": [
+   "Hepatella amica",
+   "Hepatella peruviana"
+  ]
+ },
+ {
+  "id": "osachila",
+  "rank": "genus",
+  "scientificName": "Osachila",
+  "parent": "Calappidae",
+  "children": [
+   "Osachila acuta",
+   "Osachila lata",
+   "Osachila levis",
+   "Osachila sona"
+  ]
+ },
+ {
+  "id": "cancer-johngarthi",
+  "rank": "species",
+  "scientificName": "Cancer johngarthi",
+  "parent": "Cancer",
+  "author": "Carvacho, 1989",
+  "faoCode": "CAN Can 7",
+  "sheet": {
+   "otherNames": "Cancer porteri (en parte).",
+   "vernacular": "FAO: Es - Jaiba limón del norte; Fr - Tourteau citrón du nord; In - Northern lemon rock crab.",
+   "distinctive": "Caparazón muy ancho, fuertemente ovalado, sus márgenes póstero-laterales casi rectos; fisuras entre los dientes del margen ántero-lateral poco definidas; dientes anchos, más bien rectangulares, proyectados levemente fuera del contorno general del caparazón, sus bordes provistos de gránulos. Carpo de la pinza con un diente piramidal ántero-dorsal; puntas y bordes de los dedos, negros. Se asemeja a Cancer porteri (Perú hasta Chile), especie con la cual fué confundido hasta recientemente. Color: caparazón amarillo.",
+   "size": "Máxima: 14 cm de anchura de caparazón.",
+   "habitat": "Ha sido encontrado en profundidades de 61 a 523 m, sobre fondos blandos. Es una de las pocas especies del género Cancer distribuidas en mares tropicales, pero en aguas más profundas, de temperaturas inferiores a 15° C.",
+   "fisheries": "Aparece con cierta frecuencia en las capturas de arrastre camaroneras frente a las costas de Baja California (México) y por su gran talla representa un recurso pesquero de interés comercial. No existe información precisa sobre su abundancia en la parte sur de su área de distribución, donde ha sido recolectado ocasionalmente a profundidades superiores a los 300 m."
+  },
+  "children": []
+ },
+ {
+  "id": "cancer",
+  "rank": "genus",
+  "scientificName": "Cancer",
+  "parent": "Cancridae",
+  "children": [
+   "Cancer johngarthi",
+   "Cancer amphioetus",
+   "Cancer antennarius"
+  ]
+ },
+ {
+  "id": "cancer-amphioetus",
+  "rank": "species",
+  "scientificName": "Cancer amphioetus",
+  "parent": "Cancer",
+  "author": "Rathbun, 1898",
+  "faoCode": "CAN Can 5",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Jaiba japonés; Fr - Tourteau japonais; In - Japanese rock crab.",
+   "distinctive": "Talla pequeña (hasta unos 5 cm). Fisuras entre los dientes del margen ántero-lateral del caparazón profundas y bien definidas; dientes subtriangulares, puntiagudos y proyectados netamente fuera del contorno general del caparazón; margen póstero-lateral sinuoso. Carpo del quelípedo con 2 espinas subterminales; borde superior de la pinza con tubérculos irregulares; dedos completamente negros, salvo una pequeña área cerca de la base del dáctilo; superficie externa de la mano recubierta de tubérculos bien marcados. Color: caparazón café-grisáceo, protuberancias posteriores de color café más oscuro. Pereiópodos crema con franjas transversales café oscuras; quelípedos con manchas café oscuras.",
+   "size": "Máxima: 4,1 cm (macho) y 3,8 cm (hembra) de anchura de caparazón (tallas máximas para el área de pesca No. 77).",
+   "habitat": "Ejemplares adultos de esta especie han sido capturados entre 8 y 111 m de profundidad frente a la costa americana, mientras los juveniles (hasta 1,6 cm de anchura de caparazón) fueron encontrados entre 162 y 380 m dentro del golfo de California. Frente a las costas asiáticas, la profundidad máxima de captura para los adultos de esta especie es de 310 m.",
+   "fisheries": "Por su talla relativamente reducida, Cancer amphioetus no representa un recurso pesquero de gran interés comercial. Sin embargo, aparece regularmente en las capturas de arrastre comerciales y experimentales de camarones Peneidos, así como en dragados profundos en la parte central del golfo de California."
+  },
+  "children": []
+ },
+ {
+  "id": "cancer-antennarius",
+  "rank": "species",
+  "scientificName": "Cancer antennarius",
+  "parent": "Cancer",
+  "author": "Stimpson, 1856",
+  "faoCode": "CAN Can 6",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Jaiba roja de California; Fr - Tourteau rouge de Californie; In - California red rock crab.",
+   "distinctive": "Talla grande (hasta 18 cm). Fisuras entre los dientes del margen ántero-lateral profundas y bien definidas; dientes subtriangulares, puntiagudos y proyectados netamente fuera del contorno general del caparazón. Carpo del quelípedo con una sola espina subterminal; borde dorsal de la quela liso; superficie externa de la mano con granulaciones finas; dedo móvil negro sólo en poco más de su mitad distal. Color: color del cuerpo rojo oscuro, generalmente salpicado con zonas amarillentes. Superficie ventral blanco-amarillenta con lunares rojos.",
+   "size": "Máxima: 17,8 cm (macho) y 14,8 cm (hembra) de anchura del caparazón.",
+   "habitat": "Esta especie ha sido encontrada hasta profundidades de unos 40 m, sobre fondos de grava o entre pasto marino. Es un habitante típico de la zona intermareal en áreas semiprotegidas, entre o bajo las rocas, o parcialmente enterrado en la arena. Se observan hembras grávidas preferentemente en invierno.",
+   "fisheries": "Cancer antennarius representa un recurso pesquero importante a lo largo de las costas de California y de Baja California. En el extremo sur de su área de distribución es menos abundante, pero allí también es explotado comercialmente."
+  },
+  "children": []
+ },
+ {
+  "id": "ethusa",
+  "rank": "genus",
+  "scientificName": "Ethusa",
+  "parent": "Dorippidae",
+  "children": [
+   "Ethusa ciliatifrons",
+   "Ethusa lata",
+   "Ethusa panamensis",
+   "Ethusa steyaerti"
+  ]
+ },
+ {
+  "id": "ethusina",
+  "rank": "genus",
+  "scientificName": "Ethusina",
+  "parent": "Dorippidae",
+  "children": [
+   "Ethusina faxoni",
+   "Ethusina gracilipes",
+   "Ethusina robusta",
+   "Ethusina smithiana"
+  ]
+ },
+ {
+  "id": "cardisoma-crassum",
+  "rank": "species",
+  "scientificName": "Cardisoma crassum",
+  "parent": "Cardisoma",
+  "author": "Smith, 1870",
+  "faoCode": "GECAR Cardis 3",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Moro sin boca; Fr - Tombourou voyageur; In - Mouthless land crab.",
+   "distinctive": "Regiones pterigostomianas (a ambos lados del cuadro bucal) recubiertas de pelos. Órbitas anchas, colocadas en posición casi lateral; distancia órbito-frontal (entre los bordes externos de las órbitas) superior a la mitad de la anchura del caparazón; frente ancha, más angosta en su margen inferior; diente orbital externo fuerte, puntiagudo, triangular. Carpo de la pinza con una fuerte espina ántero-lateral bien visible dorsalmente. Color: caparazón azul con tonos grisáceos; lado ventral crema. Pinza mayor de color amarillo a crema; dáctilos de los pereiópodos rojo escarlata.",
+   "size": "Máxima: 13,2 cm de anchura del caparazón (talla máxima conocida).",
+   "habitat": "Esta especie construye madrigueras en el suelo cerca de lagunas saladas o salobres, a menudo dotadas de múltiples entradas. Su presencia ha sido registrada en toda la zona litoral cerca de manglares, a lo largo de escurrimientos de agua y ríos, y en general, en terrenos salinos. Suele encontrarse también debajo de las casas y en campos de cultivo cercanos a la costa. Durante la época de reproducción, las hembras realizan migraciones para depositar los huevos en el agua.",
+   "fisheries": "Contrariamente a la especie congénere de la costa Atlántica de América, Cardisoma guanhumi, la cual es objeto de una intensiva explotación comercial, C. crassum es aprovechada sólo localmente en la parte sur del área de pesca No. 77. Se captura a mano y se comercializa fresco en los mercados locales. También se utiliza ocasionalmente a nivel de subsistencia en México, Costa Rica, Panamá, y Ecuador, especialmente durante la época de migración, cuando la gran masa de la población se dirige hacia los espejos de agua (lagunas, esteros y estuarios) para depositar sus huevos. El tamaño de esta especie, y en particular el de su pinza mayor, justifican su utilización como recurso alimentario."
+  },
+  "children": []
+ },
+ {
+  "id": "cardisoma",
+  "rank": "genus",
+  "scientificName": "Cardisoma",
+  "parent": "Gecarcinidae",
+  "children": [
+   "Cardisoma crassum"
+  ]
+ },
+ {
+  "id": "gecarcinus-quadratus",
+  "rank": "species",
+  "scientificName": "Gecarcinus quadratus",
+  "parent": "Gecarcinus",
+  "author": "de Saussure, 1853",
+  "faoCode": "GECAR Gecar 3",
+  "subgenus": "Gecarcinus",
+  "sheet": {
+   "otherNames": "Gecarcinus lateralis quadratus de Saussure, 1853",
+   "vernacular": "FAO: Es - Moro de manchas blancas; Fr - Tombourou à taches blanches; In - Whitespotted land crab.",
+   "distinctive": "Caparazón moderadamente ancho. Ojos muy céntricos, órbitas angostas, de forma casi circular; distancia órbito-frontal (entre los bordes externos de las órbitas) inferior a la mitad de la anchura del caparazón; diente orbital externo reducido a un tubérculo; borde inferior de la órbita con una profunda fisura. Ángulo ántero-lateral del carpo del quelípedo sin diente bien marcado. Borde anterior del mero del tercer maxilípedo sin muesca. Color: zona medio-dorsal del caparazón azul oscura, malva o café-rojiza, con dos manchas blancas en la región cardíaca; resto del caparazón de color ocre a anaranjado. Pinza mayor de tonalidad malva clara. Región ventral blanquecina.",
+   "size": "Máxima: 6,4 cm (macho) y 5,7 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "G. quadratus vive en las zonas fango-arenosas de los manglares (bosques de Avicennia) y en los bosques halófilos de transición; es también muy abundante en la vegetación costera de las dunas, cerca de manglares o de la desembocadura de lagunas costeras. En zonas pobladas por el hombre, invade las habitaciones y depósitos de basura. Ha sido registrado desde la línea del agua hasta zonas boscosas elevadas y es capaz de trepar árboles. Generalmente construye madrigueras de hasta 50 cm de profundidad. Depende del medio acuático para su reproducción.",
+   "fisheries": "Es posiblemente la especie de Gecarcinidae más común dentro del área, pero no es objeto de explotación comercial, probablemente debido a su talla algo reducida. Es utilizado ocasionalmente como alimento a nivel de subsistencia."
+  },
+  "children": []
+ },
+ {
+  "id": "gecarcinus",
+  "rank": "genus",
+  "scientificName": "Gecarcinus",
+  "parent": "Gecarcinidae",
+  "children": [
+   "Gecarcinus quadratus",
+   "Gecarcinus planatus",
+   "Gecarcinus malpilensis"
+  ]
+ },
+ {
+  "id": "gecarcinus-planatus",
+  "rank": "species",
+  "scientificName": "Gecarcinus planatus",
+  "parent": "Gecarcinus",
+  "author": "Stimpson, 1860",
+  "faoCode": "GECAR Gecar 2",
+  "subgenus": "Johngarthia",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Moro rojo (del Pacífico); Fr - Tombourou rouge (du Pacifique); In - Red (Pacific) land crab.",
+   "distinctive": "Caparazón mucho más ancho que largo. Ojos muy céntricos, órbitas angostas, de forma casi circular; distancia órbito-frontal (entre los bordes externos de las órbitas) inferior a la mitad de la anchura del caparazón; diente orbital externo reducido a un tubérculo; borde inferior de la órbita con una profunda fisura. Carpo del quelípedo liso o con una pequeña cresta dentada en el ángulo ántero-lateral. Mero del tercer par de maxilípedos alargado, con una muesca profunda en forma de \"V\" en el margen anterior. Color: tonalidad general del cuerpo rojo vivo o café rojizo, a veces con máculas de color púrpura. Pereiópodos rojo-púrpura, con el dáctilo rojo oscuro. Región ventral amarillenta.",
+   "size": "Máxima: 10,4 cm (macho) y 8,2 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "A pesar de algunas capturas realizadas en la costa continental, Gecarcinus planatus es esencialmente una especie insular. Muchos de los registros \"continentales\" corresponden, de hecho, a ejemplares recolectados en islotes cercanos a la costa. Puede encontrarse desde la orilla del mar hasta unos 120 m de altura, pero su hábitat típico son las zonas rocosas y sustratos blandos por encima de la línea de mareas. También es común bajo raíces o troncos, o entre vegetación muerta. Busca refugio en madrigueras poco profundas y se alimenta de noche.",
+   "fisheries": "No es objeto de explotación regular. Su gran abundancia en las islas y su talla relativamente grande permiten suponer que es aprovechado ocasionalmente por lo menos a nivel de subsistencia."
+  },
+  "children": []
+ },
+ {
+  "id": "gecarcinus-malpilensis",
+  "rank": "species",
+  "scientificName": "Gecarcinus malpilensis",
+  "parent": "Gecarcinus",
+  "children": []
+ },
+ {
+  "id": "plagusiinae",
+  "rank": "subfamily",
+  "scientificName": "Plagusiinae",
+  "parent": "Grapsidae",
+  "children": [
+   "Plagusia",
+   "Percnon"
+  ],
+  "note": "Géneros Plagusia y Percnon."
+ },
+ {
+  "id": "sesarminae",
+  "rank": "subfamily",
+  "scientificName": "Sesarminae",
+  "parent": "Grapsidae",
+  "children": [
+   "Aratus",
+   "Armases",
+   "Sesarma"
+  ],
+  "note": "Géneros Aratus, Armases y Sesarma. Aratus tiene una sola especie (A. pisonii), arborícola en bosques de mangle; Armases tiene 3 especies y Sesarma, 4."
+ },
+ {
+  "id": "grapsinae",
+  "rank": "subfamily",
+  "scientificName": "Grapsinae",
+  "parent": "Grapsidae",
+  "children": [
+   "Grapsus",
+   "Goniopsis"
+  ],
+  "note": "Incluye 7 géneros presentes en el área y 15 especies en el Pacífico centro-oriental; solo dos son de interés para la pesca (a nivel de subsistencia): Grapsus grapsus y Goniopsis pulchra. Solo se asignan a esta subfamilia los géneros que el documento nombra (Fig. 3a y b); no nombra los demás."
+ },
+ {
+  "id": "varuninae",
+  "rank": "subfamily",
+  "scientificName": "Varuninae",
+  "parent": "Grapsidae",
+  "children": [
+   "Tetragrapsus"
+  ],
+  "note": "Tetragrapsus jouyi."
+ },
+ {
+  "id": "ucides",
+  "rank": "genus",
+  "scientificName": "Ucides",
+  "parent": "Ocypodidae",
+  "children": [
+   "Ucides occidentalis"
+  ]
+ },
+ {
+  "id": "ocypode",
+  "rank": "genus",
+  "scientificName": "Ocypode",
+  "parent": "Ocypodidae",
+  "children": [
+   "Ocypode ceratophthalma",
+   "Ocypode gaudichaudii",
+   "Ocypode occidentalis"
+  ]
+ },
+ {
+  "id": "uca",
+  "rank": "genus",
+  "scientificName": "Uca",
+  "parent": "Ocypodidae",
+  "children": [
+   "Uca argillicola",
+   "Uca batuenta",
+   "Uca beebei",
+   "Uca brevifrons",
+   "Uca crenulata coloradensis",
+   "Uca crenulata crenulata",
+   "Uca deichmanni",
+   "Uca dorotheae",
+   "Uca galapagensis",
+   "Uca heteropleura",
+   "Uca inaequalis",
+   "Uca latimanus",
+   "Uca leptochela",
+   "Uca limicola",
+   "Uca maracoani insignis",
+   "Uca oerstedi",
+   "Uca ornata",
+   "Uca panamensis",
+   "Uca princeps monilifera",
+   "Uca princeps princeps",
+   "Uca pygmaea",
+   "Uca saltitanta",
+   "Uca stenodactylus",
+   "Uca stylifera",
+   "Uca tallanica",
+   "Uca tenuipedis",
+   "Uca thayeri umbratila",
+   "Uca tomentosa",
+   "Uca vocator ecuadoriensis",
+   "Uca zacae",
+   "Uca festae",
+   "Uca musica musica",
+   "Uca musica terpsichores"
+  ]
+ },
+ {
+  "id": "euphylax-dovii",
+  "rank": "species",
+  "scientificName": "Euphylax dovii",
+  "parent": "Euphylax",
+  "author": "Stimpson, 1860",
+  "faoCode": "PORT Euphy 1",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Jaiba marciana; Fr - Crabe nageur marciane; In - Pelagic swimcrab.",
+   "distinctive": "Caparazón blando, de forma subrectangular, de márgenes laterales convexos divididos en 4 o 5 dientes cortos, el posterior muy reducido. Frente en forma de \"T\". Pedúnculos oculares extremadamente largos, su longitud por lo menos igual a un tercio de la anchura del caparazón, distancia entre los extremos de los ojos aproximadamente igual a un 70% de la anchura del caparazón. Propodio y dáctilo de los pereiópodos 2, 3 y 4 típicamente aplanados, al igual que el propodio y el dáctilo del quinto par. Pinza larga y delgada, su longitud aproximadamente 4 veces mayor que su altura; borde anterior del mero del quelípedo con 4 a 6 espinas o tubérculos pequeños. Color: caparazón y mero de todos los pereiópodos de color morado, los demás artejos de las patas enteramente de color tinto. Región ventral azulada, salvo el esternón que es blanco y el abdomen de tono café.",
+   "size": "Máxima: 8,7 cm de anchura del caparazón (talla máxima conocida).",
+   "habitat": "Una especie bentónica (desde la zona intermareal hasta unos 60 m de profundidad) y pelágica (hasta distancias de por lo menos 1 200 millas náuticas de la costa). Durante su fase pelágica constituye una componente importante de la dieta de atunes y aves marinas. Euphylax dovii y Portunus xantusii son las únicas dos especies de braquiuros pelágicos del Pacífico central tropical.",
+   "fisheries": "Durante su fase bentónica, E. dovii ha sido capturado con redes de arrastre sólo en pocas localidades del área. Sin embargo, se han detectado ocasionalmente poblaciones muy grandes (capturas del orden de 1 tonelada por arrastre) frente a las costas de México, por lo cual podría representar un recurso pesquero interesante. Es capturado con redes de arrastre y de cerco y con varios aparejos de tipo artesanal, utilizándose como producto fresco a nivel de subsistencia. Probablemente representa un recurso potencial para la elaboración de harina. Ejemplares capturados durante su fase pelágica se utilizan ocasionalmente como cebo en la pesca del atún."
+  },
+  "children": []
+ },
+ {
+  "id": "euphylax",
+  "rank": "genus",
+  "scientificName": "Euphylax",
+  "parent": "Portunidae",
+  "children": [
+   "Euphylax dovii",
+   "Euphylax robustus"
+  ]
+ },
+ {
+  "id": "euphylax-robustus",
+  "rank": "species",
+  "scientificName": "Euphylax robustus",
+  "parent": "Euphylax",
+  "author": "A. Milne Edwards, 1874",
+  "faoCode": "PORT Euphy 2",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Jaiba robusta; Fr - Crabe nageur robuste; In - Robust swimcrab.",
+   "distinctive": "Caparazón subrectangular, de consistencia dura, con los márgenes laterales oblicuos, divididos en 4 o 5 dientes ántero-laterales, el anterior y el posterior bien desarrollados. Frente en forma de \"T\". Pedúnculos oculares extremadamente largos, su longitud por lo menos igual a un tercio de la anchura del caparazón; distancia entre los extremos de los ojos aproximadamente 80% de la anchura del caparazón. Propodio y dáctilo aplanados sólo en el quinto par de pereiópodos. Quelípedos con pinza corta y muy robusta, su longitud comprendida menos de 4 veces en la altura; borde anterior del mero con 3 fuertes espinas. Color: caparazón y parte dorsal de las patas de color azul a azul-verdoso con tonos grisáceos. Mano y dáctilo de las pinzas café-aceitunado con tonos rosados. Pedúnculos oculares de color violeta. Superficie ventral de los pereiópodos y abdomen blancos y violetas.",
+   "size": "12 cm (macho) y 10,1 cm (hembra) de anchura del caparazón.",
+   "habitat": "Especie bentónica que vive sobre fondos lodosos y areno-lodosos, entre 10 y 66 m de profundidad. No presenta una fase pelágica.",
+   "fisheries": "Esta especie aparece frecuentemente en las capturas de arrastre camaroneras en todo el área de pesca. Representa un recurso pesquero interesante por su talla relativamente grande y por el gran tamaño y el espesor de sus pinzas. Es utilizada a nivel de subsistencia o como alimento ocasional por parte de los pescadores, pero no se comercializa regularmente. Representa, junto con otras especies de portúnidos de menor talla pero más abundantes, una fuente potencial para la elaboración de harina."
+  },
+  "children": []
+ },
+ {
+  "id": "cronius-ruber",
+  "rank": "species",
+  "scientificName": "Cronius ruber",
+  "parent": "Cronius",
+  "children": [],
+  "faoCode": "PORT Cron 1"
+ },
+ {
+  "id": "cronius",
+  "rank": "genus",
+  "scientificName": "Cronius",
+  "parent": "Portunidae",
+  "children": [
+   "Cronius ruber"
+  ]
+ },
+ {
+  "id": "arenaeus-mexicanus",
+  "rank": "species",
+  "scientificName": "Arenaeus mexicanus",
+  "parent": "Arenaeus",
+  "author": "(Gerstaecker, 1856)",
+  "faoCode": "PORT Aren 2",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Jaiba arenera; Fr - Crabe de sable; In - Sand swimcrab.",
+   "distinctive": "Caparazón con 9 dientes ántero-laterales iguales o subiguales, salvo el noveno que es mucho más largo que el precedente. Pedúnculos oculares mucho más cortos que un tercio de la anchura del caparazón; fisura supraorbital profunda, ancha y en forma de \"V\", bien visible dorsalmente. Superficie externa de la mano del quelípedo con 1 o 2 espinas o dientes bien marcados; ángulo medial del carpo con una espina o tubérculo relativamente pequeño. Color: caparazón de tonalidad variable, generalmente verde claro con las regiones laterales café o gris-negruzco, casi enteramente recubierto de manchas circulares blancas o rosadas. Pereiópodos grisáceos con puntos negros o gris-azulados; dáctilo del quinto pereiópodo amarillo.",
+   "size": "Máxima: 8,2 cm (macho) y 6,5 cm (hembra) de anchura del caparazón (espinas laterales incluidas).",
+   "habitat": "Vive en las zonas más someras de la plataforma continental, predominantemente sobre fondos arenosos, pero también lodosos o mixtos, en condiciones de salinidad normales (de unos 30 a 35 ‰). Es capturado generalmente entre 10 y 40 m de profundidad, ocasionalmente en aguas más profundas (hasta 80 m) y es común encontrarlo muy cerca de la zona intermareal, entre pasto marino o sobre rocas o sustrato arenoso.",
+   "fisheries": "Explotado localmente a nivel artesanal en el sur del área (Colombia) y fuera del área (Perú), donde se comercializa en fresco. En el norte del área aparece comúnmente en las capturas de arrastre camaroneras provenientes de zonas poco profundas, pero es generalmente desechado."
+  },
+  "children": []
+ },
+ {
+  "id": "arenaeus",
+  "rank": "genus",
+  "scientificName": "Arenaeus",
+  "parent": "Portunidae",
+  "children": [
+   "Arenaeus mexicanus"
+  ]
+ },
+ {
+  "id": "portunus",
+  "rank": "genus",
+  "scientificName": "Portunus",
+  "parent": "Portunidae",
+  "children": [
+   "Portunus acuminatus",
+   "Portunus asper",
+   "Portunus brevimanus",
+   "Portunus guaymasensis",
+   "Portunus iridescens",
+   "Portunus stanfordi",
+   "Portunus tuberculatus",
+   "Portunus xantusii"
+  ]
+ },
+ {
+  "id": "callinectes-bellicosus",
+  "rank": "species",
+  "scientificName": "Callinectes bellicosus",
+  "parent": "Callinectes",
+  "author": "(Stimpson, 1859)",
+  "faoCode": "PORT Call 14",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Jaiba guerrera; Fr - Crabe nageur soldat; In - Warrior swimcrab.",
+   "distinctive": "Caparazón con 9 dientes ántero-laterales iguales o subiguales, salvo el noveno que es más de 2 veces más largo que el margen posterior del diente inmediatamente precedente. Dientes centrales de la frente muy reducidos, a veces completamente obsoletos. Pedúnculos oculares cortos; fisura supraorbital bien definida, pero no muy ancha. Superficie externa de la mano del quelípedo con 1 o 2 dientes bien marcados; ángulo medial del carpo sin espina, abdomen del macho en forma de \"T\", el sexto segmento más ancho en la base (contigua al quinto segmento), bordes laterales de la base netamente divergentes. Telson de la hembra en forma de triángulo equilátero. Color: caparazón jaspeado, amarillo-verdoso a café-verdoso, ocasionalmente con marcas negras cerca de las órbitas y en la región branquial. Quelípedos con mero y carpo verde-amarillentos a café-verdosos, articulación del carpo rojo morada, y articulación del dedo móvil de la pinza con una mancha azul-verdosa o morada.",
+   "size": "Máxima: 17 cm (macho) y 14 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive en bahías arenosas y lagunas costeras, generalmente en aguas claras de salinidades cercanas o iguales a la del agua del mar (entre unos 30 y 38 ‰), desde la zona intermareal hasta unos 20 m de profundidad. Durante la temporada de calor efectúa migraciones limitadas a aguas más profundas.",
+   "fisheries": "Es capturado principalmente en bahías y lagunas abiertas. Gracias a su talla relativamente grande (hasta más de 0,5 kg de peso fresco por individuo) y particualrmente, por el gran tamaño de sus pinzas, esta especie se vende fresca en los mercados. Es abundante durante todo el año y su explotación no está reglamentada. Se captura con atarrayas, chinchorros, redes de cuchara, líneas con carnadas y trampas. La producción de especies de Callinectes para la costa Pacífica septentrional de México (de la cual C. bellicosus probablemente representa un buen porcentaje) alcanza unas 2 000 t anuales. A pesar de su abundancia en bahías someras del golfo de California, se aprovecha regularmente sólo en una parte de esa zona."
+  },
+  "children": []
+ },
+ {
+  "id": "callinectes",
+  "rank": "genus",
+  "scientificName": "Callinectes",
+  "parent": "Portunidae",
+  "children": [
+   "Callinectes bellicosus",
+   "Callinectes exasperatus",
+   "Callinectes arcuatus",
+   "Callinectes toxotes"
+  ]
+ },
+ {
+  "id": "callinectes-exasperatus",
+  "rank": "species",
+  "scientificName": "Callinectes exasperatus",
+  "parent": "Callinectes",
+  "children": [],
+  "faoCode": "PORT Call 5"
+ },
+ {
+  "id": "callinectes-arcuatus",
+  "rank": "species",
+  "scientificName": "Callinectes arcuatus",
+  "parent": "Callinectes",
+  "author": "Ordway, 1863",
+  "faoCode": "PORT Call 13",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Jaiba cuata; Fr - Crabe couata; In - Cuata swimcrab.",
+   "distinctive": "Caparazón con 9 dientes ántero-laterales iguales o subiguales, salvo el noveno que es más de 2 veces más largo que el margen posterior del diente inmediatamente precedente. Dientes centrales de la frente bien desarrollados, aunque siempre más pequeños que los dientes laterales; estos últimos en forma de triángulo agudo. Pedúnculos oculares cortos; fisura supraorbital bien definida pero no muy ancha. Superficie externa de la mano del quelípedo con 1 a 2 espinas o dientes bien marcados; ángulo medial del carpo sin espina, abdomen del macho en forma de \"T\", el sexto segmento más ancho en su base (contigua al quinto segmento ), bordes laterales de la base netamente divergentes. Telson de la hembra en forma de triángulo equilátero. Color: caparazón verde o aceitunado grisáceo. Quelípedos verde aceitunados dorsalmente, blancos ventralmente, con tonos azul-morados; extremidad de la pinza café-amarillenta. Pereiópodos verde-aceitunados, con reflejos de color turquesa; unión de los artejos con tubérculos anaranjados.",
+   "size": "Máxima: 14 cm (macho) y 12 cm (hembra) de anchura del caparazón. Se cita un ejemplar de 15 cm de sexo no determinado (tallas máximas conocidas).",
+   "habitat": "Vive en estuarios y sistemas lagunares costeros, así como en aguas marinas costeras, sobre fondos lodosos, lodo-arenosos y de lodo mezclado con conchuela. Se captura comúnmente en canales de zonas de manglares, cerca de las bocas de ríos y lagunas y en la plataforma continental hasta unos 40 m de profundidad. Es muy tolerante a variaciones de salinidad, encontrándose regularmente en aguas de salinidades que varían entre 1 y 65 ‰. Migra hacia las bocas de los sistemas lagunares-estuarinos y aguas marinas costeras durante la época de lluvias.",
+   "fisheries": "Es capturado en todo el área de pesca, tanto en la plataforma continental (fauna acompañante de las capturas de arrastre de camarones del género Penaeus), como especialmente en aguas estuarinas y lagunares (junto con camarones de aguas salobres o soto, con atarrayas, chinchorros, redes del tipo cuchara, líneas de mano y ocasionalmente, redes de arrastre). Muy abundante en aguas costeras durante la época de sequía. Su utilización como recurso pesquero es limitada debido a su talla media relativamente pequeña. Es explotado localmente en Colombia y México, donde es ofrecido como producto fresco en los mercados locales y utilizado como carnada; una pequeña parte del producto es exportada. Además se aprovecha al nivel de subsistencia."
+  },
+  "children": []
+ },
+ {
+  "id": "callinectes-toxotes",
+  "rank": "species",
+  "scientificName": "Callinectes toxotes",
+  "parent": "Callinectes",
+  "author": "Ordway, 1863",
+  "faoCode": "PORT Call 15",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Jaiba gigante; Fr - Crabe nageur géant; In - Giant swimcrab.",
+   "distinctive": "Caparazón con 9 dientes ántero-laterales iguales o subiguales, salvo el noveno que es más de 2 veces más largo que el margen posterior del diente inmediatamente precedente. Dientes centrales de la frente bien desarrollados, aunque siempre más pequeños que los dientes laterales, éstos últimos en forma de lóbulo. Pedúnculos oculares cortos; fisura supraorbital visible, pero no muy ancha. Superficie externa de la mano del quelípedo con 1 o 2 dientes bien marcados; ángulo medial del carpo sin espina. Abdomen del macho en forma de \"T\", el sexto segmento más angosto en la base (contigua al quinto segmento), bordes laterales de la base casi paralelos. Telson de la hembra en forma de un triángulo más largo que ancho. Color: no descrito.",
+   "size": "Máxima: 19,1 cm (macho) y 14,5 cm (hembra) de anchura del caparazón.",
+   "habitat": "Vive en lagunas costeras y estuarios a profundidades de hasta 30 m, generalmente en aguas de salinidad inferior a 30 ‰, pero tolera variaciones de 0 a 55 ‰.",
+   "fisheries": "Raro en la porción septentrional de su área de distribución, pero explotado localmente en Colombia. Al igual que las demás especies del género, se captura con atarrayas, chinchorros, trampas y líneas con carnadas."
+  },
+  "children": []
+ },
+ {
+  "id": "ethusa-ciliatifrons",
+  "rank": "species",
+  "scientificName": "Ethusa ciliatifrons",
+  "parent": "Ethusa",
+  "author": "Faxon, 1893",
+  "faoCode": "DORIP Ethu 1",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Etusa ciliada gigante; Fr - Ethuse ciliée géante; In - Giant ciliate Ethusa.",
+   "distinctive": "Caparazón más ancho que largo; su superficie dorsal cubierta de gránulos; regiones branquiales fuertemente hinchadas y confluyentes en la línea media. Pinza mayor del macho fuerte y completamente cubierta de gránulos; mano alargada, dáctilo casi recto. Color: caparazón café-grisáceo. Segundo y tercer pares de pereiópodos blanco-crema con franjas transversales rojas, 2 franjas en el mero y una en cada uno de los demás artejos distales. Quelípedos casi totalmente rojo-siena o café.",
+   "size": "Máxima: 6 cm (macho) y 4,5 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Esta especie ha sido capturada entre 24 y 410 m de profundidad, sobre fondos blandos, lodosos (limo-arcillosos) o arenosos (arena fina o arena con limo). En ocasiones ha sido encontrada en condiciones de oxigenación muy precarias. Es de talla mucho mayor que las demás especies de Dorippidae de la costa americana y probablemente una de las más grandes a nivel mundial.",
+   "fisheries": "Los ejemplares más grandes de esta especie han sido capturados en una operación de arrastre experimental en el golfo de California, a 98 m de profundidad. No es explotada comercialmente."
+  },
+  "children": []
+ },
+ {
+  "id": "grapsus-grapsus",
+  "rank": "species",
+  "scientificName": "Grapsus grapsus",
+  "parent": "Grapsus",
+  "author": "(Linnaeus, 1758)",
+  "faoCode": "GRAPS Graps 1",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Abuete negro; Fr - Anglette commune; In - Lightfoot crab.",
+   "distinctive": "Caparazón en ejemplares adultos casi circular, recorrido por crestas transversales; frente y margen posterior casi rectos. Un solo diente ántero-lateral por detrás del diente externo de la órbita. Frente menos ancha que la mitad de la anchura del caparazón, en posición vertical con respecto al caparazón, su margen ventral convexo y el dorsal sinuoso, provisto de 4 lóbulos. Anténulas replegadas por debajo de la frente e invisibles dorsalmente. Parte ventral (visible) del mero del tercer par de maxilípedos sin cresta oblicua y peluda. Borde ventral de la órbita prolongado ventralmente hacia el cuadro bucal. Quelípedos con numerosos tubérculos y espinas, extremos de los dedos en forma de cuchara. Segundo a quinto par de pereiópodos aplanados y recorridos por crestas, dáctilo espinoso; una serie de dientes puntiagudos en el borde distal inferior del mero de los pereiópodos 2 a 4. Isquio y mero del tercer maxilípedo sin cresta oblicua y peluda. Color: caparazón de tonalidad variable, desde gris verdoso o azul (casi negro) hasta café rojizo moteado con manchas blancas. Pinzas negras con extremos blancos.",
+   "size": "Máxima: 9 cm (macho) y 7,9 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive entre las rocas más grandes a nivel de la línea del agua, en zonas de acantilados y vertientes abruptas expuestas a fuerte oleaje, siempre siguiendo el movimiento de las mareas.",
+   "fisheries": "No es un recurso importante y se explota sólo localmente a nivel artesanal. Capturado a mano o con pequeñas redes de mano y utilizado como producto fresco. Extremadamente difícil de capturar de día por su agilidad, pero es una presa fácil durante la noche cuando permanece casi inmóvil entre las rocas."
+  },
+  "children": []
+ },
+ {
+  "id": "grapsus",
+  "rank": "genus",
+  "scientificName": "Grapsus",
+  "parent": "Grapsinae",
+  "children": [
+   "Grapsus grapsus"
+  ]
+ },
+ {
+  "id": "goniopsis-pulchra",
+  "rank": "species",
+  "scientificName": "Goniopsis pulchra",
+  "parent": "Goniopsis",
+  "author": "(Lockington, 1876)",
+  "faoCode": "GRAPS Goniops 2",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Caraña de mangle; Fr - Anglette des mangroves; In - Racer mangrove crab.",
+   "distinctive": "Caparazón casi cuadrilateral, un poco más ancho que largo, sus márgenes ántero-laterales con un solo diente por detrás del diente externo de la órbita. Frente en posición vertical, su anchura igual o superior a la mitad de aquella del caparazón. Antenas excluidas de la órbita, flagelo antenal sin acceso a la órbita. Anténulas replegadas por debajo de la frente e invisibles dorsalmente. Parte ventral (visible) del mero del tercer par de maxilípedos sin cresta oblicua y peluda. Borde ventral de la órbita prolongado ventralmente hacia el cuadro bucal. Una franja de pelos a los lados de la depresión entre las coxas de los pereiópodos del tercer y del cuarto par. Color: caparazón y superficie dorsal de los pereiópodos de color rojo o café-rojizo abigarrado de morado. Quelípedos rojo y amarillo. Cara externa de las pinzas amarillo vivo.",
+   "size": "Máxima: 4,9 cm (macho) y 4,2 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive en la zona intermareal de lagunas costeras y estuarios, generalmente entre las raíces y sobre las ramas de bosques de mangle y sobre bancos lodosos a fangosos de estuarios, donde construye madrigueras poco profundas. Ocasionalmente se encuentra entre rocas, sobre sustrato lodoso, siempre cerca del agua.",
+   "fisheries": "No representa un potencial pesquero importante debido a su talla media relativamente pequeña. Además, es una especie difícil de capturar debido a la naturaleza poco accesible de su hábitat. Capturado ocasionalmente a nivel de subsistencia."
+  },
+  "children": []
+ },
+ {
+  "id": "goniopsis",
+  "rank": "genus",
+  "scientificName": "Goniopsis",
+  "parent": "Grapsinae",
+  "children": [
+   "Goniopsis pulchra",
+   "Goniopsis cruentata"
+  ]
+ },
+ {
+  "id": "sesarma-sulcatum",
+  "rank": "species",
+  "scientificName": "Sesarma sulcatum",
+  "parent": "Sesarma",
+  "author": "Smith, 1870",
+  "faoCode": "GRAPS Ses 2",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Abuete cajeta peluda; Fr - Anglette poilue; In - Hairy matchbox crab.",
+   "distinctive": "Una especie de talla relativamente grande dentro del género. Caparazón recorrido por profundas ranuras y recubierto de una densa pubescencia negra, su borde ántero-lateral con un diente por detrás del diente orbital externo. Anténulas replegadas por debajo de la frente e invisibles dorsalmente. Una cresta oblicua y peluda ubicada en la parte ventral (visible) del mero del tercer par de maxilípedos. Dáctilos del segundo al quinto par de pereiópodos con hileras longitudinales de pelos negros. Color: caparazón y pereiópodos café oscuros a café-grisáceos. Quelípedos en parte crema. Hembra con líneas amarillas en la frente.",
+   "size": "Máxima: 5 cm (macho) y 4 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive en la zona supralitoral de lagunas costeras y estuarios, cerca de bosques de mangle o en bancos lodosos o areno-lodosos. Ocasionalmente se encuentra entre las raíces y sobre las ramas del mangle.",
+   "fisheries": "No representa un potencial pesquero importante debido a su talla relativamente pequeña. Capturado ocasionalmente a nivel de subsistencia."
+  },
+  "children": []
+ },
+ {
+  "id": "sesarma",
+  "rank": "genus",
+  "scientificName": "Sesarma",
+  "parent": "Sesarminae",
+  "children": [
+   "Sesarma sulcatum",
+   "Sesarma aequatoriale",
+   "Sesarma rhizophorae",
+   "Sesarma rubinofforum"
+  ]
+ },
+ {
+  "id": "maiopsis-panamensis",
+  "rank": "species",
+  "scientificName": "Maiopsis panamensis",
+  "parent": "Maiopsis",
+  "author": "Faxon, 1893",
+  "faoCode": "MAJI Maiop 1",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Cangrejo araña de Panamá; Fr - Crabe araignée du Panama; In - Panamic spidercrab.",
+   "distinctive": "Especie de gran talla. Caparazón ovalado-triangular, tan largo como ancho y recubierto de fuertes espinas; borde ántero-lateral y margen de las regiones branquiales con espinas particularmente largas. Rostro prominente, formado por 2 cuernos o dientes ligeramente divergentes, cada uno provisto de un fuerte diente dorsal accesorio cerca de su base, formando un ángulo casi recto con el eje del rostro. Ojos pequeños, con pedúnculos delgados y que sé retraen dentro de las órbitas. Estas últimas, grandes, separadas por un espacio amplio, pero incompletas ventralmente, su borde superior prominente, con dos fisuras y espinas, particularmente un par de espinas dorsales en forma de \"V\". Artejo basal de la antena moderadamente ancho, no cubre el pedúnculo ocular, con por lo menos 3 largas y fuertes espinas anteriores. Pereiópodos sin carinas; quelípedos de la hembra mucho más cortos y delgados que el primer par de pereiópodos; quelípedos del macho muy largos y fuertes. Borde distal del mero del tercer par de pereiópodos con 3 espinas fuertes y otras más pequeñas. Macho y hembra con 7 segmentos abdominales. Color: tonalidad general del dorso del cuerpo rojo-anaranjada a café-rojiza; región ventral más clara, con zonas amarillentas o crema. Extremo de las pinzas crema o blanco.",
+   "size": "Máxima: 24 cm (macho) y 16,8 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Ha sido encontrado entre 15 y 335 m de profundidad sobre fondos mixtos (arena con limo) y en las cercanías de zonas rocosas. Los machos son considerablemente más grandes que las hembras y presentan quelípedos más largos y mucho más fuertes, que pueden alcanzar hasta 57 cm de longitud.",
+   "fisheries": "Es el cangrejo más grande de todo el área de pesca.,a- V Sobrepasa netamente (en anchura de caparazón) la especie más ancha del género Chionoecetes (C. bairdi), explotada en el Pacífico noroccidental (\"Snow crab\"). Los machos más grandes pueden pesar hasta 3,5 kg (peso fresco). Ha sido capturado en pescas de arrastre experimentales en el centro del golfo de California y con chinchorros langosteros como fauna acompañante de langostas (Panulirus) en el sureste del Golfo. Podría representar un recurso importante del área de pesca si se lograsen localizar poblaciones suficientemente grandes y accesibles a las redes de arrastre o a la pesca mediante trampas. Aparece ocasionalmente en arrastres comerciales y es aprovechado por los pescadores a nivel de subsistencia."
+  },
+  "children": []
+ },
+ {
+  "id": "maiopsis",
+  "rank": "genus",
+  "scientificName": "Maiopsis",
+  "parent": "Majidae",
+  "children": [
+   "Maiopsis panamensis"
+  ]
+ },
+ {
+  "id": "mithrax-armatus",
+  "rank": "species",
+  "scientificName": "Mithrax armatus",
+  "parent": "Mithrax",
+  "author": "de Saussure, 1853",
+  "faoCode": "MAJI Mit 1",
+  "subgenus": "Mithrax",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Araña porteña; Fr - Araignée portuaire; In - Harbour spidercrab.",
+   "distinctive": "Caparazón ovoidal, con las regiones branquiales bien delimitadas, enteramente recubierto de numerosos tubérculos de tamaño irregular, más puntiagudos en las regiones póstero-laterales; 4 espinas ántero-laterales largas y embotadas, 3 branquiales y 1 en la región hepática, esta última acompañada de una espina accesoria poco visible. Rostro formado por 2 cuernos moderadamente largos, de extremo puntiagudo y ligeramente recurvado hacia adentro. Ojos completamente protegidos dentro de las cavidades orbitales. Mero y carpo de los quelípedos con numerosas espinas fuertes y romas; pinzas completamente lisas, a excepción de un fuerte tubérculo subcónico ubicado en la superficie externa, cerca de la base; dedos de las pinzas con el extremo en forma de cuchara. Color: tonalidad general del cuerpo amarillo-ocre a verde.",
+   "size": "Máxima: 8,9 cm (macho) y 6,2 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive en la zona intermareal, sobre arrecifes y entre rocas. Es capturado comúnmente en escolleras y a lo largo de los muelles de zonas portuarias y también es frecuente cerca de praderas o manchones de algas de color ocre.",
+   "fisheries": "Por su talla relativamente grande y su accesibilidad a la pesca artesanal, representa un recurso interesante a nivel de subsistencia. Es capturado ocasionalmente por los recolectores de moluscos en la zona intermareal o en aguas someras del circumlitoral."
+  },
+  "children": []
+ },
+ {
+  "id": "mithrax",
+  "rank": "genus",
+  "scientificName": "Mithrax",
+  "parent": "Majidae",
+  "children": [
+   "Mithrax armatus",
+   "Mithrax denticulatus",
+   "Mithrax pygmaeus",
+   "Mithrax sinensis clarionensis",
+   "Mithrax sinensis sinensis",
+   "Mithrax spinipes",
+   "Mithrax tuberculatus"
+  ]
+ },
+ {
+  "id": "stenocionops-ovata",
+  "rank": "species",
+  "scientificName": "Stenocionops ovata",
+  "parent": "Stenocionops",
+  "author": "(Bell, 1835)",
+  "faoCode": "MAJI Steno 1",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Cangrejo araña terciopelo; Fr - Crabe araignée velours; In - Velvet spidercrab.",
+   "distinctive": "Caparazón \"aterciopelado\", enteramente recubierto de pelos cortos. Ojos completamente protegidos por las órbitas que presentan un diente superior triangular muy ancho y otro lateral más pequeño. Rostro formado por 2 cuernos cortos, subtriangulares (más largos y divergentes en especímenes jóvenes) de longitud aproximadamente igual a 1/7 a 1/12 de la longitud del caparazón. Caparazón con 5 espinas laterales (2 hepáticas y 3 branquiales) y 9 espinas medianas, cortas y ocultas bajo la pubescencia en ejemplares grandes. Quelípedos de la hembra más cortos que el primer par de pereiópodos; quelípedos del macho notoriamente más largos y fuertes. Pinzas granulosas bajo la pubescencia. Color: pubescencia del caparazón café-rojiza a café oscura, aquella de los pereiópodos, café más oscura o casi negra; dedos de la pinza claros. Espinas del caparazón blancas con tonos rojizos.",
+   "size": "Máxima: 13 cm (macho) y 9,8 cm (hembra) de anchura del caparazón (tallas máximas conocidas). Los machos más grandes pueden pesar hasta 1 kg (peso fresco).",
+   "habitat": "Stenocionops ovata ha sido capturado entre 15 y 275 m de profundidad, sobre fondos arenosos, lodosos, o sustratos de corales, conchas, algas o esponjas. Los machos son considerablemente más grandes que las hembras y presentan quelípedos más largos y fuertes.",
+   "fisheries": "Esta especie parece estar representada por poblaciones abundantes en el golfo de California central, entre los 60 y 100 m de profundidad, accesibles a las redes de arrastre comerciales. Representa un potencial no explotado hasta la fecha que merece ser estudiado con atención."
+  },
+  "children": []
+ },
+ {
+  "id": "stenocionops",
+  "rank": "genus",
+  "scientificName": "Stenocionops",
+  "parent": "Majidae",
+  "children": [
+   "Stenocionops ovata",
+   "Stenocionops angusta",
+   "Stenocionops beebei"
+  ]
+ },
+ {
+  "id": "ucides-occidentalis",
+  "rank": "species",
+  "scientificName": "Ucides occidentalis",
+  "parent": "Ucides",
+  "author": "(Ortmann, 1897)",
+  "faoCode": "OCYP Ucid 2",
+  "sheet": {
+   "otherNames": "Ucides cordatus occidentalis (Ortmann, 1897)",
+   "vernacular": "FAO: Es - Capuco verde; Fr - Crabe mantou vert; In - Mangrove ghost crab.",
+   "distinctive": "Caparazón ovalado, las regiones branquiales hinchadas, fuertemente proyectadas hacia los lados; distancia órbito-frontal (entre los bordes externos de las órbitas) inferior a los dos tercios de la anchura del caparazón. Pedúnculo ocular largo y robusto, casi vertical en el animal vivo (como en Uca). Margen ventral de la frente con una hendidura mediana. Quelípedos del macho extremadamente largos, algo asimétricos, con numerosos tubérculos y espinas, particularmente en los bordes dorsal y ventral de la pinza; mero con dos hileras de fuertes espinas en la superficie anterior. Color: caparazón rojo-grisáceo o gris-azulado, con los márgenes laterales rojo-anaranjados. Pereiópodos y gran parte de las pinzas de color rojo oscuro. Región ventral café o blanca.",
+   "size": "Máxima: 8,3 cm (macho) y 7,5 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Común sobre sustratos lodosos en manglares, lagunas y otros ambientes salobres cerca de las desembocaduras de ríos; ocasionalmente se encuentra en áreas no inundadas, pero próximas a cuerpos de agua. Construye madrigueras poco profundas, generalmente de menos de 50 cm de profundidad y provistas de varias entradas, especialmente en zonas de manglares, y ocasionalmente en la zona supralitoral.",
+   "fisheries": "No existe información acerca de una posible explotación regular de Ucides occidentalis que es una de las dos especies (con U. cordatus) más grandes de la familia Ocypodidae en América. Probablemente se utiliza ocasionalmente a nivel de subsistencia por parte de pescadores locales."
+  },
+  "children": []
+ },
+ {
+  "id": "ozius-verreauxii",
+  "rank": "species",
+  "scientificName": "Ozius verreauxii",
+  "parent": "Ozius",
+  "author": "de Saussure, 1853",
+  "faoCode": "XANTH Ozi 1",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Cangrejo de piedra perforado; Fr - Crabe caillou perforé; In - Punched stone crab.",
+   "distinctive": "Caparazón menos de una vez y media más ancho que largo, sus márgenes ántero-laterales divididos en 5 dientes en forma de lóbulos (incluido el diente orbital externo): primero a tercer dientes anchos y poco altos, cuarto y quinto dientes pequeños, pero bien visibles. Frente más o menos lisa dorsalmente, dividida en 4 lóbulos subiguales, los laterales un poco más pequeños que los medianos. Órbitas en posición dorsal, circulares y con un fuerte reborde posterior. Dedo móvil de la pinza mayor con un fuerte diente cerca de su base. Borde anterior del mero del tercer par de maxilípedos con una profunda hendidura semicircular que junto con una hendidura similar del borde anterior del cuadro bucal, forma un orificio circular. Color: tonalidad general del cuerpo grisácea, con bandas coral en la articulación carpo-meral del segundo al cuarto par de pereiópodos.",
+   "size": "8,6 cm (macho) y 8,2 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive por debajo de las piedras en playas rocosas de la zona intermareal, generalmente en la franja externa y en áreas semiprotegidas o expuestas a un oleaje mediano.",
+   "fisheries": "No existe una pesca regular para esta especie. Se explota localmente a nivel de subsistencia."
+  },
+  "children": []
+ },
+ {
+  "id": "ozius",
+  "rank": "genus",
+  "scientificName": "Ozius",
+  "parent": "Xanthidae",
+  "children": [
+   "Ozius verreauxii",
+   "Ozius perlatus"
+  ]
+ },
+ {
+  "id": "menippe-frontalis",
+  "rank": "species",
+  "scientificName": "Menippe frontalis",
+  "parent": "Menippe",
+  "author": "A. Milne Edwards, 1879",
+  "faoCode": "XANTH Men 3",
+  "sheet": {
+   "otherNames": null,
+   "vernacular": "FAO: Es - Cangrejo de piedra estridulante; Fr - Crabe caillou stridulant; In - Stridulating stone crab.",
+   "distinctive": "Caparazón algo irregular, pero sin fuertes protuberancias dorsales. Margen ántero-lateral dividido en 5 dientes: el primero (orbital externo) simple y angosto, el segundo medianamente ancho, subrectangular, sinuoso o bilobulado, el tercero y el cuarto anchos y subrectangulares, y el quinto fuerte y triangular. Hendidura mediana de la frente profunda, separando dos pares de lóbulos laterales, el externo doble con los ápices dispuestos en sentido oblicuo con respecto al borde del caparazón. Margen orbital inferior con 3 lóbulos. Superficie interna de la palma de las pinzas de ambos sexos con un órgano estridulante constituido por una zona ovalada con fuertes estrías o ranuras. Color: tonalidad general del cuerpo café oscura.",
+   "size": "12,8 cm (macho) y 10 cm (hembra) de anchura del caparazón (tallas máximas conocidas).",
+   "habitat": "Vive en playas rocosas, por debajo de las piedras, generalmente en la franja externa de la zona intermareal y en áreas sometidas a un oleaje mediano a fuerte. La especie congénere del Atlántico, M. mercenaria, ha sido capturada hasta unos 51 m de profundidad y construye madrigueras en el lodo por debajo de las rocas.",
+   "fisheries": "La talla relativamente grande y en particular, el tamaño de las pinzas del macho, permiten considerar esta especie como un recurso potencial interesante para la pesca de subsistencia y para su comercialización en mercados locales. Es explotada localmente en el golfo de California, donde se captura como fauna acompañante de la langosta (Panulirus) en trampas langosteras y, más comúnmente, chinchorros. Por lo general se utilizan sólo las pinzas. No parece existir una pesquería regular para este recurso. En cambio, la especie Atlántica, M. frontalis, se captura en grandes cantidades (hasta 1 000 t por año, mediante trampas)."
+  },
+  "children": []
+ },
+ {
+  "id": "menippe",
+  "rank": "genus",
+  "scientificName": "Menippe",
+  "parent": "Xanthidae",
+  "children": [
+   "Menippe frontalis",
+   "Menippe obtusa"
+  ]
+ },
+ {
+  "id": "calappa-hepatica",
+  "rank": "species",
+  "scientificName": "Calappa hepatica",
+  "parent": "Calappa",
+  "author": "(Linnaeus, 1764)",
+  "faoCode": "CAL Cal 6",
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hepatella-amica",
+  "rank": "species",
+  "scientificName": "Hepatella amica",
+  "parent": "Hepatella",
+  "author": "Smith, 1869",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hepatella-peruviana",
+  "rank": "species",
+  "scientificName": "Hepatella peruviana",
+  "parent": "Hepatella",
+  "author": "Rathbun, 1910",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "osachila-acuta",
+  "rank": "species",
+  "scientificName": "Osachila acuta",
+  "parent": "Osachila",
+  "author": "Stimpson, 1871",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "osachila-lata",
+  "rank": "species",
+  "scientificName": "Osachila lata",
+  "parent": "Osachila",
+  "author": "Faxon, 1893",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "osachila-levis",
+  "rank": "species",
+  "scientificName": "Osachila levis",
+  "parent": "Osachila",
+  "author": "Rathbun, 1898",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "osachila-sona",
+  "rank": "species",
+  "scientificName": "Osachila sona",
+  "parent": "Osachila",
+  "author": "Garth, 1940",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "calappa-convexa-d",
+  "rank": "species",
+  "scientificName": "Calappa convexa d",
+  "parent": "Calappa",
+  "author": "e S a u s s u r e , 1853",
+  "faoCode": "CAL Cal 5",
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ethusa-lata",
+  "rank": "species",
+  "scientificName": "Ethusa lata",
+  "parent": "Ethusa",
+  "author": "Rathbun, 1893",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ethusa-panamensis",
+  "rank": "species",
+  "scientificName": "Ethusa panamensis",
+  "parent": "Ethusa",
+  "author": "Firtnegan, 1931",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ethusa-steyaerti",
+  "rank": "species",
+  "scientificName": "Ethusa steyaerti",
+  "parent": "Ethusa",
+  "author": "Hendrickx, 1989",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ethusina-faxoni",
+  "rank": "species",
+  "scientificName": "Ethusina faxoni",
+  "parent": "Ethusina",
+  "author": "Rathbun, 1933",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ethusina-gracilipes",
+  "rank": "species",
+  "scientificName": "Ethusina gracilipes",
+  "parent": "Ethusina",
+  "author": "(Miers, 1886)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ethusina-robusta",
+  "rank": "species",
+  "scientificName": "Ethusina robusta",
+  "parent": "Ethusina",
+  "author": "(Miers, 1886)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ethusina-smithiana",
+  "rank": "species",
+  "scientificName": "Ethusina smithiana",
+  "parent": "Ethusina",
+  "author": "Faxon, 1893",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "aratus",
+  "rank": "genus",
+  "scientificName": "Aratus",
+  "parent": "Sesarminae",
+  "children": [
+   "Aratus pisonii"
+  ]
+ },
+ {
+  "id": "aratus-pisonii",
+  "rank": "species",
+  "scientificName": "Aratus pisonii",
+  "parent": "Aratus",
+  "author": "(Milne Edwards, 1837)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "armases",
+  "rank": "genus",
+  "scientificName": "Armases",
+  "parent": "Sesarminae",
+  "children": [
+   "Armases angustum",
+   "Armases magdalenense",
+   "Armases occidentale"
+  ]
+ },
+ {
+  "id": "armases-angustum",
+  "rank": "species",
+  "scientificName": "Armases angustum",
+  "parent": "Armases",
+  "author": "Smith, 1870",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "armases-magdalenense",
+  "rank": "species",
+  "scientificName": "Armases magdalenense",
+  "parent": "Armases",
+  "author": "Rathbun, 1918",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "armases-occidentale",
+  "rank": "species",
+  "scientificName": "Armases occidentale",
+  "parent": "Armases",
+  "author": "Smith, 1870",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "cyclograpsus",
+  "rank": "genus",
+  "scientificName": "Cyclograpsus",
+  "parent": "Grapsidae",
+  "children": [
+   "Cyclograpsus cinereus",
+   "Cyclograpsus escondidensis"
+  ]
+ },
+ {
+  "id": "cyclograpsus-cinereus",
+  "rank": "species",
+  "scientificName": "Cyclograpsus cinereus",
+  "parent": "Cyclograpsus",
+  "author": "Dana, 1851",
+  "faoCode": null,
+  "note": "(extralimital)",
+  "children": []
+ },
+ {
+  "id": "cyclograpsus-escondidensis",
+  "rank": "species",
+  "scientificName": "Cyclograpsus escondidensis",
+  "parent": "Cyclograpsus",
+  "author": "Rathbun, 1933",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "euchirograpsus",
+  "rank": "genus",
+  "scientificName": "Euchirograpsus",
+  "parent": "Grapsidae",
+  "children": [
+   "Euchirograpsus americanus"
+  ]
+ },
+ {
+  "id": "euchirograpsus-americanus",
+  "rank": "species",
+  "scientificName": "Euchirograpsus americanus",
+  "parent": "Euchirograpsus",
+  "author": "A. Milne Edwards, 1880",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "geograpsus",
+  "rank": "genus",
+  "scientificName": "Geograpsus",
+  "parent": "Grapsidae",
+  "children": [
+   "Geograpsus lividus"
+  ]
+ },
+ {
+  "id": "geograpsus-lividus",
+  "rank": "species",
+  "scientificName": "Geograpsus lividus",
+  "parent": "Geograpsus",
+  "author": "(H. Milne Edwards, 1837)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "glyptograpsus",
+  "rank": "genus",
+  "scientificName": "Glyptograpsus",
+  "parent": "Grapsidae",
+  "children": [
+   "Glyptograpsus impressus"
+  ]
+ },
+ {
+  "id": "glyptograpsus-impressus",
+  "rank": "species",
+  "scientificName": "Glyptograpsus impressus",
+  "parent": "Glyptograpsus",
+  "author": "Smith, 1870",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "goetice",
+  "rank": "genus",
+  "scientificName": "Goetice",
+  "parent": "Grapsidae",
+  "children": [
+   "Goetice americanus"
+  ]
+ },
+ {
+  "id": "goetice-americanus",
+  "rank": "species",
+  "scientificName": "Goetice americanus",
+  "parent": "Goetice",
+  "author": "Rathbun, 1923",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "goniopsis-cruentata",
+  "rank": "species",
+  "scientificName": "Goniopsis cruentata",
+  "parent": "Goniopsis",
+  "author": "(Latrielle, 1802)",
+  "faoCode": "GRAPS Goniops 2",
+  "note": "(extralimital: Atlántico)",
+  "children": []
+ },
+ {
+  "id": "hemigrapsus",
+  "rank": "genus",
+  "scientificName": "Hemigrapsus",
+  "parent": "Grapsidae",
+  "children": [
+   "Hemigrapsus nudus",
+   "Hemigrapsus oregonensis"
+  ]
+ },
+ {
+  "id": "hemigrapsus-nudus",
+  "rank": "species",
+  "scientificName": "Hemigrapsus nudus",
+  "parent": "Hemigrapsus",
+  "author": "(Dana, 1851)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hemigrapsus-oregonensis",
+  "rank": "species",
+  "scientificName": "Hemigrapsus oregonensis",
+  "parent": "Hemigrapsus",
+  "author": "(Dana, 1851)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pachygrapsus",
+  "rank": "genus",
+  "scientificName": "Pachygrapsus",
+  "parent": "Grapsidae",
+  "children": [
+   "Pachygrapsus crassipes",
+   "Pachygrapsus minutus",
+   "Pachygrapsus planifrons",
+   "Pachygrapsus transversus"
+  ]
+ },
+ {
+  "id": "pachygrapsus-crassipes",
+  "rank": "species",
+  "scientificName": "Pachygrapsus crassipes",
+  "parent": "Pachygrapsus",
+  "author": "Randall, 1840",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pachygrapsus-minutus",
+  "rank": "species",
+  "scientificName": "Pachygrapsus minutus",
+  "parent": "Pachygrapsus",
+  "author": "A. Milne Edwards, 1873",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pachygrapsus-planifrons",
+  "rank": "species",
+  "scientificName": "Pachygrapsus planifrons",
+  "parent": "Pachygrapsus",
+  "author": "Man, 1888",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pachygrapsus-transversus",
+  "rank": "species",
+  "scientificName": "Pachygrapsus transversus",
+  "parent": "Pachygrapsus",
+  "author": "(Gibbes, 1850)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "percnon",
+  "rank": "genus",
+  "scientificName": "Percnon",
+  "parent": "Plagusiinae",
+  "children": [
+   "Percnon abbreviatum",
+   "Percnon gibbesi",
+   "Percnon planissimum"
+  ]
+ },
+ {
+  "id": "percnon-abbreviatum",
+  "rank": "species",
+  "scientificName": "Percnon abbreviatum",
+  "parent": "Percnon",
+  "author": "(Dana, 1851)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "percnon-gibbesi",
+  "rank": "species",
+  "scientificName": "Percnon gibbesi",
+  "parent": "Percnon",
+  "author": "(H. Milne Edwards, 1853)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "percnon-planissimum",
+  "rank": "species",
+  "scientificName": "Percnon planissimum",
+  "parent": "Percnon",
+  "author": "Herbst, 1804",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "plagusia",
+  "rank": "genus",
+  "scientificName": "Plagusia",
+  "parent": "Plagusiinae",
+  "children": [
+   "Plagusia depressa tuberculata",
+   "Plagusia immaculata",
+   "Plagusia speciosa"
+  ]
+ },
+ {
+  "id": "plagusia-depressa-tuberculata",
+  "rank": "species",
+  "scientificName": "Plagusia depressa tuberculata",
+  "parent": "Plagusia",
+  "author": "Lamarck, 1818",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "plagusia-immaculata",
+  "rank": "species",
+  "scientificName": "Plagusia immaculata",
+  "parent": "Plagusia",
+  "author": "Lamarck, 1818",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "plagusia-speciosa",
+  "rank": "species",
+  "scientificName": "Plagusia speciosa",
+  "parent": "Plagusia",
+  "author": "Dana, 1851",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "planes",
+  "rank": "genus",
+  "scientificName": "Planes",
+  "parent": "Grapsidae",
+  "children": [
+   "Planes cyaneus"
+  ]
+ },
+ {
+  "id": "planes-cyaneus",
+  "rank": "species",
+  "scientificName": "Planes cyaneus",
+  "parent": "Planes",
+  "author": "Dana, 1852",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "sesarma-aequatoriale",
+  "rank": "species",
+  "scientificName": "Sesarma aequatoriale",
+  "parent": "Sesarma",
+  "author": "Ortmann, 1894",
+  "faoCode": "GRAPS Ses 2",
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "sesarma-rhizophorae",
+  "rank": "species",
+  "scientificName": "Sesarma rhizophorae",
+  "parent": "Sesarma",
+  "author": "Rathbun, 1906",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "sesarma-rubinofforum",
+  "rank": "species",
+  "scientificName": "Sesarma rubinofforum",
+  "parent": "Sesarma",
+  "author": "Abele, 1973",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "tetragrapsus",
+  "rank": "genus",
+  "scientificName": "Tetragrapsus",
+  "parent": "Varuninae",
+  "children": [
+   "Tetragrapsus jouyi"
+  ]
+ },
+ {
+  "id": "tetragrapsus-jouyi",
+  "rank": "species",
+  "scientificName": "Tetragrapsus jouyi",
+  "parent": "Tetragrapsus",
+  "author": "(Rathbun, 1893)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ala",
+  "rank": "genus",
+  "scientificName": "Ala",
+  "parent": "Majidae",
+  "children": [
+   "Ala cornuta"
+  ]
+ },
+ {
+  "id": "ala-cornuta",
+  "rank": "species",
+  "scientificName": "Ala cornuta",
+  "parent": "Ala",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hemus",
+  "rank": "genus",
+  "scientificName": "Hemus",
+  "parent": "Majidae",
+  "children": [
+   "Hemus analogus",
+   "Hemus finneganae"
+  ]
+ },
+ {
+  "id": "hemus-analogus",
+  "rank": "species",
+  "scientificName": "Hemus analogus",
+  "parent": "Hemus",
+  "author": "Rathbun, 1898",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hemus-finneganae",
+  "rank": "species",
+  "scientificName": "Hemus finneganae",
+  "parent": "Hemus",
+  "author": "Garth, 1958",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "macrocoeloma",
+  "rank": "genus",
+  "scientificName": "Macrocoeloma",
+  "parent": "Majidae",
+  "children": [
+   "Macrocoeloma heptacanthum",
+   "Macrocoeloma maccullochae",
+   "Macrocoeloma villosum"
+  ]
+ },
+ {
+  "id": "macrocoeloma-heptacanthum",
+  "rank": "species",
+  "scientificName": "Macrocoeloma heptacanthum",
+  "parent": "Macrocoeloma",
+  "author": "(Bell, 1835)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "macrocoeloma-maccullochae",
+  "rank": "species",
+  "scientificName": "Macrocoeloma maccullochae",
+  "parent": "Macrocoeloma",
+  "author": "Garth, 1940",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "macrocoeloma-villosum",
+  "rank": "species",
+  "scientificName": "Macrocoeloma villosum",
+  "parent": "Macrocoeloma",
+  "author": "(Bell, 1835)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "microphrys",
+  "rank": "genus",
+  "scientificName": "Microphrys",
+  "parent": "Majidae",
+  "children": [
+   "Microphrys branchialis",
+   "Microphrys platysoma",
+   "Microphrys triangulatus"
+  ]
+ },
+ {
+  "id": "microphrys-branchialis",
+  "rank": "species",
+  "scientificName": "Microphrys branchialis",
+  "parent": "Microphrys",
+  "author": "Rathbun, 1898",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "microphrys-platysoma",
+  "rank": "species",
+  "scientificName": "Microphrys platysoma",
+  "parent": "Microphrys",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "microphrys-triangulatus",
+  "rank": "species",
+  "scientificName": "Microphrys triangulatus",
+  "parent": "Microphrys",
+  "author": "(Lockington, 1877)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "mithrax-denticulatus",
+  "rank": "species",
+  "scientificName": "Mithrax denticulatus",
+  "parent": "Mithrax",
+  "author": "Bell, 1835",
+  "faoCode": "MAJI Steno 1",
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "mithrax-pygmaeus",
+  "rank": "species",
+  "scientificName": "Mithrax pygmaeus",
+  "parent": "Mithrax",
+  "author": "Bell, 1835",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "mithrax-sinensis-clarionensis",
+  "rank": "species",
+  "scientificName": "Mithrax sinensis clarionensis",
+  "parent": "Mithrax",
+  "author": "Garth, 1940",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "mithrax-sinensis-sinensis",
+  "rank": "species",
+  "scientificName": "Mithrax sinensis sinensis",
+  "parent": "Mithrax",
+  "author": "Rathbun, 1892",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "mithrax-spinipes",
+  "rank": "species",
+  "scientificName": "Mithrax spinipes",
+  "parent": "Mithrax",
+  "author": "(Bell, 1835)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "mithrax-tuberculatus",
+  "rank": "species",
+  "scientificName": "Mithrax tuberculatus",
+  "parent": "Mithrax",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "stenocionops-angusta",
+  "rank": "species",
+  "scientificName": "Stenocionops angusta",
+  "parent": "Stenocionops",
+  "author": "(Lockington, 1877)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "stenocionops-beebei",
+  "rank": "species",
+  "scientificName": "Stenocionops beebei",
+  "parent": "Stenocionops",
+  "author": "Glassell, 1936",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "teleophrys",
+  "rank": "genus",
+  "scientificName": "Teleophrys",
+  "parent": "Majidae",
+  "children": [
+   "Teleophrys cristulipes"
+  ]
+ },
+ {
+  "id": "teleophrys-cristulipes",
+  "rank": "species",
+  "scientificName": "Teleophrys cristulipes",
+  "parent": "Teleophrys",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "thoe",
+  "rank": "genus",
+  "scientificName": "Thoe",
+  "parent": "Majidae",
+  "children": [
+   "Thoe sulcata panamensis",
+   "Thoe sulcata sulcata"
+  ]
+ },
+ {
+  "id": "thoe-sulcata-panamensis",
+  "rank": "species",
+  "scientificName": "Thoe sulcata panamensis",
+  "parent": "Thoe",
+  "author": "Nobill, 1901",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "thoe-sulcata-sulcata",
+  "rank": "species",
+  "scientificName": "Thoe sulcata sulcata",
+  "parent": "Thoe",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ocypode-ceratophthalma",
+  "rank": "species",
+  "scientificName": "Ocypode ceratophthalma",
+  "parent": "Ocypode",
+  "author": "(Pallas, 1772)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ocypode-gaudichaudii",
+  "rank": "species",
+  "scientificName": "Ocypode gaudichaudii",
+  "parent": "Ocypode",
+  "author": "(H. Milne Edwards y Lucas, 1843)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ocypode-occidentalis",
+  "rank": "species",
+  "scientificName": "Ocypode occidentalis",
+  "parent": "Ocypode",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-argillicola",
+  "rank": "species",
+  "scientificName": "Uca argillicola",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": "OCYP Ucid 2",
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-batuenta",
+  "rank": "species",
+  "scientificName": "Uca batuenta",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-beebei",
+  "rank": "species",
+  "scientificName": "Uca beebei",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-brevifrons",
+  "rank": "species",
+  "scientificName": "Uca brevifrons",
+  "parent": "Uca",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-crenulata-coloradensis",
+  "rank": "species",
+  "scientificName": "Uca crenulata coloradensis",
+  "parent": "Uca",
+  "author": "(Rathbun, 1893)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-crenulata-crenulata",
+  "rank": "species",
+  "scientificName": "Uca crenulata crenulata",
+  "parent": "Uca",
+  "author": "Lockington, 1877",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-deichmanni",
+  "rank": "species",
+  "scientificName": "Uca deichmanni",
+  "parent": "Uca",
+  "author": "Rathbun, 1935",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-dorotheae",
+  "rank": "species",
+  "scientificName": "Uca dorotheae",
+  "parent": "Uca",
+  "author": "Hagen, 1968",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-galapagensis",
+  "rank": "species",
+  "scientificName": "Uca galapagensis",
+  "parent": "Uca",
+  "author": "Rathbun, 1902",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-heteropleura",
+  "rank": "species",
+  "scientificName": "Uca heteropleura",
+  "parent": "Uca",
+  "author": "(Smith, 1870)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-inaequalis",
+  "rank": "species",
+  "scientificName": "Uca inaequalis",
+  "parent": "Uca",
+  "author": "Rathbun, 1935",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-latimanus",
+  "rank": "species",
+  "scientificName": "Uca latimanus",
+  "parent": "Uca",
+  "author": "(Rathbun, 1893)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-leptochela",
+  "rank": "species",
+  "scientificName": "Uca leptochela",
+  "parent": "Uca",
+  "author": "Bott, 1954",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-limicola",
+  "rank": "species",
+  "scientificName": "Uca limicola",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-maracoani-insignis",
+  "rank": "species",
+  "scientificName": "Uca maracoani insignis",
+  "parent": "Uca",
+  "author": "(Milne Edwards, 1852)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-oerstedi",
+  "rank": "species",
+  "scientificName": "Uca oerstedi",
+  "parent": "Uca",
+  "author": "Rathbun, 1904",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-ornata",
+  "rank": "species",
+  "scientificName": "Uca ornata",
+  "parent": "Uca",
+  "author": "(Smith, 1870)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-panamensis",
+  "rank": "species",
+  "scientificName": "Uca panamensis",
+  "parent": "Uca",
+  "author": "(Stimpson, 1859)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-princeps-monilifera",
+  "rank": "species",
+  "scientificName": "Uca princeps monilifera",
+  "parent": "Uca",
+  "author": "Rathbun, 1914",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-princeps-princeps",
+  "rank": "species",
+  "scientificName": "Uca princeps princeps",
+  "parent": "Uca",
+  "author": "(Smith, 1870)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-pygmaea",
+  "rank": "species",
+  "scientificName": "Uca pygmaea",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-saltitanta",
+  "rank": "species",
+  "scientificName": "Uca saltitanta",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-stenodactylus",
+  "rank": "species",
+  "scientificName": "Uca stenodactylus",
+  "parent": "Uca",
+  "author": "(H. Milne Edwards y Lucas, 1843)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-stylifera",
+  "rank": "species",
+  "scientificName": "Uca stylifera",
+  "parent": "Uca",
+  "author": "(Milne Edwards, 1852)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-tallanica",
+  "rank": "species",
+  "scientificName": "Uca tallanica",
+  "parent": "Uca",
+  "author": "Hagen, 1968",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-tenuipedis",
+  "rank": "species",
+  "scientificName": "Uca tenuipedis",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-thayeri-umbratila",
+  "rank": "species",
+  "scientificName": "Uca thayeri umbratila",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-tomentosa",
+  "rank": "species",
+  "scientificName": "Uca tomentosa",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-vocator-ecuadoriensis",
+  "rank": "species",
+  "scientificName": "Uca vocator ecuadoriensis",
+  "parent": "Uca",
+  "author": "Maccagno, 1928",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-zacae",
+  "rank": "species",
+  "scientificName": "Uca zacae",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "portunus-acuminatus",
+  "rank": "species",
+  "scientificName": "Portunus acuminatus",
+  "parent": "Portunus",
+  "author": "(Stimpson, 1871)",
+  "faoCode": "PORT Portun 4",
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "portunus-asper",
+  "rank": "species",
+  "scientificName": "Portunus asper",
+  "parent": "Portunus",
+  "author": "(A. Milne Edwards, 1861)",
+  "faoCode": "PORT Portun 4",
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "portunus-brevimanus",
+  "rank": "species",
+  "scientificName": "Portunus brevimanus",
+  "parent": "Portunus",
+  "author": "(Faxon, 1895)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "portunus-guaymasensis",
+  "rank": "species",
+  "scientificName": "Portunus guaymasensis",
+  "parent": "Portunus",
+  "author": "Garth y Stephenson, 1966",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "portunus-iridescens",
+  "rank": "species",
+  "scientificName": "Portunus iridescens",
+  "parent": "Portunus",
+  "author": "(Rathbun, 1893)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "portunus-stanfordi",
+  "rank": "species",
+  "scientificName": "Portunus stanfordi",
+  "parent": "Portunus",
+  "author": "Rathbun, 1898",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "portunus-tuberculatus",
+  "rank": "species",
+  "scientificName": "Portunus tuberculatus",
+  "parent": "Portunus",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "portunus-xantusii",
+  "rank": "species",
+  "scientificName": "Portunus xantusii",
+  "parent": "Portunus",
+  "author": "(Stimpson, 1860)",
+  "faoCode": "PORT Portun 5",
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "actaea",
+  "rank": "genus",
+  "scientificName": "Actaea",
+  "parent": "Xanthidae",
+  "children": [
+   "Actaea augusta"
+  ]
+ },
+ {
+  "id": "actaea-augusta",
+  "rank": "species",
+  "scientificName": "Actaea augusta",
+  "parent": "Actaea",
+  "author": "Rathbun, 1898",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "carpilus",
+  "rank": "genus",
+  "scientificName": "Carpilus",
+  "parent": "Xanthidae",
+  "children": [
+   "Carpilus convexus"
+  ]
+ },
+ {
+  "id": "carpilus-convexus",
+  "rank": "species",
+  "scientificName": "Carpilus convexus",
+  "parent": "Carpilus",
+  "author": "(Forskál, 1775)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "cataleptodius",
+  "rank": "genus",
+  "scientificName": "Cataleptodius",
+  "parent": "Xanthidae",
+  "children": [
+   "Cataleptodius occidentalis",
+   "Cataleptodius taboganus"
+  ]
+ },
+ {
+  "id": "cataleptodius-occidentalis",
+  "rank": "species",
+  "scientificName": "Cataleptodius occidentalis",
+  "parent": "Cataleptodius",
+  "author": "(Stimpson, 1871)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "cataleptodius-taboganus",
+  "rank": "species",
+  "scientificName": "Cataleptodius taboganus",
+  "parent": "Cataleptodius",
+  "author": "(Rathbun, 1912)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "chacellus",
+  "rank": "genus",
+  "scientificName": "Chacellus",
+  "parent": "Xanthidae",
+  "children": [
+   "Chacellus pacificus"
+  ]
+ },
+ {
+  "id": "chacellus-pacificus",
+  "rank": "species",
+  "scientificName": "Chacellus pacificus",
+  "parent": "Chacellus",
+  "author": "Hendrickx, 1989",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "coralliope",
+  "rank": "genus",
+  "scientificName": "Coralliope",
+  "parent": "Xanthidae",
+  "children": [
+   "Coralliope armstrongi"
+  ]
+ },
+ {
+  "id": "coralliope-armstrongi",
+  "rank": "species",
+  "scientificName": "Coralliope armstrongi",
+  "parent": "Coralliope",
+  "author": "(Garth, 1948)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "cycloxanthops",
+  "rank": "genus",
+  "scientificName": "Cycloxanthops",
+  "parent": "Xanthidae",
+  "children": [
+   "Cycloxanthops vittatus",
+   "Cycloxanthops bocki"
+  ]
+ },
+ {
+  "id": "cycloxanthops-vittatus",
+  "rank": "species",
+  "scientificName": "Cycloxanthops vittatus",
+  "parent": "Cycloxanthops",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "cycloxanthops-bocki",
+  "rank": "species",
+  "scientificName": "Cycloxanthops bocki",
+  "parent": "Cycloxanthops",
+  "author": "Garth, 1957",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "daira",
+  "rank": "genus",
+  "scientificName": "Daira",
+  "parent": "Xanthidae",
+  "children": [
+   "Daira americana"
+  ]
+ },
+ {
+  "id": "daira-americana",
+  "rank": "species",
+  "scientificName": "Daira americana",
+  "parent": "Daira",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "domecia",
+  "rank": "genus",
+  "scientificName": "Domecia",
+  "parent": "Xanthidae",
+  "children": [
+   "Domecia hispida"
+  ]
+ },
+ {
+  "id": "domecia-hispida",
+  "rank": "species",
+  "scientificName": "Domecia hispida",
+  "parent": "Domecia",
+  "author": "Eydoux y Souleyet, 1842",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "edwardsium",
+  "rank": "genus",
+  "scientificName": "Edwardsium",
+  "parent": "Xanthidae",
+  "children": [
+   "Edwardsium lobipes"
+  ]
+ },
+ {
+  "id": "edwardsium-lobipes",
+  "rank": "species",
+  "scientificName": "Edwardsium lobipes",
+  "parent": "Edwardsium",
+  "author": "(Rathbun, 1898)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "epixanthus",
+  "rank": "genus",
+  "scientificName": "Epixanthus",
+  "parent": "Xanthidae",
+  "children": [
+   "Epixanthus tenuidactylus"
+  ]
+ },
+ {
+  "id": "epixanthus-tenuidactylus",
+  "rank": "species",
+  "scientificName": "Epixanthus tenuidactylus",
+  "parent": "Epixanthus",
+  "author": "(Lockington, 1877)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eriphia",
+  "rank": "genus",
+  "scientificName": "Eriphia",
+  "parent": "Xanthidae",
+  "children": [
+   "Eriphia squamata"
+  ]
+ },
+ {
+  "id": "eriphia-squamata",
+  "rank": "species",
+  "scientificName": "Eriphia squamata",
+  "parent": "Eriphia",
+  "author": "Stimpson, 1859",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eriphides",
+  "rank": "genus",
+  "scientificName": "Eriphides",
+  "parent": "Xanthidae",
+  "children": [
+   "Eriphides hispida"
+  ]
+ },
+ {
+  "id": "eriphides-hispida",
+  "rank": "species",
+  "scientificName": "Eriphides hispida",
+  "parent": "Eriphides",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurypanopeus",
+  "rank": "genus",
+  "scientificName": "Eurypanopeus",
+  "parent": "Xanthidae",
+  "children": [
+   "Eurypanopeus canalensis",
+   "Eurypanopeus confragosus",
+   "Eurypanopeus dissimilis",
+   "Eurypanopeus ovatus",
+   "Eurypanopeus planissimus",
+   "Eurypanopeus planus",
+   "Eurypanopeus transversus"
+  ]
+ },
+ {
+  "id": "eurypanopeus-canalensis",
+  "rank": "species",
+  "scientificName": "Eurypanopeus canalensis",
+  "parent": "Eurypanopeus",
+  "author": "Abele y Kim, 1989",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurypanopeus-confragosus",
+  "rank": "species",
+  "scientificName": "Eurypanopeus confragosus",
+  "parent": "Eurypanopeus",
+  "author": "Rathbun, 1933",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurypanopeus-dissimilis",
+  "rank": "species",
+  "scientificName": "Eurypanopeus dissimilis",
+  "parent": "Eurypanopeus",
+  "author": "(Benedict y Rathbun, 1891)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurypanopeus-ovatus",
+  "rank": "species",
+  "scientificName": "Eurypanopeus ovatus",
+  "parent": "Eurypanopeus",
+  "author": "(Benedict y Rathbun, 1891)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurypanopeus-planissimus",
+  "rank": "species",
+  "scientificName": "Eurypanopeus planissimus",
+  "parent": "Eurypanopeus",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurypanopeus-planus",
+  "rank": "species",
+  "scientificName": "Eurypanopeus planus",
+  "parent": "Eurypanopeus",
+  "author": "(Smith, 1869)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurypanopeus-transversus",
+  "rank": "species",
+  "scientificName": "Eurypanopeus transversus",
+  "parent": "Eurypanopeus",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurytium",
+  "rank": "genus",
+  "scientificName": "Eurytium",
+  "parent": "Xanthidae",
+  "children": [
+   "Eurytium affine",
+   "Eurytium albidigitum",
+   "Eurytium tristani minor",
+   "Eurytium tristani tristani"
+  ]
+ },
+ {
+  "id": "eurytium-affine",
+  "rank": "species",
+  "scientificName": "Eurytium affine",
+  "parent": "Eurytium",
+  "author": "(Streets y Kingsley, 1879)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurytium-albidigitum",
+  "rank": "species",
+  "scientificName": "Eurytium albidigitum",
+  "parent": "Eurytium",
+  "author": "Rathbun, 1933",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurytium-tristani-minor",
+  "rank": "species",
+  "scientificName": "Eurytium tristani minor",
+  "parent": "Eurytium",
+  "author": "(Bott, 1955)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "eurytium-tristani-tristani",
+  "rank": "species",
+  "scientificName": "Eurytium tristani tristani",
+  "parent": "Eurytium",
+  "author": "(Rathbun, 1906)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "globopilumnus",
+  "rank": "genus",
+  "scientificName": "Globopilumnus",
+  "parent": "Xanthidae",
+  "children": [
+   "Globopilumnus xantusii"
+  ]
+ },
+ {
+  "id": "globopilumnus-xantusii",
+  "rank": "species",
+  "scientificName": "Globopilumnus xantusii",
+  "parent": "Globopilumnus",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "glyptoxanthus",
+  "rank": "genus",
+  "scientificName": "Glyptoxanthus",
+  "parent": "Xanthidae",
+  "children": [
+   "Glyptoxanthus labyrinthicus",
+   "Glyptoxanthus meandricus"
+  ]
+ },
+ {
+  "id": "glyptoxanthus-labyrinthicus",
+  "rank": "species",
+  "scientificName": "Glyptoxanthus labyrinthicus",
+  "parent": "Glyptoxanthus",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "glyptoxanthus-meandricus",
+  "rank": "species",
+  "scientificName": "Glyptoxanthus meandricus",
+  "parent": "Glyptoxanthus",
+  "author": "(Lockington, 1877)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "gonopanope",
+  "rank": "genus",
+  "scientificName": "Gonopanope",
+  "parent": "Xanthidae",
+  "children": [
+   "Gonopanope angusta",
+   "Gonopanope areolata",
+   "Gonopanope nitida"
+  ]
+ },
+ {
+  "id": "gonopanope-angusta",
+  "rank": "species",
+  "scientificName": "Gonopanope angusta",
+  "parent": "Gonopanope",
+  "author": "(Lockington, 1877)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "gonopanope-areolata",
+  "rank": "species",
+  "scientificName": "Gonopanope areolata",
+  "parent": "Gonopanope",
+  "author": "(Rathbun, 1898)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "gonopanope-nitida",
+  "rank": "species",
+  "scientificName": "Gonopanope nitida",
+  "parent": "Gonopanope",
+  "author": "(Rathbun, 1898)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "heteractaea",
+  "rank": "genus",
+  "scientificName": "Heteractaea",
+  "parent": "Xanthidae",
+  "children": [
+   "Heteractaea lunata",
+   "Heteractaea peterseni"
+  ]
+ },
+ {
+  "id": "heteractaea-lunata",
+  "rank": "species",
+  "scientificName": "Heteractaea lunata",
+  "parent": "Heteractaea",
+  "author": "(Milne Edwards y Lucas, 1843)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "heteractaea-peterseni",
+  "rank": "species",
+  "scientificName": "Heteractaea peterseni",
+  "parent": "Heteractaea",
+  "author": "Garth, 1940",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hexapanopeus",
+  "rank": "genus",
+  "scientificName": "Hexapanopeus",
+  "parent": "Xanthidae",
+  "children": [
+   "Hexapanopeus beebei",
+   "Hexapanopeus costaricensis",
+   "Hexapanopeus nicaraguensis",
+   "Hexapanopeus orcutti",
+   "Hexapanopeus rubicundus",
+   "Hexapanopeus sinaloensis"
+  ]
+ },
+ {
+  "id": "hexapanopeus-beebei",
+  "rank": "species",
+  "scientificName": "Hexapanopeus beebei",
+  "parent": "Hexapanopeus",
+  "author": "Garth, 1961",
+  "faoCode": null,
+  "note": "(*) Sólo en la costa Pacífica del Canal de Panamá",
+  "children": []
+ },
+ {
+  "id": "hexapanopeus-costaricensis",
+  "rank": "species",
+  "scientificName": "Hexapanopeus costaricensis",
+  "parent": "Hexapanopeus",
+  "author": "Garth, 1940",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hexapanopeus-nicaraguensis",
+  "rank": "species",
+  "scientificName": "Hexapanopeus nicaraguensis",
+  "parent": "Hexapanopeus",
+  "author": "(Rathbun, 1904)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hexapanopeus-orcutti",
+  "rank": "species",
+  "scientificName": "Hexapanopeus orcutti",
+  "parent": "Hexapanopeus",
+  "author": "Rathbun, 1930",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hexapanopeus-rubicundus",
+  "rank": "species",
+  "scientificName": "Hexapanopeus rubicundus",
+  "parent": "Hexapanopeus",
+  "author": "Rathbun, 1933",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "hexapanopeus-sinaloensis",
+  "rank": "species",
+  "scientificName": "Hexapanopeus sinaloensis",
+  "parent": "Hexapanopeus",
+  "author": "Rathbun, 1930",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "kraussia",
+  "rank": "genus",
+  "scientificName": "Kraussia",
+  "parent": "Xanthidae",
+  "children": [
+   "Kraussia americana"
+  ]
+ },
+ {
+  "id": "kraussia-americana",
+  "rank": "species",
+  "scientificName": "Kraussia americana",
+  "parent": "Kraussia",
+  "author": "Garth, 1939",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "liomera",
+  "rank": "genus",
+  "scientificName": "Liomera",
+  "parent": "Xanthidae",
+  "children": [
+   "Liomera cinctimana"
+  ]
+ },
+ {
+  "id": "liomera-cinctimana",
+  "rank": "species",
+  "scientificName": "Liomera cinctimana",
+  "parent": "Liomera",
+  "author": "(White, 1847)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "lipaesthesius",
+  "rank": "genus",
+  "scientificName": "Lipaesthesius",
+  "parent": "Xanthidae",
+  "children": [
+   "Lipaesthesius leeanus"
+  ]
+ },
+ {
+  "id": "lipaesthesius-leeanus",
+  "rank": "species",
+  "scientificName": "Lipaesthesius leeanus",
+  "parent": "Lipaesthesius",
+  "author": "Rathbun, 1898",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "lophopanopeus",
+  "rank": "genus",
+  "scientificName": "Lophopanopeus",
+  "parent": "Xanthidae",
+  "children": [
+   "Lophopanopeus frontalis"
+  ]
+ },
+ {
+  "id": "lophopanopeus-frontalis",
+  "rank": "species",
+  "scientificName": "Lophopanopeus frontalis",
+  "parent": "Lophopanopeus",
+  "author": "(Rathbun, 1893)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "lophoxanthus",
+  "rank": "genus",
+  "scientificName": "Lophoxanthus",
+  "parent": "Xanthidae",
+  "children": [
+   "Lophoxanthus lamellipes"
+  ]
+ },
+ {
+  "id": "lophoxanthus-lamellipes",
+  "rank": "species",
+  "scientificName": "Lophoxanthus lamellipes",
+  "parent": "Lophoxanthus",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "medaeus",
+  "rank": "genus",
+  "scientificName": "Medaeus",
+  "parent": "Xanthidae",
+  "children": [
+   "Medaeus pelagius",
+   "Medaeus spinulifer"
+  ]
+ },
+ {
+  "id": "medaeus-pelagius",
+  "rank": "species",
+  "scientificName": "Medaeus pelagius",
+  "parent": "Medaeus",
+  "author": "(Glassell, 1936)",
+  "faoCode": null,
+  "note": "Medaeus (sensu Rathbun)",
+  "children": []
+ },
+ {
+  "id": "medaeus-spinulifer",
+  "rank": "species",
+  "scientificName": "Medaeus spinulifer",
+  "parent": "Medaeus",
+  "author": "(Rathbun, 1898)",
+  "faoCode": null,
+  "note": "Medaeus (sensu Rathbun)",
+  "children": []
+ },
+ {
+  "id": "menippe-obtusa",
+  "rank": "species",
+  "scientificName": "Menippe obtusa",
+  "parent": "Menippe",
+  "author": "Stimpson, 1859",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "metopocarcinus",
+  "rank": "genus",
+  "scientificName": "Metopocarcinus",
+  "parent": "Xanthidae",
+  "children": [
+   "Metopocarcinus concavatus",
+   "Metopocarcinus truncatus"
+  ]
+ },
+ {
+  "id": "metopocarcinus-concavatus",
+  "rank": "species",
+  "scientificName": "Metopocarcinus concavatus",
+  "parent": "Metopocarcinus",
+  "author": "Crane, 1947",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "metopocarcinus-truncatus",
+  "rank": "species",
+  "scientificName": "Metopocarcinus truncatus",
+  "parent": "Metopocarcinus",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "microcassiope",
+  "rank": "genus",
+  "scientificName": "Microcassiope",
+  "parent": "Xanthidae",
+  "children": [
+   "Microcassiope xantusii"
+  ]
+ },
+ {
+  "id": "microcassiope-xantusii",
+  "rank": "species",
+  "scientificName": "Microcassiope xantusii",
+  "parent": "Microcassiope",
+  "author": "(Stimpson, 1871)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "micropanope",
+  "rank": "genus",
+  "scientificName": "Micropanope",
+  "parent": "Xanthidae",
+  "children": [
+   "Micropanope armstrongi",
+   "Micropanope ashcrafti",
+   "Micropanope cristimanus",
+   "Micropanope lata",
+   "Micropanope maculatus",
+   "Micropanope taylori"
+  ]
+ },
+ {
+  "id": "micropanope-armstrongi",
+  "rank": "species",
+  "scientificName": "Micropanope armstrongi",
+  "parent": "Micropanope",
+  "author": "(Garth, 1948)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "micropanope-ashcrafti",
+  "rank": "species",
+  "scientificName": "Micropanope ashcrafti",
+  "parent": "Micropanope",
+  "author": "Garth, 1986",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "micropanope-cristimanus",
+  "rank": "species",
+  "scientificName": "Micropanope cristimanus",
+  "parent": "Micropanope",
+  "author": "Stimpson, 1871",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "micropanope-lata",
+  "rank": "species",
+  "scientificName": "Micropanope lata",
+  "parent": "Micropanope",
+  "author": "(Faxon, 1893)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "micropanope-maculatus",
+  "rank": "species",
+  "scientificName": "Micropanope maculatus",
+  "parent": "Micropanope",
+  "author": "(Rathbun, 1898)",
+  "faoCode": null,
+  "note": "Micropanope ? maculatus",
+  "children": []
+ },
+ {
+  "id": "micropanope-taylori",
+  "rank": "species",
+  "scientificName": "Micropanope taylori",
+  "parent": "Micropanope",
+  "author": "Garth, 1986",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "nanocassiope",
+  "rank": "genus",
+  "scientificName": "Nanocassiope",
+  "parent": "Xanthidae",
+  "children": [
+   "Nanocassiope polita"
+  ]
+ },
+ {
+  "id": "nanocassiope-polita",
+  "rank": "species",
+  "scientificName": "Nanocassiope polita",
+  "parent": "Nanocassiope",
+  "author": "(Rathbun, 1893)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "neopanope",
+  "rank": "genus",
+  "scientificName": "Neopanope",
+  "parent": "Xanthidae",
+  "children": [
+   "Neopanope peterseni"
+  ]
+ },
+ {
+  "id": "neopanope-peterseni",
+  "rank": "species",
+  "scientificName": "Neopanope peterseni",
+  "parent": "Neopanope",
+  "author": "Glassell, 1933",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "ozius-perlatus",
+  "rank": "species",
+  "scientificName": "Ozius perlatus",
+  "parent": "Ozius",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "panopeus",
+  "rank": "genus",
+  "scientificName": "Panopeus",
+  "parent": "Xanthidae",
+  "children": [
+   "Panopeus bermudensis",
+   "Panopeus chilensis",
+   "Panopeus diversus",
+   "Panopeus latus",
+   "Panopeus mirafloresensis",
+   "Panopeus purpureus",
+   "Panopeus rugosus"
+  ]
+ },
+ {
+  "id": "panopeus-bermudensis",
+  "rank": "species",
+  "scientificName": "Panopeus bermudensis",
+  "parent": "Panopeus",
+  "author": "Benedict y Rathbun, 1891",
+  "faoCode": null,
+  "note": "Panopeus aff. bermudensis",
+  "children": []
+ },
+ {
+  "id": "panopeus-chilensis",
+  "rank": "species",
+  "scientificName": "Panopeus chilensis",
+  "parent": "Panopeus",
+  "author": "Milne Edwards y Lucas, 1844",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "panopeus-diversus",
+  "rank": "species",
+  "scientificName": "Panopeus diversus",
+  "parent": "Panopeus",
+  "author": "Rathbun, 1933",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "panopeus-latus",
+  "rank": "species",
+  "scientificName": "Panopeus latus",
+  "parent": "Panopeus",
+  "author": "Faxon, 1893",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "panopeus-mirafloresensis",
+  "rank": "species",
+  "scientificName": "Panopeus mirafloresensis",
+  "parent": "Panopeus",
+  "author": "Abele y Kim, 1989",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "panopeus-purpureus",
+  "rank": "species",
+  "scientificName": "Panopeus purpureus",
+  "parent": "Panopeus",
+  "author": "Lockington, 1877",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "panopeus-rugosus",
+  "rank": "species",
+  "scientificName": "Panopeus rugosus",
+  "parent": "Panopeus",
+  "author": "A. Milne Edwards, 1880",
+  "faoCode": null,
+  "note": "(*) Sólo en la costa Pacífica del Canal de Panamá",
+  "children": []
+ },
+ {
+  "id": "paractaea",
+  "rank": "genus",
+  "scientificName": "Paractaea",
+  "parent": "Xanthidae",
+  "children": [
+   "Paractaea sulcata"
+  ]
+ },
+ {
+  "id": "paractaea-sulcata",
+  "rank": "species",
+  "scientificName": "Paractaea sulcata",
+  "parent": "Paractaea",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "paraxanthias",
+  "rank": "genus",
+  "scientificName": "Paraxanthias",
+  "parent": "Xanthidae",
+  "children": [
+   "Paraxanthias insculptus"
+  ]
+ },
+ {
+  "id": "paraxanthias-insculptus",
+  "rank": "species",
+  "scientificName": "Paraxanthias insculptus",
+  "parent": "Paraxanthias",
+  "author": "(Stimpson, 1871)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnoides",
+  "rank": "genus",
+  "scientificName": "Pilumnoides",
+  "parent": "Xanthidae",
+  "children": [
+   "Pilumnoides rotundus"
+  ]
+ },
+ {
+  "id": "pilumnoides-rotundus",
+  "rank": "species",
+  "scientificName": "Pilumnoides rotundus",
+  "parent": "Pilumnoides",
+  "author": "Garth, 1940",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus",
+  "rank": "genus",
+  "scientificName": "Pilumnus",
+  "parent": "Xanthidae",
+  "children": [
+   "Pilumnus depressus",
+   "Pilumnus gonzalensis",
+   "Pilumnus limosus",
+   "Pilumnus nobilii",
+   "Pilumnus pygmaeus",
+   "Pilumnus reticulatus",
+   "Pilumnus spinohirsutus",
+   "Pilumnus stimpsoni",
+   "Pilumnus tectus",
+   "Pilumnus townsendi",
+   "Pilumnus xantusii"
+  ]
+ },
+ {
+  "id": "pilumnus-depressus",
+  "rank": "species",
+  "scientificName": "Pilumnus depressus",
+  "parent": "Pilumnus",
+  "author": "Stimpson, 1871",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-gonzalensis",
+  "rank": "species",
+  "scientificName": "Pilumnus gonzalensis",
+  "parent": "Pilumnus",
+  "author": "Rathbun, 1893",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-limosus",
+  "rank": "species",
+  "scientificName": "Pilumnus limosus",
+  "parent": "Pilumnus",
+  "author": "Smith, 1869",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-nobilii",
+  "rank": "species",
+  "scientificName": "Pilumnus nobilii",
+  "parent": "Pilumnus",
+  "author": "Garth, 1948",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-pygmaeus",
+  "rank": "species",
+  "scientificName": "Pilumnus pygmaeus",
+  "parent": "Pilumnus",
+  "author": "Boone, 1926",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-reticulatus",
+  "rank": "species",
+  "scientificName": "Pilumnus reticulatus",
+  "parent": "Pilumnus",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-spinohirsutus",
+  "rank": "species",
+  "scientificName": "Pilumnus spinohirsutus",
+  "parent": "Pilumnus",
+  "author": "(Lockington, 1877)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-stimpsoni",
+  "rank": "species",
+  "scientificName": "Pilumnus stimpsoni",
+  "parent": "Pilumnus",
+  "author": "Miers, 1886",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-tectus",
+  "rank": "species",
+  "scientificName": "Pilumnus tectus",
+  "parent": "Pilumnus",
+  "author": "Rathbun, 1933",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-townsendi",
+  "rank": "species",
+  "scientificName": "Pilumnus townsendi",
+  "parent": "Pilumnus",
+  "author": "Rathbun, 1923",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "pilumnus-xantusii",
+  "rank": "species",
+  "scientificName": "Pilumnus xantusii",
+  "parent": "Pilumnus",
+  "author": "Stimpson, 1860",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "platyactaea",
+  "rank": "genus",
+  "scientificName": "Platyactaea",
+  "parent": "Xanthidae",
+  "children": [
+   "Platyactaea dovii"
+  ]
+ },
+ {
+  "id": "platyactaea-dovii",
+  "rank": "species",
+  "scientificName": "Platyactaea dovii",
+  "parent": "Platyactaea",
+  "author": "(Stimpson, 1871)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "platypodiella",
+  "rank": "genus",
+  "scientificName": "Platypodiella",
+  "parent": "Xanthidae",
+  "children": [
+   "Platypodiella gemmata",
+   "Platypodiella rotundata"
+  ]
+ },
+ {
+  "id": "platypodiella-gemmata",
+  "rank": "species",
+  "scientificName": "Platypodiella gemmata",
+  "parent": "Platypodiella",
+  "author": "Rathbun, 1902",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "platypodiella-rotundata",
+  "rank": "species",
+  "scientificName": "Platypodiella rotundata",
+  "parent": "Platypodiella",
+  "author": "(Stimpson, 1860)",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "quadrella",
+  "rank": "genus",
+  "scientificName": "Quadrella",
+  "parent": "Xanthidae",
+  "children": [
+   "Quadrella nitida"
+  ]
+ },
+ {
+  "id": "quadrella-nitida",
+  "rank": "species",
+  "scientificName": "Quadrella nitida",
+  "parent": "Quadrella",
+  "author": "Smith, 1869",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "trapezia",
+  "rank": "genus",
+  "scientificName": "Trapezia",
+  "parent": "Xanthidae",
+  "children": [
+   "Trapezia corallina",
+   "Trapezia digitalis",
+   "Trapezia ferruginea",
+   "Trapezia formosa"
+  ]
+ },
+ {
+  "id": "trapezia-corallina",
+  "rank": "species",
+  "scientificName": "Trapezia corallina",
+  "parent": "Trapezia",
+  "author": "Gerstaecker, 1856",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "trapezia-digitalis",
+  "rank": "species",
+  "scientificName": "Trapezia digitalis",
+  "parent": "Trapezia",
+  "author": "Latreille, 1825",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "trapezia-ferruginea",
+  "rank": "species",
+  "scientificName": "Trapezia ferruginea",
+  "parent": "Trapezia",
+  "author": "Latreille, 1825",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "trapezia-formosa",
+  "rank": "species",
+  "scientificName": "Trapezia formosa",
+  "parent": "Trapezia",
+  "author": "Smith, 1869",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "xanthodius",
+  "rank": "genus",
+  "scientificName": "Xanthodius",
+  "parent": "Xanthidae",
+  "children": [
+   "Xanthodius cooksoni",
+   "Xanthodius sternberghi",
+   "Xanthodius stimpsoni"
+  ]
+ },
+ {
+  "id": "xanthodius-cooksoni",
+  "rank": "species",
+  "scientificName": "Xanthodius cooksoni",
+  "parent": "Xanthodius",
+  "author": "Miers, 1877",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "xanthodius-sternberghi",
+  "rank": "species",
+  "scientificName": "Xanthodius sternberghi",
+  "parent": "Xanthodius",
+  "author": "Stimpson, 1859",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "xanthodius-stimpsoni",
+  "rank": "species",
+  "scientificName": "Xanthodius stimpsoni",
+  "parent": "Xanthodius",
+  "author": "(A. Milne Edwards, 1879)",
+  "faoCode": null,
+  "note": "Xanthodius (sensu Rathbun) stimpsoni",
+  "children": []
+ },
+ {
+  "id": "uca-festae",
+  "rank": "species",
+  "scientificName": "Uca festae",
+  "parent": "Uca",
+  "author": "Nobili, 1902",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-musica-musica",
+  "rank": "species",
+  "scientificName": "Uca musica musica",
+  "parent": "Uca",
+  "author": "Rathbun, 1914",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ },
+ {
+  "id": "uca-musica-terpsichores",
+  "rank": "species",
+  "scientificName": "Uca musica terpsichores",
+  "parent": "Uca",
+  "author": "Crane, 1941",
+  "faoCode": null,
+  "note": null,
+  "children": []
+ }
+]

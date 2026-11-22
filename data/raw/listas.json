@@ -1,0 +1,1427 @@
+{
+ "Calappidae": [
+  {
+   "scientificName": "Calappa convexa de",
+   "subgenus": null,
+   "author": "Saussure, 1853",
+   "note": null,
+   "faoCode": "CAL Cal 5"
+  },
+  {
+   "scientificName": "Calappa hepatica",
+   "subgenus": null,
+   "author": "(Linnaeus, 1764)",
+   "note": null,
+   "faoCode": "CAL Cal 6"
+  },
+  {
+   "scientificName": "Calappa saussurei",
+   "subgenus": null,
+   "author": "Rathbun, 1898",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Cycloes bairdii",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hepatella amica",
+   "subgenus": null,
+   "author": "Smith, 1869",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hepatella peruviana",
+   "subgenus": null,
+   "author": "Rathbun, 1910",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hepatus kossmanni",
+   "subgenus": null,
+   "author": "Neumann, 1878",
+   "note": null,
+   "faoCode": "CAL Hepa 1"
+  },
+  {
+   "scientificName": "Hepatus lineatus",
+   "subgenus": null,
+   "author": "Rathbun, 1898",
+   "note": null,
+   "faoCode": "CAL Hepa 2"
+  },
+  {
+   "scientificName": "Osachila acuta",
+   "subgenus": null,
+   "author": "Stimpson, 1871",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Osachila lata",
+   "subgenus": null,
+   "author": "Faxon, 1893",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Osachila levis",
+   "subgenus": null,
+   "author": "Rathbun, 1898",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Osachila sona",
+   "subgenus": null,
+   "author": "Garth, 1940",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Platymera gaudichaudii",
+   "subgenus": null,
+   "author": "H. Milne Edwards, 1837",
+   "note": null,
+   "faoCode": "CAL Murs 1"
+  },
+  {
+   "scientificName": "Calappa convexa d",
+   "subgenus": null,
+   "author": "e S a u s s u r e , 1853",
+   "note": null,
+   "faoCode": "CAL Cal 5"
+  }
+ ],
+ "Cancridae": [
+  {
+   "scientificName": "Cancer amphioetus",
+   "subgenus": null,
+   "author": "Rathbun, 1898",
+   "note": null,
+   "faoCode": "CAN Can 5"
+  },
+  {
+   "scientificName": "Cancer antennarius",
+   "subgenus": null,
+   "author": "Stimpson, 1856",
+   "note": null,
+   "faoCode": "CAN Can 6"
+  },
+  {
+   "scientificName": "Cancer johngarthi",
+   "subgenus": null,
+   "author": "Carvacho, 1989",
+   "note": null,
+   "faoCode": "CAN Can 7"
+  }
+ ],
+ "Dorippidae": [
+  {
+   "scientificName": "Ethusa ciliatifrons",
+   "subgenus": null,
+   "author": "Faxon, 1893",
+   "note": null,
+   "faoCode": "DORIP Ethu 1"
+  },
+  {
+   "scientificName": "Ethusa lata",
+   "subgenus": null,
+   "author": "Rathbun, 1893",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ethusa panamensis",
+   "subgenus": null,
+   "author": "Firtnegan, 1931",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ethusa steyaerti",
+   "subgenus": null,
+   "author": "Hendrickx, 1989",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ethusina faxoni",
+   "subgenus": null,
+   "author": "Rathbun, 1933",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ethusina gracilipes",
+   "subgenus": null,
+   "author": "(Miers, 1886)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ethusina robusta",
+   "subgenus": null,
+   "author": "(Miers, 1886)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ethusina smithiana",
+   "subgenus": null,
+   "author": "Faxon, 1893",
+   "note": null,
+   "faoCode": null
+  }
+ ],
+ "Gecarcinidae": [
+  {
+   "scientificName": "Cardisoma crassum",
+   "subgenus": null,
+   "author": "Smith, 1870",
+   "note": null,
+   "faoCode": "GECAR Cardis 3"
+  },
+  {
+   "scientificName": "Gecarcinus malpilensis",
+   "subgenus": "Johngarthia",
+   "author": "Faxon, 1893",
+   "note": null,
+   "faoCode": "GECAR Gecar 1"
+  },
+  {
+   "scientificName": "Gecarcinus planatus",
+   "subgenus": "Johngarthia",
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": "GECAR Gecar 2"
+  },
+  {
+   "scientificName": "Gecarcinus quadratus de",
+   "subgenus": "Gecarcinus",
+   "author": "Saussure,1853",
+   "note": null,
+   "faoCode": "GECAR Gecar 3"
+  }
+ ],
+ "Grapsidae": [
+  {
+   "scientificName": "Aratus pisonii",
+   "subgenus": null,
+   "author": "(Milne Edwards, 1837)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Armases angustum",
+   "subgenus": null,
+   "author": "Smith, 1870",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Armases magdalenense",
+   "subgenus": null,
+   "author": "Rathbun, 1918",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Armases occidentale",
+   "subgenus": null,
+   "author": "Smith, 1870",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Cyclograpsus cinereus",
+   "subgenus": null,
+   "author": "Dana, 1851",
+   "note": "(extralimital)",
+   "faoCode": null
+  },
+  {
+   "scientificName": "Cyclograpsus escondidensis",
+   "subgenus": null,
+   "author": "Rathbun, 1933",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Euchirograpsus americanas",
+   "subgenus": null,
+   "author": "A. Milne Edwards, 1880",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Geograpsus lividus",
+   "subgenus": null,
+   "author": "(H. Milne Edwards, 1837)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Glyptograpsus impressus",
+   "subgenus": null,
+   "author": "Smith, 1870",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Goetice americanas",
+   "subgenus": null,
+   "author": "Rathbun, 1923",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Goniopsis cruentata",
+   "subgenus": null,
+   "author": "(Latrielle, 1802)",
+   "note": "(extralimital: Atlántico)",
+   "faoCode": "GRAPS Goniops 2"
+  },
+  {
+   "scientificName": "Goniopsis pulchra",
+   "subgenus": null,
+   "author": "(Lockington, 1876)",
+   "note": null,
+   "faoCode": "GRAPS Graps 1"
+  },
+  {
+   "scientificName": "Grapsus grapsus",
+   "subgenus": null,
+   "author": "(Linnaeus, 1758)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hemigrapsus nudus",
+   "subgenus": null,
+   "author": "(Dana, 1851)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hemigrapsus oregonensis",
+   "subgenus": null,
+   "author": "(Dana, 1851)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Pachygrapsus crassipes",
+   "subgenus": null,
+   "author": "Randall, 1840",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Pachygrapsus minutus",
+   "subgenus": null,
+   "author": "A. Milne Edwards, 1873",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Pachygrapsus planifrons de",
+   "subgenus": null,
+   "author": "Man, 1888",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Pachygrapsus transversus",
+   "subgenus": null,
+   "author": "(Gibbes, 1850)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Percnon abbreviatum",
+   "subgenus": null,
+   "author": "(Dana, 1851)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Percnon gibbesi",
+   "subgenus": null,
+   "author": "(H. Milne Edwards, 1853)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Percnon planissimum",
+   "subgenus": null,
+   "author": "Herbst, 1804",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Plagusia depressa tuberculata",
+   "subgenus": null,
+   "author": "Lamarck, 1818",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Plagusia immaculata",
+   "subgenus": null,
+   "author": "Lamarck, 1818",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Plagusia speciosa",
+   "subgenus": null,
+   "author": "Dana, 1851",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Planes cyaneus",
+   "subgenus": null,
+   "author": "Dana, 1852",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Sesarma aequatoriale",
+   "subgenus": null,
+   "author": "Ortmann, 1894",
+   "note": null,
+   "faoCode": "GRAPS Ses 2"
+  },
+  {
+   "scientificName": "Sesarma rhizophorae",
+   "subgenus": null,
+   "author": "Rathbun, 1906",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Sesarma rubinofforum",
+   "subgenus": null,
+   "author": "Abele, 1973",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Sesarma sulcatum",
+   "subgenus": null,
+   "author": "Smith, 1870",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Tetragrapsus jouyi",
+   "subgenus": null,
+   "author": "(Rathbun, 1893)",
+   "note": null,
+   "faoCode": null
+  }
+ ],
+ "Majidae": [
+  {
+   "scientificName": "Maiopsis panamensis",
+   "subgenus": null,
+   "author": "Faxon, 1893",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ala cornuta",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hemus analogus",
+   "subgenus": null,
+   "author": "Rathbun, 1898",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hemus finneganae",
+   "subgenus": null,
+   "author": "Garth, 1958",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Macrocoeloma heptacanthum",
+   "subgenus": null,
+   "author": "(Bell, 1835)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Macrocoeloma maccullochae",
+   "subgenus": null,
+   "author": "Garth, 1940",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Macrocoeloma villosum",
+   "subgenus": null,
+   "author": "(Bell, 1835)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Microphrys branchialis",
+   "subgenus": null,
+   "author": "Rathbun, 1898",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Microphrys platysoma",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Microphrys triangulatus",
+   "subgenus": null,
+   "author": "(Lockington, 1877)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Mithrax armatus de",
+   "subgenus": "Mithrax",
+   "author": "Saussure, 1853",
+   "note": null,
+   "faoCode": "MAJI Mit 1"
+  },
+  {
+   "scientificName": "Mithrax denticulatus",
+   "subgenus": "Mithraculus",
+   "author": "Bell, 1835",
+   "note": null,
+   "faoCode": "MAJI Steno 1"
+  },
+  {
+   "scientificName": "Mithrax pygmaeus",
+   "subgenus": "Mithrax",
+   "author": "Bell, 1835",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Mithrax sinensis clarionensis",
+   "subgenus": "Mithrax",
+   "author": "Garth, 1940",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Mithrax sinensis sinensis",
+   "subgenus": "Mithrax",
+   "author": "Rathbun, 1892",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Mithrax spinipes",
+   "subgenus": "Mithrax",
+   "author": "(Bell, 1835)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Mithrax tuberculatus",
+   "subgenus": "Mithrax",
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Stenocionops angusta",
+   "subgenus": null,
+   "author": "(Lockington, 1877)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Stenocionops beebei",
+   "subgenus": null,
+   "author": "Glassell, 1936",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Stenocionops ovata",
+   "subgenus": null,
+   "author": "(Bell, 1835)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Teleophrys cristulipes",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Thoe sulcata panamensis",
+   "subgenus": null,
+   "author": "Nobill, 1901",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Thoe sulcata sulcata",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": null
+  }
+ ],
+ "Ocypodidae": [
+  {
+   "scientificName": "Ocypode ceratophthalma",
+   "subgenus": null,
+   "author": "(Pallas, 1772)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ocypode gaudichaudii",
+   "subgenus": null,
+   "author": "(H. Milne Edwards y Lucas, 1843)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ocypode occidentalis",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca argillicola",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": "OCYP Ucid 2"
+  },
+  {
+   "scientificName": "Uca batuenta",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca beebei",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca brevifrons",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca crenulata coloradensis",
+   "subgenus": null,
+   "author": "(Rathbun, 1893)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca crenulata crenulata",
+   "subgenus": null,
+   "author": "Lockington, 1877",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca deichmanni",
+   "subgenus": null,
+   "author": "Rathbun, 1935",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca dorotheae von",
+   "subgenus": null,
+   "author": "Hagen, 1968",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca galapagensis",
+   "subgenus": null,
+   "author": "Rathbun, 1902",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca heteropleura",
+   "subgenus": null,
+   "author": "(Smith, 1870)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca inaequalis",
+   "subgenus": null,
+   "author": "Rathbun, 1935",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca latimanus",
+   "subgenus": null,
+   "author": "(Rathbun, 1893)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca leptochela",
+   "subgenus": null,
+   "author": "Bott, 1954",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca limicola",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca maracoani insignis",
+   "subgenus": null,
+   "author": "(Milne Edwards, 1852)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca oerstedi",
+   "subgenus": null,
+   "author": "Rathbun, 1904",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca ornata",
+   "subgenus": null,
+   "author": "(Smith, 1870)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca panamensis",
+   "subgenus": null,
+   "author": "(Stimpson, 1859)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca princeps monilifera",
+   "subgenus": null,
+   "author": "Rathbun, 1914",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca princeps princeps",
+   "subgenus": null,
+   "author": "(Smith, 1870)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca pygmaea",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca saltitanta",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca stenodactylus",
+   "subgenus": null,
+   "author": "(H. Milne Edwards y Lucas, 1843)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca stylifera",
+   "subgenus": null,
+   "author": "(Milne Edwards, 1852)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca tallanica von",
+   "subgenus": null,
+   "author": "Hagen, 1968",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca tenuipedis",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca thayeri umbratila",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca tomentosa",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca vocator ecuadoriensis",
+   "subgenus": null,
+   "author": "Maccagno, 1928",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Uca zacae",
+   "subgenus": null,
+   "author": "Crane, 1941",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ucides occidentalis",
+   "subgenus": null,
+   "author": "(Ortmann, 1897)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Otros nombres",
+   "subgenus": null,
+   "author": "científicos aún utilizados: Ucides cordatas occidentalis (Ortmann, 1897)",
+   "note": null,
+   "faoCode": null
+  }
+ ],
+ "Portunidae": [
+  {
+   "scientificName": "Arenaeus mexicanus",
+   "subgenus": null,
+   "author": "(Gerstaecker, 1856)",
+   "note": null,
+   "faoCode": "PORT Aren 2"
+  },
+  {
+   "scientificName": "Callinectes arcuatus",
+   "subgenus": null,
+   "author": "Ordway, 1863",
+   "note": null,
+   "faoCode": "PORT Cali 13"
+  },
+  {
+   "scientificName": "Callinectes bellicosus",
+   "subgenus": null,
+   "author": "(Stimpson, 1859)",
+   "note": null,
+   "faoCode": "PORT Cali 14"
+  },
+  {
+   "scientificName": "Callinectes exasperatus",
+   "subgenus": null,
+   "author": "(Gerstaecker, 1856)",
+   "note": null,
+   "faoCode": "PORT Cali 5"
+  },
+  {
+   "scientificName": "Callinectes toxotes",
+   "subgenus": null,
+   "author": "Ordway, 1863",
+   "note": null,
+   "faoCode": "PORT Cali 15"
+  },
+  {
+   "scientificName": "Cronius ruber",
+   "subgenus": null,
+   "author": "(Lamarck, 1818)",
+   "note": null,
+   "faoCode": "PORT Cron 1"
+  },
+  {
+   "scientificName": "Euphylax dovii",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": "PORT Euphy 1"
+  },
+  {
+   "scientificName": "Euphylax robustus",
+   "subgenus": null,
+   "author": "A. Milne Edwards, 1874",
+   "note": null,
+   "faoCode": "PORT Euphy 2"
+  },
+  {
+   "scientificName": "Portunus acuminatus",
+   "subgenus": null,
+   "author": "(Stimpson, 1871)",
+   "note": null,
+   "faoCode": "PORT Portun 4"
+  },
+  {
+   "scientificName": "Portunus asper",
+   "subgenus": null,
+   "author": "(A. Milne Edwards, 1861)",
+   "note": null,
+   "faoCode": "PORT Portun 5"
+  },
+  {
+   "scientificName": "Portunus brevimanus",
+   "subgenus": null,
+   "author": "(Faxon, 1895)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Portunus guaymasensis",
+   "subgenus": null,
+   "author": "Garth y Stephenson, 1966",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Portunus iridescens",
+   "subgenus": null,
+   "author": "(Rathbun, 1893)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Portunus stanfordi",
+   "subgenus": null,
+   "author": "Rathbun, 1898",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Portunus tuberculatus",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Portunus xantusii",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  }
+ ],
+ "Xanthidae": [
+  {
+   "scientificName": "Actaea augusta",
+   "subgenus": null,
+   "author": "Rathbun, 1898",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Carpilus convexus",
+   "subgenus": null,
+   "author": "(Forskál, 1775)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Cataleptodius occidentalis",
+   "subgenus": null,
+   "author": "(Stimpson, 1871)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Cataleptodius taboganus",
+   "subgenus": null,
+   "author": "(Rathbun, 1912)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Chacellus pacificus",
+   "subgenus": null,
+   "author": "Hendrickx, 1989",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Coralliope armstrongi",
+   "subgenus": null,
+   "author": "(Garth, 1948)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Cycloxanthops vittatus",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Cycloxanthops bocki",
+   "subgenus": null,
+   "author": "Garth, 1957",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Daira americana",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Domecia hispida",
+   "subgenus": null,
+   "author": "Eydoux y Souleyet, 1842",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Edwardsium lobipes",
+   "subgenus": null,
+   "author": "(Rathbun, 1898)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Epixanthus tenuidactylus",
+   "subgenus": null,
+   "author": "(Lockington, 1877)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eriphia squamata",
+   "subgenus": null,
+   "author": "Stimpson, 1859",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eriphides hispida",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurypanopeus canalensis",
+   "subgenus": null,
+   "author": "Abele y Kim, 1989",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurypanopeus confragosus",
+   "subgenus": null,
+   "author": "Rathbun, 1933",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurypanopeus dissimilis",
+   "subgenus": null,
+   "author": "(Benedict y Rathbun, 1891)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurypanopeus ovatus",
+   "subgenus": null,
+   "author": "(Benedict y Rathbun, 1891)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurypanopeus planissimus",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurypanopeus planus",
+   "subgenus": null,
+   "author": "(Smith, 1869)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurypanopeus transversus",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurytium affine",
+   "subgenus": null,
+   "author": "(Streets y Kingsley, 1879)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurytium albidigitum",
+   "subgenus": null,
+   "author": "Rathbun, 1933",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurytium tristani minor",
+   "subgenus": null,
+   "author": "(Bott, 1955)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Eurytium tristani tristani",
+   "subgenus": null,
+   "author": "(Rathbun, 1906)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Globopilumnus xantusii",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Glyptoxanthus labyrinthicus",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Glyptoxanthus meandricus",
+   "subgenus": null,
+   "author": "(Lockington, 1877)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Gonopanope angusta",
+   "subgenus": null,
+   "author": "(Lockington, 1877)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Gonopanope areolata",
+   "subgenus": null,
+   "author": "(Rathbun, 1898)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Heteractaea lunata",
+   "subgenus": null,
+   "author": "(Milne Edwards y Lucas, 1843)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Heteractaea peterseni",
+   "subgenus": null,
+   "author": "Garth, 1940",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hexapanopeus beebei",
+   "subgenus": null,
+   "author": "Garth, 1961",
+   "note": "(*)",
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hexapanopeus costaricensis",
+   "subgenus": null,
+   "author": "Garth, 1940",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hexapanopeus nicaraguensis",
+   "subgenus": null,
+   "author": "(Rathbun, 1904)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hexapanopeus orcutti",
+   "subgenus": null,
+   "author": "Rathbun, 1930",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hexapanopeus rubicundus",
+   "subgenus": null,
+   "author": "Rathbun, 1933",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Hexapanopeus sinaloensis",
+   "subgenus": null,
+   "author": "Rathbun, 1930",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Kraussia americana",
+   "subgenus": null,
+   "author": "Garth, 1939",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Liomera cinctimana",
+   "subgenus": null,
+   "author": "(White, 1847)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Lipaesthesius leeanus",
+   "subgenus": null,
+   "author": "Rathbun, 1898",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Lophopanopeus frontalis",
+   "subgenus": null,
+   "author": "(Rathbun, 1893)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Lophoxanthus lamellipes",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Menippe frontalis",
+   "subgenus": null,
+   "author": "A. Milne Edwards, 1879",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Menippe obtusa",
+   "subgenus": null,
+   "author": "Stimpson, 1859",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Metopocarcinus concavatus",
+   "subgenus": null,
+   "author": "Crane, 1947",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Metopocarcinus truncatus",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Microcassiope xantusii",
+   "subgenus": null,
+   "author": "(Stimpson, 1871)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Micropanope armstrongi",
+   "subgenus": null,
+   "author": "(Garth, 1948)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Micropanope ashcrafti",
+   "subgenus": null,
+   "author": "Garth, 1986",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Micropanope cristimanus",
+   "subgenus": null,
+   "author": "Stimpson, 1871",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Micropanope lata",
+   "subgenus": null,
+   "author": "(Faxon, 1893)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Micropanope taylori",
+   "subgenus": null,
+   "author": "Garth, 1986",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Nanocassiope polita",
+   "subgenus": null,
+   "author": "(Rathbun, 1893)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Neopanope peterseni",
+   "subgenus": null,
+   "author": "Glassell, 1933",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Ozius perlatus",
+   "subgenus": null,
+   "author": "Stimpson, 1860",
+   "note": null,
+   "faoCode": "XANTH Ozi 1"
+  },
+  {
+   "scientificName": "Ozius verreauxii de",
+   "subgenus": null,
+   "author": "Saussure, 1853",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Panopeus chilensis",
+   "subgenus": null,
+   "author": "Milne Edwards y Lucas, 1844",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Panopeus diversus",
+   "subgenus": null,
+   "author": "Rathbun, 1933",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Panopeus latus",
+   "subgenus": null,
+   "author": "Faxon, 1893",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Panopeus mirafloresensis",
+   "subgenus": null,
+   "author": "Abele y Kim, 1989",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Panopeus purpureus",
+   "subgenus": null,
+   "author": "Lockington, 1877",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Panopeus rugosas",
+   "subgenus": null,
+   "author": "A. Milne Edwards, 1880",
+   "note": "(*)",
+   "faoCode": null
+  },
+  {
+   "scientificName": "Paractaea sulcata",
+   "subgenus": null,
+   "author": "(Stimpson, 1860)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Paraxanthias insculptus",
+   "subgenus": null,
+   "author": "(Stimpson, 1871)",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Pilumñoides rotundas",
+   "subgenus": null,
+   "author": "Garth, 1940",
+   "note": null,
+   "faoCode": null
+  },
+  {
+   "scientificName": "Pilumnus nobilii",
+   "subgenus": null,
+   "author": "Garth, 1948",
+   "note": null,
+   "faoCode": null
+  }
+ ]
+}

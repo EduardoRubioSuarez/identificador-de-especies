@@ -1,0 +1,3158 @@
+       GUIA FAO PARA LA IDENTIFICACION DE ESPECIES
+                                                                                        PARA LOS FINES DE LA PESCA
+
+          PACIFICO CENTRO-ORIENTAL
+
+                                                               Volumen I
+
+                      PLANTAS E INVERTEBRADOS
+
+                                                         Redactores técnicos
+       W . Fischer, F. Krupp, W. Schneider, C. S o m m e r , K.E. Carpenter y V.H. N i e m
+
+                     preparado por el Programa de identificación y datos de especies
+                                          Departamento de Pesca de la FAO
+                                                                     y el
+
+                                      Instituto de Investigación Senckenberg
+
+                                                  con el apoyo financiero de la
+                                                      COMISION EUROPEA
+
+                                               Dirección Ggperal para el Desarrollo
+                                                                   y de la
+
+                               Agencia Noruega para el Desarrollo Internacional (NORAD)
+
+ORGANIZACION DE LAS NACIONES UNIDAS PARA LA AGRICULTURA Y LA ALIMENTACION
+                                                                Roma, 1995
+Las denominaciones empleadas en esta publicación y la forma
+en que aparecen presentados los datos que contiene no impli-
+can, de parte de la Organización de las Naciones Unidas para
+la Agricultura y la Alimentación, juicio alguno sobre la condición
+jurídica de países,' territorios, ciudades o zonas, o de sus
+autoridades, ni respecto de la delimitación de sus fronteras o
+límites.
+
+                                                                              M-43
+                                                                  ISBN 92-5-303408-4
+
+Este libro es propiedad de la Organización de las Naciones Unidas para la Agricultura y la Alimentación y no podrá
+ser reproducido, ni en su totalidad ni en parte, por cualquier método o procedimiento, sin una autorización por
+escrito del titular de los derechos de autor. Las peticiones para tal autorización, especificando la extensión de lo
+que se desea reproducir y el propósito que con ello se persigue, deberán enviarse al Director de Publicaciones,
+Organización de las Naciones Unidas para la Agricultura y la Alimentación, Via delle Terme di Caracalla, 00100
+Roma, Italia.
+
+                                          © FAO 1995
+
+Cubierta diseñada por Emanuela D'Antoni.
+Fischer, W.; Krupp, F; Schneider, W.; Sommer, C.; Carpenter, K.E.; Niem, V.H.
+
+Guía FAO para la identificación de especies para los fines de la pesca. Pacífico centro-oriental.
+    Volumen I. Plantas e invertebrados.
+
+Roma, FAO. 1995. Vol. 1:1-646 p.
+
+                                                        Resumen
+
+La presente publicación describe las especies de interés para la pesca de los grupos
+mayores de recursos marinos y de aguas salobres explotados en el Pacífico centro-
+oriental. Esta área se extiende desde bahía Magdalena, en la península de Baja
+California, hasta el borde meridional de Colombia, abarcando la parte suroriental del
+área de pesca No. 77 y el extremo nororiental del área No. 87. Los grupos mayores de
+recursos tratados son: algas marinas, corales, gasterópodos, bivalvos, quitones, cefa-
+lópodos, camarones, langostas, cangrejos, estomatópodos, equinodermos, tiburones,
+peces batoídeos, quimeras, peces óseos, tortugas marinas, serpientes marinas, y
+mamíferos marinos. La obra comienza con una descripción del área de estudio, que
+comprende un resumen de sus características geográficas y ecológicas en relación a la
+distribución y abundancia relativa de la flora y fauna, así como una presentación genera)
+de los fondos de pesca, recursos pesqueros predominantes y técnicas de pesca y
+procesamiento utilizadas. Esta Introducción va seguida de la presentación, en orden
+filogenético, de los grupos mayores de recursos, cada uno constituido por una descrip-
+ción general del grupo, un elenco de la terminología técnica empleada, una clave para
+los ordenes y/o familias, y descripciones individuales para las familias de interés para
+la pesca del área. Cada descripción de familia incluye una diagnosis, una clave ilustrada
+para los géneros y/o las especies, una lista completa de especies, descripciones
+individuales de las especies de importancia comerical, y/o una lista ilustrada de las
+especies de interés marginal para la pesca. Cada descripción de especie incluye el
+nombre latino actualizado, los sinónimos aún utilizados, los nombres vernáculos de la
+FAO en 3 lenguas, una diagnosis, e información básica sobre talla, distribución geográ-
+fica (mapa) hábitat/biología, y pesca. La guía incluye además una gran cantidad de
+ilustraciones (de todas las familias y especies), esquemas ilustrativos de detalles
+morfológicos, y mapas de distribución. La obra se concluye con un índice de todos los
+nombres latinos y vernáculos utilizados.
+CANGREJOS
+
+                preparado por
+               M.E. Hendrickx
+566                                                                                                 •Cangrejos
+
+                      TERMINOS TECNICOS Y MEDIDAS UTILIZADAS
+
+                                                              quelípedo
+
+                        ángulo orbitario
+                               interno
+
+      ángulo (diente)
+     orbitario externo.
+
+                                                                                                    patas ambulatorias
+                                                                                                    (pereiópodos) 2-5
+
+     espina (diente)
+           lateral
+
+                                                 abdomen
+                                   (plegado bajo el caparazón) isquio c a r P °
+
+                                                                                         propodio;
+
+                                                                                        dáctilo'
+
+                      parte de un cangrejo verdadero (Brachyura) en vista dorsal
+                                                        género Callinectes
+
+     antena
+
+      palpo                                       maxilípedo
+                                                   (externo)
+     cuadro
+      bucal                                                   abdomen del macho                     abdomen de la hembra
+
+                            esternón torácico                 vista ventral de los esternitos torácicos
+               extremo anterior en vista ventral                          y del abdomen replegado
+Consideraciones generales                                                                                  567
+
+                                                          CONSIDERACIONES GENERALES
+
+Los verdaderos cangrejos o braquiuros (Brachyura) presentan un caparazón o cefalotórax deprimido dorso-ven-
+       tralmente y un abdomen reducido en tamaño, recto y simétrico. El abdomen se encuentra total- y permanentemente
+ replegado por debajo del caparazón; sólo en algunas familias de cangrejos primitivos, parte del abdomen (2 o 3
+ segmentos) es aún visible dorsalmente. El abdomen no se usa jamás para la natación y sólo en algunos casos está
+ dotado de urópodos, pero éstos no son nunca birramosos. Al igual que los demás decápodos, los cangrejos braquiuros
+ poseen 5 pares de pereiópodos; el primer par siempre está transformado en quelípedos terminados en pinzas o
+seudopinzas, y es generalmente más fuerte que los 4 pares de pereiópodos restantes que tienen una función
+locomotriz. En algunas familias, el cuarto y el quinto par están atrofiados, y pueden cumplir funciones especializadas,
+como la de mantener un objeto (ej. una valva de almeja) a modo de protección sobre el dorso. Durante la época dé
+reproducción, la hembra lleva los huevos por debajo del abdomen donde se mantienen adheridos a los apéndices
+abdominales (pleópodos) y están protegidos hasta el momento de la eclosión.
+
+En el Pacífico centro-oriental, tal como en otros mares tropicales, este grupo es sumamente diversificado. En efecto, comprende
+unas 410 especies pertenecientes a 20 familias (de acuerdo con Abele, 1985), 9 de las cuales incluyen especies de interés
+para la pesca. La gran mayoría de las especies de la zona son de talla pequeña a mediana, no superando por lo general los
+4 cm de anchura de caparazón. Este grupo incluye casi exclusivamente especies bentónicas (sólo dos especies de Portunidae
+presentan una fase pelágica). Ocupan una gran variedad de ambientes, incluyendo zonas terrestres y litorales, áreas de
+manglares, la plataforma y el talud continentales y las llanuras abisales hasta más de 4 000 m de profundidad.
+
+La clasificación de los braquiuros es todavía tema de discusión. Los autores americanos han seguido, en general, la
+clasificación propuesta en 1982 por T.E. Bowman y L.G. Abele, pero algunos han adoptado ciertas modificaciones
+propuestas por D. Guinot a partir de 1978 y por M. de Saint Laurent en 1980, que afectan profundamente las categorías
+superiores del grupo y, hasta cierto punto, la distribución de -fas familias dentro de éstas. En el presente trabajo se ha
+adoptado una clasificación más reciente, presentada por L. G. Abele en 1985, que incluye algunas de estas modificaciones.
+
+La clave que se presenta a continuación permite distinguir las familias de interés comercial, tratadas aquí, de las demás
+familias de cangrejos que se encuentran en la plataforma continental del área de pesca.
+
+CLAVE PARA LAS FAMILIAS DE BRACHYURA PRESENTES EN EL AREA
+
+1a. Esternitos torácicos anteriores muy anchos, los posteriores (al nivel de los pereiópodos 4 y 5)
+
+angostos y en forma de quilla. Forma general del cuerpo ovalada, alargada (Fig. 1)                         Raninidae
+
+1 b. Esternitos torácicos anteriores no notoriamente anchos, los posteriores no en forma de quilla. Forma  —> 2
+      general del cuerpo variable, pero no alargada
+
+2a. Cuadro bucal de forma triangular, prolongado hacia delante formando un canal (Figs 2b, 4b y 5b) .      ->3
+
+2b. Cuadro bucal de forma más bien cuadrangular, no prolongado hacía delante formando un canal
+       (Figs 11b y 12b).
+
+                                             1 segmentos
+                                        abdominales visibles
+
+                                           a) vista dorsal
+
+                                                                                parte anterior del
+                                                                                    cuadro bucal
+                                                                                     descubierta
+
+                           mero del 3
+                            maxilípedo
+
+     vista dorsal                       b) parte anterior en vista ventral
+Fig. 1 Raninidae                                Fig. 2 Dorippidae
+568                                                                                                                •Cangrejos
+
+3a. Caparazón corto, dejando los primeros dos o tres segmentos abdominales completamente visibles                      4
+       en el plano dorsal (Figs 2a y 3a)                                                                           —> 5
+
+3b. Caparazón bien desarrollado, recubriendo todos los segmentos abdominales
+
+4a. Tercer par de maxilípedos cortos, dejando al descubierto la región anterior deí cuadro bucal (Fig. 2b)
+                                                                                                                                                             Dorippidae
+
+4b. Tercer par de maxilípedos alargados, recubriendo casi enteramente el cuadro bucal (Fig. 3 b ) . . . .
+                                                                                                                             Cyclodorippidae (= T^molidae)
+
+                                                                                                                                                       3er' par de
+                                                                                                                                                     maxilípedos
+                                                                                                                                               (cubre completamente
+                                                                                                                                                   el cuadro bucal)
+
+                                           segmentos
+                                         abdominales
+                                     visibles en el dorso
+
+                  a) vista dorsal                                              b) parte anterior en vista ventral
+                (según Garth, 1966)  Fig. 3 Cyclodorippidae
+
+5a: Aperturas de los canales eferentes situadas a ambos lados del endostomio (Fig. 4b). Caparazón
+
+     generalmente de forma subcircular y globosa, ocasionalmente provisto de protuberencias irregulares
+
+     (Fig. 4a)                                                                                             Leucosiidae
+
+5b. Aperturas de los canales eferentes situados en las bases del primer par de pereiópodos (Figs 5b y c).
+
+     Caparazón generalmente alto y de margen anterior arqueado (Fig. 5a)                                   Calappidae
+
+                                                                          endostomio
+
+                                                                                            cuadro bucal
+
+                                                                                            canal eferente
+                                                                                             quelípedos
+
+1 ' segmentos abdominales no visibles en el dorso                  b) vista ventral del extremo anterior del
+                                                                     caparazón (maxilípedos removidos)
+                a) vista dorsal                Fig. 4 Leucosiidae
+
+                (según Garth, 1940)  3er' par de maxilípedos
+                                      (cubriendo el cuadro
+                                                                          pinza del l e
+                                                bucal)                     pereiópodo
+
+                                                                                         canal eferente
+
+                                                   canal eferente
+                                     b) cefalotórax en vista ventral
+
+segmentos abdominales no visibles en él dorso
+
+                a) vista dorsal                Fig. 5 Calappidae          c) vista frontal
+Consideraciones generales                                                                               569
+
+6a. Quinto par de pereiópodos en posición dorsal y fuertemente reducido (Figs 6 a 8)                  _> 7
+6b. Quintó par de pereiópodos semejante a los demás, eventualmente algo más corto                     —> 9
+
+7a. Caparazón comprimido dorsoventralmente y recubierto de tubérculos (Fig. 6) . . . Palicidae (= Cymopolidae)
+7b. Caparazóri*algo globoso y muy pubescente, o bien, aplanado dorsalmente, sin tubérculos dorsales . . . . —> 8
+
+8a. Cangrejos que se protegen cargando una valva de almeja, una esponja u otro objeto (Figs 7b y c).
+
+Frente convexo, con un par de tubérculos (Fig. 7a)    .                                               Dromiidae
+
+8b. Cangejos generalmente asociados con corales. Frente triangular, con una fuerte ranura dorsal
+
+(Fig. 8)                                                                              Dynomenidae
+
+          tubérculos
+           frontales
+
+                                pereiópodo
+
+                                b) vista frontal (cargando una almeja)
+                                       (según Brusca, 1980)
+
+             a) vista dorsal    Fig. 7 Dromiidae      c) vista frontal (cargando una esponja)
+          (según Brusca, 1980)     frente triangular              (según Brusca, 1980)
+
+                                                      ranura dorsal
+
+                                Fig. 8 Dynomenidae
+570                                                                                                       •Cangrejos
+
+9a. Rostro reducido o ausente; órbitas bien definidas. Caparazón generalmente de forma cuadrangular,      —>20
+       poligonal u ovalada (hasta circular), su región anterior poco o no estrechada                          19
+
+9b. Rostro bien desarrollado, a menudo alargado; órbitas generalmente incompletas. Caparazón gene-
+       ralmente de forma triangular, más angosto en su parte anterior
+
+10a. Mero del tercer par de maxilípedos muy reducido, más angosto que el isquio, su exopodito reducido
+      (Fig. 9c). Especies muy pequeñas, parásitas en corales (Figs 9a y b). . Cryptochiridae (= Hapalocarcinidae)
+
+10b. Mero del tercer par de maxilípedos aproximadamente tan ancho como el isquio, su exopodito no         —> 11
+       reducido. Especies encontradas en diversos hábitats
+
+                                   b) ejemplar "in situ" dentro de un coral
+                                          (según Kim y Abele, .1986)
+
+                                                          exopodito
+                                                          reducido
+
+                a) vista dorsal                                                                     isquio
+           (según vonPrahl, 1987)                                            c) 3er" maxilípedo
+
+                                   Fig. 9 Cryptochiridae
+
+11a. Carpo del tercer par de maxilípedos articulado en el ángulo ántero-interno del mero o cerca de éste  —>72
+       (Fig. 12). Aperturas genitales del macho situadas en las coxas del quinto par de pereiópodos (en
+      posición esternal o intermedia en algunos géneros de Goneplacidae) (Figs 14b y c)
+
+11b. Carpo del tercer par de maxilípedos no articulado en el ángulo ántero-interno del mero o cerca de    —> 16
+      éste. Aperturas genitales del macho situadas en el esternón
+
+12a. Por lo menos el último artejo del quinto par de pereiópodos aplanado, utilizado como apéndice
+
+     natatorio (Fig. 10)                                                                                  Portunidae
+
+12b. Ultimo artejo del quinto par de pereiópodos normal, semejante a aquel de los demás pereiópodos. . . . . — > 13
+
+ dáctilo   a) Euphylax                                     dáctilo           b) Callinectes
+natatorio                                                 natatorio
+
+           (según Brusca, 1980)    Fig. 10 Portunidae
+
+13a. Anténulas replegadas longitudinalmente en sus fosetas (Figs 11b y 12b)                               ->14
+13b. Anténulas replegadas oblicua- o transversalmente en sus fosetas. . . .                               —> 15
+Consideraciones generales                                                                                    571
+
+14a. Caparazón subcircular (Fig. 11a). Flagelo antenal ausente o presente, y en este último caso, largo y
+
+setoso (Fig. 11b)                                                                      Atelecyclidae
+
+14b. Caparazón ancho, ovalado o hexagonal (Fig. 12a). Flagelo antenal siempre presente, corto y setoso
+
+(F¡9-12b)                                                                                                  Cancridae
+
+                                        anténulas replegadas                           flagelo antena!
+                                         longitudinalmente                                     cuadro bucal
+
+                                                                       b) parte anterior en vista ventral
+
+                   a) vista dorsal      Fig. 11 Atelecyclidae
+           (según Kim y Abele, 1986)
+
+                      flagelo antenal
+
+                                                                       antenas         anténulas replegadas
+                                                                                        longitudinalmente
+
+                                                                                                cuadro bucal
+
+                                        carpo
+
+                                        pinza del 1er' pereíopodo                                           carpo-
+                                                                                                            meral
+                                                                                                           del 3er
+                                                                                                           maxilí-
+                                                                                                             pedo
+
+           a) vista dorsal              Fig. 12 Cancridae              b) parte anterior en vista ventral
+
+15a. Caparazón generalmente hexagonal (Fig. 13a) o transversalmente ovalado (Fig. 13c). Aperturas genita-
+
+les del macho situadas en la coxa del quinto par de pereiópodos. Abdomen del macho considerablemente
+
+más angosto a nivel de los segmentos 4 a 7 (Fig. 13b). Más frecuente en aguas someras  . Xanthidae
+
+15b. Caparazón generalmente subcuadrado, hexagonal o transversalmente ovalado (Fig. 14a). Primer
+
+pleópodo del macho (órgano copulador) situado dentro de un conducto que se extiende entre, tas
+
+placas esternales 7 y 8 (Fig. 14b) o bien, es de posición netamente esternal (Fig. 14c); parte del
+
+esternito 8 es siempre visible cerca del segundo segmento abdominal. Más frecuente en aguas
+
+profundas de la plataforma continental                                                 Goneplacidae
+
+           a) género Eurypanopeus                b) abdomen del macho  c) género Cataleptodius
+                  en vista dorsal                    en vista ventral        en vista dorsal
+
+                                        Fig. 13 Xanthidae
+572                                                                                                 •Cangrejos
+
+                  1er pleópodo
+
+                                conducto genital                            1 ' pleópodo (cortado) en posición esternal
+                                                        7a' placa esternal                                      „7a' placa esternal
+
+ segmentos                                              segmentos                                   coxa del 5o'
+abdominales                                            abdominales                                  pereiópodo
+
+                                                                  Yx.
+
+                  8 ' placa esterna  coxa del 5 '
+                                     pereiópodo
+     línea media                                                            línea media         8'' placa esterna
+
+             b) conducto genital situado entre el 7o-                       c ) abertura genital típicamente esternal
+                       y el 8 esternito torácico
+
+                  parte posterior del cefalotórax del macho (mitad izquierda) en vista ventral
+
+                                     Fig. 14 Goneplacidae
+
+16a. Ojos y órbitas reducidos. Caparazón de ia hembra a menudo blando. Cuerpo generalmente redon-
+       deado (Fig. 15a) u ovalado (Fig. 15b) (especies principalmente comensales de invertebrados). . .
+                                                                                                                                                        Pinnotheridae
+
+16b. Ojos normales. Caparazón bien calcificado, duro en ambos sexos. Forma del cuerpo generalmente                     —»17
+       cuadrangular, con los bordes laterales rectos o ligeramente curvos
+Consideraciones generales                                                                               573
+
+17a. Frente generalmente ancha, pero ocasionalmente angosta. Pedúnculos oculares cortos o medianos.     —>18
+       Maxilípedos del tercer par algo separados en su línea media, dejando al descubierto parte de la
+       cavidad bucal
+
+17b. Frente angosta o muy angosta. Pedúnculos oculares largos (Figs 16a y b). Maxilípedos del tercer
+
+par juntos, recubriendo completamente la cavidad bucal                                                  Ocypodidae
+
+                           pedúnculo                                                                    pedúnculo
+                             ocular                                                                       ocular
+
+ a) Ucides                                                    b) Ocypode
+vista dorsal                                                  vista dorsal
+
+                           Fig. 16 Ocypodidae           (según Brusca, 1980)
+
+18a. Márgeneslaterales del caparazón rectos o ligeramente arqueados. Frente ancha (Fig. 17)             Grapsidae
+
+18b. Márgenes laterales del caparazón hinchados y fuertemente arqueados. Frente angosta (Fig. 18). Gecarcinidae
+
+frente ancha                                            frente angosta
+
+       vista dorsal                   margenes                 vista dorsal
+Fig. 17 Grapsidae                      laterales        Fig. 18 Gecarcinidae
+(según Monod, 1956)                   hinchados
+574                                                                                                      •Cangrejos
+
+19a. Quelípedos muy móviles, generalmente más cortos (Figs 19b y c) o de igual longitud que los demás
+
+     pereiópodos, pero en algunos casos netamente más largos (Fig. 19a). Orbitas ausentes o incompletas
+
+     (Figs 19b y d), pero ocasionalmente bien formadas                   Majidae (sensu lato)
+
+19b. Quelípedos poco móviles, a menudo más largos y más robustos que los demás pereiópodos. Orbitas
+
+     siempre bien formadas (Fig. 20)                                     Parthenopidae (sensu lato)
+
+                                   quelípedos
+                             relativamente largos
+
+     5 a) Stenocionops                                                                           quelípedos
+               vista dorsal                                                                         cortos
+
+                                       quelípedos                            vista dorsal
+                                          cortos                         b) género Epialtus
+
+                                        rostro                            (según Garth, 1939)
+
+     c) género Podochela              vista vental del extremo anterior         órbitas bien
+                                             d) género Podochela                 formadas
+            vista dorsal
+        (según Garth, 1939)                   Fig. 19 Majidae
+
+                                                      quelípedos
+                                                  largos, fuertes y
+
+                                                    poco móviles
+
+        a) vista dorsal                                                  b) vista ventral del extremo anterior
+     (según Garth, 1939)
+                                      Fig. 20 Parthenopidae
+Consideraciones generales                                                                  575
+
+                                            LISTA DE LAS FAMILIAS PRESENTES EN EL AREA
+Las familias van seguidas del número de especies presentes en el área {entre paréntesis).
+
+Infraorden BRACHYURA Latreille, 1803
+
+Sección DROMIACEA De Haan, 1833
+
+DROMIIDAE De Haan, 1833                            (4)
+
+DYNOMENIDAE Ortmann, 1892                          (1)
+
+Sección ARCHAEOBRACHYURA Guinot, 1977
+
+CYCLODORIPPIDAE (= TYMOLIDAE) Alcock, 1896         (3)
+
+RANINIDAE De Haan, 1839                            (5)
+
+S e c c i ó n OXYSTOMATA H. Milne Edwards, 1834
+
+CALAPPIDAE De Haan, 1833                           (14)
+
+DORIPPIDAE MacLeay, 1838                           (8)
+
+LEUCOSIIDAE Samouelle, 1819                        (20)
+
+Sección OXYRHYNCHA Latreille, 1803
+
+MAJIDAE Samouelle, 1819                            (93)
+
+PARTHENOPIDAE MacLeay, 1838                        (19)
+
+S e c c i ó n CANCRIDEA Latreille, 1803
+
+ATELECYLIDAE Ortmann, 1893                         (3)
+
+CANCRIDAE Latreille, 1803                          (3)
+
+Sección BRACHYRHYNCHA Borradaile, 1907
+
+CRYPTOCHIRIDAE (= HAPALOCARCINIDAE) Paulson, 1875
+
+GECARCINIDAE MacLeay, 1838                         (4)
+
+GONEPLACIDAE MacLeay, 1838                         (17)
+
+GRAPSIDAE MacLeay, 1838                            (30)
+
+OCYPODIDAE Rafinesque, 1815                        (38)
+
+PALICIDAE (= CYMOPOLIDAE) Rathbun, 1898            (5)
+
+PINNOTHERIDAE De Haan, 1833                        (38)
+
+PORTUNIDAE Rafinesque, 1815                        (18)
+
+XANTHIDAE MacLeay, 1838                            (91)
+576              •Cangrejos
+
+     CALAPPIDAE
+
+                                               Cajetas, calapas
+
+Cuerpo generalmente g l o b o s o y fuertemente arqueado anteriormente. Antenas pequeñas. Cuadro» bucal
+      prolongado hacia delante y de forma triangular, con canales eferentes que s e abren en las b a s e s de los
+quelípedos. Quelípedos simétricos o asimétricos; en varios g é n e r o s (Calappa, Hepatus, Mursia, Cycloes) las pinzas
+presentan una cresta dorsal dentada que encubre la región frontal. Pereiópodos 2 a 5 normales, s e m e j a n t e s
+en forma y tamaño y adaptados a la locomoción. Apertura exhalante de las cavidades branquiales ubicada frente
+
+Cangrejos de talla mediana a grande (hasta 14,5 cm de anchura de caparazón). Si bien la mayoría de las especies viven
+sobre la plataforma continental, algunas se encuentran en el talud hasta más de 500 m de profundidad. Ocupan una gran
+variedad de sustratos, pero suelen preferir fondos arenosos (algunas especies se entierran en la arena). La familia incluye
+varias especies de interés para la pesca, pero aparte de Calappa convexa, ninguna es explotada comercialmente dentro
+de nuestro área de pesca. Sin embargo, varias especies son aprovechadas localmente y pueden representar un recurso
+potencial para el futuro.
+
+La reorganización del grupo Oxystomata recientemente propuesta por D. Guinot ha traído como consecuencia una
+redistribución de los géneros del Pacífico americano tradicionalmente incluidos en la familia Calappidae, reagrupándolos
+bajo dos subfamilias todavía imperfectamente definidas: Calappinae (con los géneros Calappa, Mursia y Cycloes) y un
+taxón intermedio entre Oxystomata y Parthenopoidea (con los géneros Hepatus, Hepatella y Osachila). Sin embargo,
+varios autores americanos recientes han preferido conservar la clasificación tradicional de la familia y en este documento
+se ha seguido el mismo criterio.
+Calappidae                                                                                                           577
+
+Familias de aspecto similar presentes en el área
+
+La mayor parte de los géneros de Calappidae (Calappa, Cycloes, Hepatus yMursia) pueden distinguirse a primera vista
+de la mayoría de las demás familias de cangrejos por la típica cresta dentada (cresta de gallo) en el borde dorsal de las
+pinzas. Los géneros Calappa y Hepatus son además característicos por la expansión dentada póstero-lateral del
+caparazón que cubre los pereiópodos.
+
+Los otros dos géneros (Hepatella yOsachila) son menos característicos, pero pueden distinguirse de otras familias por
+una combinación de caracteres tales como la forma del caparazón (más ancho que largo), la proyección de la frente hacia
+adelante, los 4 pereiópodos posteriores bien desarrollados e iguales (cuarto y quinto pares reducidos en Dorippidae,
+Cyclodorippidae y Dromiidae), la forma triangular del cuadro bucal y la desembocadura de los canales eferentes de la
+cavidad bucal en las bases de los quelípedos (a ambos lados del endostomio en Leucosiidae).
+
+                                                                                    endostomio
+                                                                                                     canal eferente
+
+  5o' par de
+pereiópodos
+
+  reducido
+
+                 vista dorsal                                                    extremo anterior en vista ventral
+              Cyclodorippidae                                                                Leucosiidae
+
+              (según Garth, 1966)
+
+Clave para los g é n e r o s presentes en el área y para las e s p e c i e s de interés para la p e s c a
+
+1a. Caparazón aproximadamente tan largo como ancho, con un solo par de pequeñas espinas laterales
+
+levemente recurvadas hacia adelante (Fig. 1)                                                               Cycloes bardii
+
+1b. Caparazón netamente más ancho que largo                                                                          —> 2
+
+2a. Márgenes laterales del caparazón con una fuerte espina recta (Fig. 2)                           Platymera gaudichaudii
+                                                                                                                                 —> 3
+2b. Márgenes laterales del caparazón sin espina fuerte y recta                   -
+                                                                                    espina lateral
+
+                                                                                                     \
+
+                                                                 espina lateral                 vista dorsal
+                                                                    recurvada    Fig. 2 Platymera gaudichaudii
+
+              caparazón en vista dorsal
+                Fig. 1 Cycloes bardii
+
+3a. Márgenes laterales del caparazón provistos de fuertes dientes triangulares aplanados; márgenes
+
+póstero-laterales formando una expansión dentada que recubre la base de los pereiópodos (Figs 3
+
+y 4)                                                                                                                 ->4
+
+3b. Márgenes laterales del caparazón sin dientes triangulares fuertes y aplanados; márgenes póstero-
+
+laterales sinuosos, no formando expansiones laterales dentadas (Figs 5 a 8)                                          5
+578                                                                                                        •Cangrejos
+
+4a. Caparazón ancho, su anchura por lo menos 1 1/2 veces la longitud; región posterior con escasos
+
+     tubérculos (Fig. 3)                                                                       Calappa convexa
+
+4b. Caparazón angosto, su anchura nunca más de 1 1/4 veces la longitud; regiones anterior y posterior
+
+     con numerosos tubérculos cónicos (Fig. 4)                                                 Calappa saussurei
+
+                                                dientes laterales
+
+             caparazón en vista dorsal                      expansión                vista dorsal
+                                                              dentada     Fig. 4 Calappa saussurei
+        Fig. 3 Calappa convexa
+                                                 expansión
+     (según von Prahl y Sánchez, 1986)          dentada del
+
+                                                   margen
+                                                  póstero-
+
+                                                    lateral
+
+5a. Caparazón casi ovalado, fuertemente arqueado y de superficie regular, sin depresiones laterales ni     —> 6
+       protuberancias muy marcadas. Frente imperceptiblemente prolongada hacia delante (Figs 5 y 6)
+
+5b. Caparazón subrectangular u octogonal, poco o moderadamente arqueado y de superficie irregular, con
+       protuberancias y depresiones muy marcadas. Frente netamente prolongada hacia adelante (Figs 7 y 8) . . . . —» 7
+
+6a. Cresta dorsal de la pinza recortada en 4 dientes irregulares, mal definidos y con algunos pequeños
+
+     tubérculos en el margen. Superficie externa de la mano con numerosos tubérculos pequeños y
+
+     puntiagudos, alineados en crestas. Color del caparazón uniforme o con franjas transversales, a veces
+
+     elípticas. Anchura del caparazón raramente superior a 7 cm (Fig. 5)                       Hepatus kossmanni
+
+6b. Cresta dorsal de la pinza recortada en 4 dientes bien definidos, puntiagudos, triangulares, sin
+
+     tubérculos en el margen. Superficie externa de la mano recubierta de grandes tubérculos redondea-
+
+     dos o aplanados. Color del caparazón rojo-purpura con numerosos pequeños círculos (manchas)
+
+     amarillos o anaranjados. Anchura del caparazón hasta 13 cm (Fig. 6)                       Hepatus lineatus
+
+                                                                             cresta dorsal con
+                                                                          dientes mal definidos
+
+                                                tubérculos pequeos
+                                                    y puntiagudos
+
+     vista dorsal                                                            pinza derecha
+                                                                          (superficie externa)
+                           Fig. 5 Hepatus kossmanni
+                                                                                              cresta con 4 dientes
+                                                                                                  bien definidos
+
+            vista dorsal   Fig. 6 Hepatus lineatus                          pinza izquierda
+                                                                          (superficie extema)
+     (según Brusca, 1980)
+Calappidae                                                                                        579
+
+7a. Caparazón subrectangular, de superficie irregular; regiones laterales cóncavas (Fig. 7) . . . . . . . . Hepatella
+
+7b. Caparazón octagonal, con 6 protuberancias principales muy marcadas (Fig. 8)                   Osachila
+
+                                                                              frente prolongada   protuberancias
+                                                                                                     principales
+
+            frente prolongada
+
+                                               concavo
+
+a) Hepatella amica              b) Hepatella peruviana                              vista dorsal
+                                                                                 Fig. 8 Osachila
+            Fig. 7 caparazón en vista dorsal
+
+Lista de las especies presentes en el área
+
+Las especies descritas o ¡lustradas van seguidas de sus respectivos códigos.
+
+Calappa convexa de Saussure, 1853                       CAL Cal 5
+Calappa hepatica (Linnaeus, 1764)                       CAL Cal 6
+Calappa saussurei Rathbun, 1898
+
+Cycloes bairdii Stimpson, 1860
+
+Hepatella amica Smith, 1869
+Hepatella peruviana Rathbun, 1910
+
+Hepatus kossmanni Neumann, 1878                         CAL Hepa 1
+Hepatus lineatus Rathbun, 1898                          CAL Hepa 2
+
+Osachila acuta Stimpson, 1871
+Osachila lata Faxon, 1893
+Osachila levis Rathbun, 1898
+Osachila sona Garth, 1940
+
+Platymera gaudichaudii H. Milne Edwards, 1837           CAL Murs 1
+580                                                                                                                                 •Cangrejos
+
+  Calappa convexa d e S a u s s u r e , 1853                                                                                  CAL Cal 5
+Nombres vernáculos: FAO: E s - Cajeta bola; Fr - Migralne arche; In - Arched box crab.
+                                                                                                                        cresta dentada
+                Nacional:
+
+                                                                                                         prominencias
+                                                                                                          tuberculadas
+
+crestas con gránulos  caparazón (vista dorsal)                              pinza (superficie externa)
+
+                                         (según von Prahl y Sánchez, 1986)
+
+Caracteres distintivos: Caparazón muy grande, fuertemente arqueado, casi hemisférico, s u anchura generalmente
+m á s de 1 1/2 v e c e s la longitud, recubierto de fuertes prominencias tuberculadas; márgenes laterales con dientes
+anchos, triangulares, aplanados, formando una proyección o expansión póstero-lateral que recubre los pereiópo-
+dos; región posterior del caparazón y dientes laterales provistos de gránulos alineados en crestas cortas. Borde
+dorsal de la mano de la pinza transformado en una cresta de 6 dientes principales. Color: caparazón rojizo con
+manchas amarillas; crestas granulosas del caparazón amarillas.
+
+Talla: Máxima: 14,5 cm (macho) y 12,7 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Hábitat y biología: Vive generalmente sobre fondos arenosos de la zona interna
+de la plataforma continental, entre 9 y 58 m de profundidad. Suele encontrarse
+también sobre fondos duros y ha sido observado ocasionalmente a menos de
+4 m.
+
+P e s c a y utilización: Explotado localmente por las pesquerías artesanales, pero
+también es muy frecuente en las capturas de arrastre camaroneras, ya que se
+encuentra en la franja de la plataforma continental más comunmente visitada por
+los barcos pesqueros. Se vende fresco en los mercados locales de Colombia.
+Calappidae                                                                                                  581
+
+Calappa saussurei R a t h b u n , 1898                CAL Cal 6
+
+Nombres vernáculos: FAO: Es - Cajeta bola pequeña; Fr - Petite migraine arche; In - Small arched box crab.
+               Nacional:
+
+                                                      cresta dentada
+
+                                        triangulares
+
+            vista dorsal
+
+Caracteres distintivos: Caparazón de talla mediana a grande, fuertemente arqueado, relativamente a n g o s t o (su
+anchura nunca más de 1 1/4 v e c e s la longitud); superficie dorsal recubierta de numerosos tubérculos prominen-
+tes; márgenes laterales con dientes anchos, triangulares, aplanados, recorridos por una cresta corta formada por gránulos;
+dientes póstero-laterales formando una proyección o expansión lateral que recubre los pereiópodos. Borde dorsal
+de la mano de la pinza transformada en una cresta con 6 a 8 dientes. Color; caparazón blanco-crema a beige con
+tubérculos de color anaranjado.
+
+Talla: Máxima: 4,3 cm (macho) y 4,3 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Habitat y biología: Ha sido encontrada en una gran variedad de fondos: arena
+compacta, conchuela, arena conchífera, rocas, sustrato arcilloso, restos de coral
+y grava, entre 1 y 274 m de profundidad, pero es más común entre 30 y 100 m
+sobre fondos de arena fina a mediana.
+
+P e s c a y utilización: Una especie de talla relativamente pequeña, pero ocasio-
+nalmente abundante en las capturas de arrastre camaroneras, pudiendo llegar a
+constituir un porcentaje importante de la biomasa de cangrejos recolectados, en
+particular en la parte septentrional del área de pesca.
+582                                                                                       •Cangrejos
+
+Hepatus kossmanni N e u m a n n , 1878                                                    CAL Hepa 1
+
+Nombres vernáculos: FAO: Es - Cajeta habana; Fr - Migraine havane; In - Havana box crab.
+
+                Nacional:
+
+                       frente no                  dientes
+                      proyectada           característicos,
+                                        margen denticulado
+
+                                                             cresta con dientes mal definidos
+
+         margen       vista dorsal      crestas de           pinza (superficie externa)
+    póstero-lateral                     tubérculos
+sinuoso, sin dientes
+
+Caracteres distintivos: Caparazón fuertemente arqueado anteriormente, moderamente alto; frente truncada, no
+rebasando el nivel de las cavidades suborbitariás; márgenes ántero-laterales con dentículos agudos, y divididos
+en grandes dientes obtusos, muy característicos en la parte posterior; márgenes póstero-laterales s i n u o s o s , sin
+dientes fuertes. Cuarto s e g m e n t o abdominal del macho con un par de fuertes protuberancias elípticas. Borde
+dorsal de la pinza transformado en una cresta recortada en 4 dientes irregulares, mal definidos y provistos de
+algunos p e q u e ñ o s tubérculos en el margen; superficie externa de la mano recubierta de numerosos p e q u e ñ o s
+tubérculos puntiagudos alineados en crestas. Color: bastante variable. Caparazón de tonalidad generalmente
+amarillento-habana a rojo-herrumbroso, con franjas transversales rojizas o pardas, a veces elípticas, que pueden ser muy
+pronunciadas o faltar completamente en algunos ejemplares.
+
+Talla: Máxima: 7,2 cm (macho) y 6,8 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Habitat y biología: Vive sobre fondos fangosos y arenosos de la plataforma
+continental y ha sido recolectado entre 3,5 y 75 m de profundidad.
+
+Pesca y utilización: Aunque es probablemente la especie de Calappidae más
+abundante en nuestro área de pesca, H. kossmanni no es explotado comercial-
+mente. Su talla es comparable a aquella de H. chilensis, una especie explotada
+localmente a nivel artésanal en las costas de Chile donde se consume fresca. H.
+kossmanni es extremadamente común en las capturas de arrastre camaroneras
+a través de todo el Pacífico centró-oriental.
+Calappidae                                                                                                    583
+                                                                                             CAL Hepa 2
+  Hepatus lineatus R a t h b u n , 1898
+Nombres vernáculos: FAO: Es - Cajeta moteada; Fr - Migraine tachetée; In - Spoted box crab.
+
+                Nacional:
+
+                                     frente levemente prominente
+
+      vista dorsal    fuertes
+
+(según Brusca, 1980)
+
+Caracteres distintivos: Caparazón fuertemente arqueado, alto; frente ligeramente prominente, rebasando el nivel
+de las cavidades suborbitarias; márgenes ántero-laterales levemente denticulados, recortados en dientes irregu-
+lares, mal definidos en ejemplares adultos; márgenes póstero-laterales sinuosos, sin dientes fuertes. Cuarto
+s e g m e n t o abdominal del macho con varios pares de protuberancias de diferentes tamaños. Borde superior de la
+pinza transformado en una cresta recortada en 4 dientes agudos, triangulares, bien definidos y desprovistos de
+tubérculos. Superficie externa de la mano recubierta de grandes tubérculos redondeados o aplanados. Color:
+cuerpo rojo-púrpura, con numerosos pequeños circuios (o manchas) amarillos o anaranjados que cubren todo el
+caparazón, parte del abdomen, y gran parte de los pereiópodos.
+
+Talla: Máxima: 12,9 cm (macho) y 9,8 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Habitat y biología: Vive en la zona intermareal (parte norte del golfo) y sobre la
+plataforma continental, a menudo enterrado en la arena. Habitualmente se
+encuentra sobre fondos arenosos en aguas poco profundas, pero ha sido reco-
+lectado en profundidades de hasta 185 m.
+
+Pesca y utilización: Es la especie más grande del género Hepatus en el Pacífico
+americano. Se concentra principalmente en el golfo de California, México. No se
+explota comercialmente en el área, pero suele aprovecharse a nivel local, ya que
+es común en ¡as capturas de arrastre camaroneras (especialmente de especies
+del género Penaeus) en las regiones norte y central del golfo, y también es
+abundante en las aguas someras de bahías o ensenadas de fondos arenosos en
+la parte norte del Golfo.
+584                                                                                             •Cangrejos
+
+  Platymera gaudichaudii H. M i l n e E d w a r d s , 1837                               CAL Murs 1
+Otros nombres científicos aún utilizados: Mursia gaudichaudii (H. Milne Edwards, 1837).
+Nombres vernáculos: FAO: Es - Cajeta paco; Fr - Migraine paco; In - Paco box crab.
+
+               Nacional:
+
+                                                                          vista dorsal
+
+Caracteres distintivos: Caparazón transversalmente ovalado, con una espina lateral larga y robusta, dispuesta en
+ángulo recto c o n respecto al eje longitudinal del cuerpo; márgenes ántero-laterales arqueados y finamente dentados;
+márgenes póstero-laterales sinuosos. Una espina semejante, más corta, ubicada en él ángulo ántero-lateral del mero
+de los quelípedos. Borde dorsal de la pinza transformada en una cresta dentada. Color: caparazón amarillo-ana-
+ranjado con tubérculos rojos.
+
+Talla: Máxima: 10,4 cm (macho) y 6,4 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Hábitat y biología: Vive principalmente en las zonas intermedia y externa de la
+plataforma continental, sobre fondos arenosos, lodosos, conchíferos o mixtos,
+entre 31 y 146 m de profundidad pero puede alcanzar profundidades de hasta
+400 m. Sin embargo, muestra una marcada preferencia por fondos arenosos y
+ha sido capturado con mayor frecuencia entre 60 y 140 m.
+
+Pesca y utilización: Dentro del área (por lo menos en las costas de México),
+esta especie es generalmente desechada, a pesar de ser muy abundante como
+fauna acompañante en las pesquerías camaroneras. Fuera del área, frente a las
+costas de Perú y Chile, es explotada localmente con redes de arrastre y nasas y
+se comercializa en fresco.
+Cancridae                                                          585
+
+                                               CANCRIDAE
+
+                                                Jaibas de roca
+
+Caparazón ancho, ovalado o hexagonal, s u s márgenes ántero-laterales formando un arco regular dividido
+      a cada lado en 9 dientes ( e s p e c i e s del área). Parte anterior del cuerpo ancha; frente sin rostro, pero c o n tres
+dientes, uno mediano y dos laterales. Anténulas replegadas longitudinalmente; flagelo de las antenas más o menos
+plumoso. Cuadro bucal de forma cuadrangular. Carpo del tercer par de maxilípedos articulado c o n el ángulo
+ántero-lateral del mero. Pereiópodos 2 a 5 semejantes, aproximadamente del mismo tamaño; último par con
+el dáctilo normal (no adaptado para la natación).
+
+                          3 dientes rostrales        9 dientes
+
+           (no aplanado)                       Cáncer antennarius
+
+El género Cáncer está distribuido principalmente en mares templados y solamente tres de las 10 especies conocidas para
+la costa Pacífica de America sé encuentran en nuestra área. Son cangrejos de talla pequeña a grande (hasta 17,8 cm de
+longitud de caparazón dentro del área) que habitan sobre la plataforma y la parte superior del talud continental,
+excepcionalmente hasta unos 500 m de profundidad, ocupando fondos blandos (algunas especies se entierran en la
+arena) a duros. Por lo menos dos de las especies del área representan recursos pesqueros de cierta importancia.
+
+Familias de aspecto similar presentes en el área
+
+Portunidae: cuerpo más deprimido dorso-ventralmente; último par de pereiópodos natatorio, con el dáctilo típicamente
+aplanado. Diente lateral generalmente más largo que los demás; menos de 9 dientes ántero-láterales en el género
+Euphylax. Raramente en la zona intermareal.
+
+Xanthidae: frente ancha, con una hendidura mediana (en vez de un diente mediano). Márgenes ántero-laterales
+generalmente sin dientes, enteros o divididos en lóbulos (generalmente no más de 5, pero ocasionalmente hasta 9).
+Anténulas replegadas transversal u oblicuamente en las fosetas antenulares.
+
+                                                                                                                                                                                              hendidura
+                                                                                                                                                                                               mediana
+
+                                     diente lateral                                                                 lóbulos
+                                   más grande que
+                                                                   vista dorsal
+                                       los demás                    Xanthidae
+
+dáctilo ensanchado
+      (natatorio)
+
+                     vista dorsal
+                    Portunidae
+586                                                                                                        •Cangrejos
+
+Calappidae: cuerpo generalmente globoso y fuertemente (pero regularmente) arqueado anteriormente; cuadro bucal de
+forma triangular. Además, los géneros exteriormente más parecidos a Cancridae (Calappa y Hepatus) se caracterizan
+por tener el borde dorsal de las pinzas transformado en una cresta alta y dentada.
+
+Las demás familias de cangrejos son de aspecto bastante diferente de Cancridae y no tienen una hendidura mediana en
+la frente, ni los márgenes ántero-laterales del caparazón regularmente convexos y divididos en 9 dientes.
+
+                                             pmza                          3er par de    cresta dentada
+                                                                         maxilípedos
+                                                                  , cubriendo el cuadro              -V
+                                                                      bucal triangular
+
+     caparazón (vista dorsal)                            vista ventral                   pinza
+                                             Calappidae (género Hepatus)
+
+Clave para las especies presentes en el área
+
+1a. Fisuras entre los dientes del margen ántero-lateral del caparazón mal definidas; dientes anchos,
+
+     proyectando levemente fuera del contorno general del caparazón. Márgen póstero-lateral casi recto
+
+     (Fig.1)                                                                                    Cáncer johngarthi
+
+1b. Fisuras entre los dientes del margen ántero-lateral profundas y bien definidas; dientes subtriangula-              —> 2
+       res, puntiagudos, proyectando netamente fuera del contorno general del caparazón. Márgen póste-
+       ro-lateral sinuoso (Fig. 2)
+
+                               dientes anchos y cortos             dientes largos,
+                                                                  subtriangulares,
+                                                     fisuras mal
+                                                       definidas    puntiagudos
+
+                 caparazón (vista dorsal)                                                                              margen sinuoso
+              Fig. 1 Cáncer johngarthi
+                                                                  Fig. 2 caparazón en vista dorsal
+
+2a. Talla máxima de los adultos alrededor de 5 cm (anchura del caparazón). Carpo del quelípedo con 2
+
+     espinas subterminales; superficie externa y borde dorsal de la mano con tubérculos bien marcados;
+
+     dedo móvil de la pinza casi completamente negro (Fig. 3a)                                  Cáncer amphioetus
+
+2b. Talla máxima de los adultos alrededor de 18 cm (anchura del caparazón). Carpo del quelípedo con
+
+     una sola espina subterminal; superficie externa de la mano recubierta de tubérculos finos, su borde
+
+     dorsal liso; dedo móvil de la pinza negro en su mitad distal (Fig. 3b)                     Cáncer antennarius
+
+    tubérculos en el borde     carpo con 2 espinas                dedo móvil negro en   borde dorsal de
+        dorsal de la mano          subterminales                      su mitad distal     la mano liso
+
+dedo móvil casi                                                                                          carpo con un
+completamente                                                                                              tubérculo
+
+        negro                                                                                            subterminal
+
+                   tubérculos bien marcados                                         tubérculos finos
+
+              a) Cáncer amphioetus                                                              b) Cáncer antennarius
+
+                                             Fig. 3 pinzas en vista frontal
+
+Lista de las e s p e c i e s presentes en el área
+Las especies descritas o ilustradas van seguidas de sus respectivos códigos.
+
+     Cáncer amphioetus Rathbun, 1898                                         CAN Can 5
+     Cáncer antennarius Stimpson, 1856                                       CAN Can 6
+     Cáncer johngarthi Carvacho, 1989                                        CAN Can 7
+Cancridae                                                                                      587
+
+Cáncer amphioetus R a t h b u n , 1898                                                         CAN Can 5
+
+Nombres vernáculos: FAO: Es - Jaiba japonés; Fr - Tourteau japonais; In - Japanese rock crab.
+               Nacional:
+
+fisuras profundas, bien definidas       dientes grandes,
+                                        subtriangulares
+
+                                                            dedo móvil casi
+                                                          enteramente negro
+
+                                                                           borde dorsal con tubérculos
+
+                                                                                   | carpo con 2 espinas
+                                                                                            ántero-laterales
+
+                                                                                                                        pinza (superficie externa)
+
+Caracteres distintivos: Talla pequeña (hasta unos 5 cm). Fisuras entre los dientes del margen ántero-lateral del
+caparazón profundas y bien definidas; dientes subtriangulares, puntiagudos y proyectados netamente fuera del
+contorno general del caparazón; margen póstero-lateral sinuoso. Carpo del quelípedo con 2 espinas subtermi-
+nales; borde superior de la pinza con tubérculos irregulares; d e d o s completamente negros, salvo una pequeña
+área cerca de la base del dáctilo; superficie externa de la mano recubierta de tubérculos bien marcados. Color:
+caparazón café-grisáceo, protuberancias posteriores de color café más oscuro. Pereiópodos crema con franjas transver-
+sales café oscuras; quelípedos con manchas café oscuras.
+
+Talla: Máxima: 4,1 cm (macho) y 3,8 cm (hembra) de anchura de caparazón (tallas
+máximas para ei área de pesca No. 77).
+Hábitat y biología: Ejemplares adultos de esta especie han sido capturados
+entre 8 y 111 m de profundidad frente a la costa americana, mientras los juveniles
+(hasta 1,6 cm de anchura de caparazón) fueron encontrados entre 162 y 380 m
+dentro del golfo de California. Frente a las costas asiáticas, la profundidad máxima
+de captura para los adultos de esta especie es de 310 m.
+Pesca y utilización: Por su talla relativamente reducida, Cáncer amphioetus no
+representa un recurso pesquero de gran interés comercial. Sin embargo, aparece
+regularmente en las capturas de arrastre comerciales y experimentales de
+camarones Peneidos, así como en dragados profundos en la parte central del
+golfo de California.
+588                                                                                        •Cangrejos
+
+Cáncer antennarius S t i m p s o n , 1856                                                  CAN Can 6
+
+Nombres vernáculos: FAO: Es - Jaiba roja de California; Fr - Tourteau rouge de Californie; In - California red rock crab.
+                Nacional:
+
+     fisuras profundas                            dientes grandes,
+                                                  subtriangulares
+
+                                                    poco más de la
+                                                   mitad distal del
+                                                  dedo móvil negro
+
+                                                                               borde liso
+
+                                                                                                 carpo con 1 espina
+                                                                                                     ántero-lateral
+
+                                                                                           pinza (superficie externa)
+
+                         vista dorsal
+
+                 (según Carvacho y Bonfil, 1989)
+
+Caracteres distintivos: Talla grande (hasta 18 cm). Fisuras entre los dientes del margen ántero-lateral profundas y
+bien definidas; dientes subtriangulares, puntiagudos y proyectados netamente fuera del contorno general del
+caparazón. Carpo del quelípedo con una sola espina subterminal; borde dorsal de la quela liso; superficie externa
+de la mano con granulaciones finas; dedo móvil negro s ó l o en poco más de s u mitad distal. Color: color de! cuerpo
+rojo oscuro, generalmente salpicado con zonas amarillentes. Superficie ventral blanco-amarillenta con lunares rojos.
+Talla: Máxima: 17,8 cm (macho) y 14,8 cm (hembra) de anchura del caparazón.
+
+Hábitat y biología: Esta especie ha sido encontrada hasta profundidades de            V
+unos 40 m, sobre fondos de grava o entre pasto marino. Es un habitante típico
+de la zona intermareal en áreas semiprotegidas, entre o bajo las rocas, o
+parcialmente enterrado en la arena. Se observan hembras grávidas preferente-
+mente en invierno.
+
+P e s c a y utilización: Cáncer antennarius representa un recurso pesquero impor- -20*
+
+tante a lo largo de las costas de California y de Baja California. En el extremo sur
+
+de su área de distribución es menos abundante, pero alli también es explotado
+
+comercialmente.                                                                       10'
+                                                                                      N
+
+                                                                                                                                |\
+
+                                                                                      -0'
+Cancridae                                                                                                           589
+
+Cáncer johngarthi C a r v a c h o , 1989                                               CAN Can 7
+
+Otros nombres científicos aún utilizados: Cáncerporteri (en parte).
+
+Nombres vernáculos: FAO: E s - Jaiba limón del norte; Fr - Tourteau citrón du nord; In - Northern lemon rock crab.
+               Nacional:
+
+                                          fisuras mal definidas
+
+                                                  dientes cortos,
+                                                 subtriangulares
+
+                                                                                       carpo con 1 diente
+                                                                                           ántero-dorsal
+
+                                                       margen recto  puntas y bordes   pinza (superficie externa)
+                                                                     cortantes negros
+           caparazón (vista dorsal)
+
+                                          (según Carvacho, 1989)
+
+Caracteres distintivos: Caparazón muy ancho, fuertemente ovalado, s u s márgenes póstero-lateraias casi rectos;
+fisuras entre los dientes del margen ántero-lateral poco definidas; dientes anchos, más bien rectangulares,
+proyectados levemente fuera del contorno general del caparazón, s u s bordes provistos de gránulos. Carpo de la
+pinza con un diente piramidal ántero-dorsal; puntas y bordes de los dedos, negros. Se asemeja a Cáncer porteri
+(Perú hasta Chile), especie con la cual fué confundido hasta recientemente. Color: caparazón amarillo.
+
+Talla: Máxima: 14 cm de anchura de caparazón.
+
+Hábitat y biología: Ha sido encontrado en profundidades de 61 a 523 m, sobre
+fondos blandos. Es una de las pocas especies del género Cáncer distribuidas
+en mares tropicales, pero en aguas más profundas, de temperaturas inferiores a
+15° C.
+
+Pesca y utilización: Aparece con cierta frecuencia en las capturas de arrastre
+camaroneras frente a las costas de Baja California (México) y por su gran talla
+representa un recurso pesquero de interés comercial. No existe información
+precisa sobre su abundancia en la parte sur de su área de distribución, donde ha
+sido recolectado ocasionalmente a profundidades superiores a los 300 m.
+590                                        •Cangrejos
+
+                          DORIPP1DAE
+
+                                                      Etusas
+
+Caparazón dorsalmente aplanado en s u parte anterior, mientras la región posterior e s g l o b o s a y corta,
+      dejando expuestos en vista dorsal algunos segmentos abdominales (en general los 3 primeros). Cuadro
+bucal triangular, no enteramente cubierto por el tercer par de maxilípedos y prolongado hacia adelante
+
+formando un canal. Antenas y anténulas largas. Segundo y tercer pares de pereiópodos muy alargados y robustos,
+
+cuarto y quinto pares reducidos, con el dáctilo en forma de gancho y ubicados en posición subdorsal con
+respecto a los 3 primeros.
+
+                                           parte anterior del
+
+La familia Dorippidae está representada en el área de pesca No. 77 por 2 generas y 8 especies. Las 4 especies del género
+Ethusina son pequeñas y generalmente de aguas profundas; el género Ethusa, normalmente de talla muy reducida, incluye
+4 especies de las cuales una, E. ciliatifrons, alcanza una talla muy superior a la de las demás.
+
+Familias de aspecto similar presentes en el área
+Cyclodorippidae: tercer par de maxilípedos alargado, recubriendo completamente la cavidad bucal. Especies pequeñas.
+
+     (según Garth, 1966)  Cyclodorippidae
+Dorippidae                                                                               591
+
+Leucosiidae: región anterior del caparazón globosa {no aplanada); margen del caparazón generalmente provisto de unos
+pocos dientes cónicos laterales y/o posteriores, o bien, muy irregular. Cuarto y quinto pares de pereiópodos de tamaño y
+posición normales. Todos los segmentos abdominales recubiertos por el caparazón.
+
+Dromiidae: cuadro bucal de forma cuadrangular, no prolongado hacia adelante para formar un canal. Caparazón sin fuertes
+dientes triangulares en los ángulos anteriores. Cuerpo generalmente con una fuerte pubescencia. Pereiópodos cortos y
+gruesos, sólo el quinto par reducido y en posición subdorsal.
+
+                                    parte anterior del         ángulos ántero-laterales
+                                   caparazón globosa               sin dientes fuertes
+
+                                                      dientes                              sólo el 5o'
+                                                     cóhicos                             par reducido
+                                                                                         y subdorsal
+
+                                          generalmente
+                                           pubescente
+
+no reducidos  ningún segmento abdominal
+                     visible dorsalmente
+
+              Leucosiidae {vista dorsal)                       Dromiidae (vista dorsal)
+
+              (según Garth, 1940)                               (según Brusca, 1980)
+
+Dynomenidae: caparazón fuertemente pubescente; frente triangular, con una ranura dorsal. Pereiópodos cortos y gruesos,
+sólo el quinto par reducido y en posición subdorsal. Especies que viven en el interior de corales.
+
+Palicidae: caparazón y pereiópodos fuertemente deprimidos dorso-ventralmente, recubiertos de numerosos tubérculos
+dorsales. Sólo el quinto par de pereiópodos reducido.
+
+            Dynomenidae (vista dorsal)                         Palicidae (vista dorsal)
+
+                                                                 (según Garth, 1939)
+592                                                                                        •Cangrejos
+
+Clave para los géneros presentes en el área                                                   Ethusa
+1a. Artejos basales de las anténulas normales, no hinchados (Fig. 1a)                      Ethusina
+1b. Artejos basales de las anténulas fuertemente hinchados (Fig. 1b)
+
+a) Ethusa                                                                     b) Ethusina
+
+           Fig. 1 extremo anterior en vista ventral
+
+Lista de las e s p e c i e s presentes en el área
+Las especies descritas o ilustradas van seguidas de sus respectivos códigos.
+
+Ethusa ciliatifrons Faxon, 1893                                        DORIP Ethu 1
+Ethusa lata Rathbun, 1893
+Ethusa panamensis Firtnegan, 1931
+Ethusa steyaerti Hendrickx, 1989
+
+Ethusina faxoni Rathbun, 1933
+Ethusina gracilipes (Miers, 1886)
+Ethusina robusta (Miers, 1886)
+Ethusina smithiana Faxon, 1893
+Dorippidae                                                                                                   593
+
+Ethusa ciliatifrons F a x o n , 1893  DORIP Ethu 1
+
+Nombres vernáculos: FAO: Es - Etusa ciliada gigante;. Fr - Ethuse ciliée géante; In - Giant ciliate Ethusa.
+                Nacional:
+
+                                                                           vista dorsal
+
+Caracteres distintivos: Caparazón más ancho que largo; s u superficie dorsal cubierta de gránulos; regiones
+branquiales fuertemente hinchadas y confluyentes en la línea media. Pinza mayor del macho fuerte y completa-
+mente cubierta de gránulos; mano alargada, dáctilo casi recto. Color: caparazón café-grisáceo. Segundo y tercer
+pares de pereiópodos blanco-crema con franjas transversales rojas, 2 franjas en el mero y una en cada uno de los
+demás artejos distales. Quelípedos casi totalmente rojo-siena o café.
+
+Talla: Máxima: 6 cm (macho) y 4,5 cm (hembra) de anchura del caparazón (tallas
+máximas conocidas).
+
+Hábitat y biología: Esta especie ha sido capturada entre 24 y 410 m de
+profundidad, sobre fondos blandos, lodosos (limo-arcillosos) o arenosos (arena
+fina o arena con limo). En ocasiones ha sido encontrada en condiciones de
+oxigenación muy precarias. Es de talla mucho mayor que las demás especies de
+Dorippidae de la costa americana y probablemente una de las más grandes a
+nivel mundial.
+
+P e s c a y utilización: Los ejemplares más grandes de esta especie han sido
+capturados en una operación de arrastre experimental en el golfo de California,
+a 98 m de profundidad. No es explotada comercialmente.
+594                                            •Cangrejos
+
+                               GECARCINIDAE
+
+                                               Moros de mangle
+
+Caparazón ovalado, m á s a n c h o que largo; reglones branquiales pronunciadas; bordes ántero-laterales fuerte-
+       mente arqueados, sin dientes ni lóbulos. Orbitas anchas, céntricas, la distancia órbito-frontal (entre los
+bordes externos de las órbitas) netamente menor que la anchura del caparazón. Frente ancha, sin rostro ni
+dientes. Cuadro bucal de forma cuadrangular, incompletamente recubierto por el tercer par de maxilípedos;
+carpo del tercer par de maxilípedos articulado con el ángulo ántero-lateral externo del mero o en el punto medio
+de su borde anterior; exopodito delgado y fuertemente reducido, ocasionalmente sin flagelo. Fosetas antenulares
+estrechas. S e g u n d o a quinto pares de pereiópodos semejantes en forma y tamaño (últimos dos pares no
+reducidos), recorridos por hileras de espinas; último par no adaptado para la natación (dáctilo normal, no aplanado).
+
+                               bordes ántero-
+
+Los especies de esta familia son terrestres durante toda su vida adulta y suelen ser muy abundantes en zonas de
+manglares o entre la vegetación de áreas bien drenadas. Las 4 especies de la costa Pacífica americana varían de talla
+máxima entre 6,4 y 13,2 cm (anchura de caparazón) y pueden encontrarse desde la orilla de lagunas costeras hasta 1 a
+2 km tierra adentro (en zonas con densa vegetación). Según algunos autores, ciertas especies de Gecarcinidae de la
+costa Pacífica americana constituyen en realidad subespecies de formas que viven en la vertiente Atlántica. En las costas
+americanas del Pacífico, estos cangrejos, al contrario de lo que ocurre en el mar Caribe, son a menudo desechados por
+la población local o se aprovechan sólo ocasionalmente:
+
+Familias de aspecto similar presentes en el área
+
+Ocypodidae: caparazón cuadrangular, de bordes laterales casi rectos (excepto en el género Ucides que es ovalado).
+Orbitas muy anchas, generalmente abiertas hacia el lado externo, ocupando (salvo en Ucides) junto con la frente, la
+totalidad del margen anterior del caparazón; pedúnculos oculares más largos que la anchura de la frente, esta última con
+un margen inferior convexo. Cuadro bucal grande y por lo general totalmente recubierto por el tercer par de maxilípedos.
+
+     distancia órbito-frontal                  distancia órbito-frontal
+Gecarcinidae                                                                                            595
+
+Grapsidae: caparazón generalmente cuadrilateral, con los márgenes laterales rectos o arqueados. Además del diente que
+
+forma el ángulo orbital externo, muchas- especies presentan 1 o 2 dientes ántero-laterales. Frente más ancha que las
+
+órbitas.
+
+                   diente ántero-lateral      frente  órbita
+
+                                             Grapsidae (vista dorsal)
+
+                                                 (según Monod, 1959)
+
+                                                                              distancia órbito-frontal
+
+Clave para las especies presentes en el área
+
+1a. Distancia órbito-frontal (entre los bordes externos de las                                                                              diente
+
+órbitas) superior a la mitad de la anchura del caparazón.                                                                           anchura del
+                                                                                                                                     caparazón
+Diente orbital externo fuerte, puntiagudo, triangular
+                                                                                   caparazón (vista dorsal)
+(Fig. 1)                                     Cardisoma crassum                Fig. 1 Cardisoma crassum
+
+1b. Distancia órbito-frontal inferior a la mitad de la anchura                                . . . . Gecarcinus quadratus
+
+dei caparazón. Diente orbital externo reducido a un tu-
+
+bérculo (Figs 2a, 3a y 4a)                            2
+
+2a. Caparazón moderadamente ancho (Fig. 2a). Borde an-
+       terior (distal) del mero del tercer maxilípedo redondeado,
+       sin muesca (Fig. 2b)
+
+2b. Caparazón mucho más ancho que largo (Figs 3a y 4a). Borde anterior (distal) del mero del tercer
+
+maxilípedo con una muesca bien marcada (Figs 3b y 4b)                                                   —»3
+
+diente orbital     distancia órbito-frontal                                   frente
+
+externo reducido.
+
+                                                                                                        sin muesca
+
+          a) caparazón en vista dorsal        anchura                                                                           mero del 3 '
+                                                  del                                                                            maxilípedo
+
+                                             caparazón                        b) extremo anterior en vista ventral
+
+                                              Fig. 2 Gecarcinus    quadratus
+596                                                                                                   •Cangrejos
+
+3a. Muesca del mero del tercer maxilípedo profunda, en forma de "V" (Fig. 3b)  Gecarcinus planatus
+
+3b. Muesca del mero del tercer maxilípedo poco profunda, convexa (Fig. 4b). Especie endémica de isla
+
+     Malpelo, Colombia                                                         . . Gecarcinus malpilensis
+
+                                                                               muesca poco profunda
+
+  diente   distancia órbito-frontal
+reducido.
+
+           a) caparazón en vista dorsal       anchura                                                                        mero del
+                                                  del                                                                      maxilípedo
+
+                                            caparazón                          b) cuadro bucal en vista ventral
+
+                                         Fig. 4 Gecarcinus malpilensis
+
+Lista de las especies presentes en el área
+Las especies descritas o ilustradas van seguidas de sus respectivos códigos.
+
+     Cardisoma crassum Smith, 1870                       GECAR Cardis 3
+
+     Gecarcinus (Johngarthia) malpilensis Faxon, 1893    GECAR Gecar 1
+     Gecarcinus (Johngarthia) planatus Stimpson, 1860    GECAR Gecar 2
+     Gecarcinus (Gecarcinus) quadratus de Saussure,1853  GECAR Gecar 3
+Gecarcinidae                                                                                                           597
+
+Cardisoma crassum Sraith, 1870                                                                                      GECAR Cardis 3
+
+Nombres vernáculos: FAO: Es - Moro sin boca; Fr - Tombourou voyageur; In - Mouthless land crab.
+               Nacional:
+
+                                                           espina ántero-lateral
+
+                                                        _                distancia órtibo-frontal
+              carpo,                                                                                diente orbital
+
+                                                           vista dorsal
+
+Caracteres distintivos: Regiones pterigostomianas (a ambos lados del cuadro bucal) recubiertas de pelos. Orbitas
+anchas, colocadas en posición casi lateral; distancia órbito-frontral (entre los bordes externos de las órbitas)
+superior a la mitad de la anchura del caparazón; frente ancha, más angosta en su margen inferior; diente orbital
+externo fuerte, puntiagudo, triangular. Carpo de la pinza con una fuerte espina ántero-lateral bien visible
+dorsalmente. Color: caparazón azul con tonos grisáceos; lado ventral crema. Pinza mayor de color amarillo a crema;
+dáctilos de los pereiópodos rojo escarlata.
+
+Talla: Máxima: 13,2 cm de anchura del caparazón (talla máxima conocida).
+
+3 W M M Hábitat y biología: Esta especie construye madrigueras en el suelo cerca de
+
+lagunas saladas o salobres, a menudo dotadas de múltiples entradas. Su pre-
+sencia ha sido registrada en toda la zona litoral cerca de manglares, a lo largo de
+
+escurrimientos de agua y ríos, y en general, en terrenos salinos. Suele encon-
+
+trarse también debajo de las casas y en campos de cultivo cercanos a la costa. •        1                           .
+
+Durante la época de reproducción, las hembras realizan migraciones pára depo-
+
+sitar los huevos en el agua.
+
+P e s c a y utilización: Contrariamente a la especie congénere de la costa Atlántica •
+de America, Cardisoma guanhumi, la cual es objeto de una intensiva explotación
+comercial, C. crassum es aprovechada sólo localmente en la parte sur del área
+de pesca No. 77. Se captura a mano y se comercializado fresco en los mercados
+locales. También se utiliza ocasionalmente a nivel de subsistencia en México,
+Costa Rica, Panamá, y Ecuador, especialmente durante la época de migración,
+cuando la gran masa de la población se dirige hacia los espejos de agua (lagunas,
+esteros y estuarios) para depositar sus huevos. El tamaño de esta especie, y en
+particular el de su pinza mayor, justifican su utilización como recurso alimentario.
+598                                                                    •Cangrejos
+
+Gecarcinus (Johngarthia) planatus S t i m p s o n , 1860               GECAR Gecar 2
+
+Nombres vernáculos: FAO: Es - Moro rojo (del Pacífico); Fr - Tombourou rouge (du Pacifique); In - Red (Pacific) land crab.
+               Nacional:
+
+                                                                                              diente orbital
+                                                                                           externo reducido
+
+                                                          muesca en V  mero del 3 '
+                                                                        maxilípedo
+
+                caparazón muy ancho                       cuadro bucal (vista ventral)
+
+     vista dorsal
+
+Caracteres distintivos: Caparazón mucho más ancho que largo. Ojos muy céntricos, órbitas angostas, de forma
+casi circular; distancia órbito-frontal (entre los bordes externos de las órbitas) inferior a la mitad de la anchura del
+caparazón; diente orbital éxternq reducido a un tubérculo; borde inferior de.la órbita con una profunda fisura. Carpo
+del quelípedo liso o con una pequeña cresta dentada en el ángulo ántero-lateral. Mero del tercer par de maxilípedos
+alargado, con una m u e s c a profunda en forma de "V" en el margen anterior. Color: tonalidad general del cuerpo rojo
+vivo o café rojizo, a veces con máculas de color púrpura. Pereiópodos rojo-púrpura, con el dáctilo rojo oscuro. Región
+ventral amarillenta.
+
+Talla: Máxima: 10,4 cm (macho) y 8,2 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Hábitat y biología: A pesar de algunas capturas realizadas en la costa continen-
+tal, Gecarcinus planatus es esencialmente una especie insular. Muchos de los
+registros "continentales" corresponden, de hecho, a ejemplares recolectados en
+islotes cercanos a la costa. Puede encontrarse desde la orilla del mar hasta unos
+120 m de altura, pero su hábitat tipico son las zonas rocosas y sustratos blandos
+por encima de la línea de mareas. También es común bajo raíces o troncos, o
+entre vegetación muerta. Busca refugio en madrigueras poco profundas y se
+alimenta de noche.
+
+Pesca y utilización: No es objeto de explotación regular. Su gran abundancia
+en las islas y su talla relativamente grande permiten suponer que es aprovechado
+ocasionalmente por lo menos a nivel de subsistencia.
+Gecarcinidae                                                                                599
+
+Gecarcinus (Gecarcinus) quadratus d e Saussure, 1853                                        GECAR Gecar 3
+
+Otros nombres científicos aún utilizados: Gecarcinus lateralis quadratus de Saussure, 1853
+
+Nombres vernáculos: FAO: Es - Moro de manchas blancas; Fr - Tombourou á taches blanches; In - Whitespotted land crab.
+               Nacional:
+
+              distancia órbito-frontal
+
+                                          diente orbital
+                                        externo reducido
+
+                                                                                            sin muesca
+
+                                                                                                         mero del 3er
+                                                                                                          maxilípedo
+
+              vista dorsal                                cuadro bucal (vista ventral)
+
+Caracteres distintivos: Caparazón moderadamente ancho. Ojos muy céntricos, órbitas angostas, de forma casi
+circular; distancia órbito-frontal (entre los bordes externos de las órbitas) inferior a la mitad de la anchura del
+caparazón; diente orbital externo reducido a un tubérculo; borde inferior de la órbita con una profunda fisura. Angulo
+ántero-lateral del carpo del quelípedo sin diente bien marcado. Borde anterior del mero del tercer maxilípedo sin
+muesca. Color: zona medio-dorsal del caparazón azul oscura, malva o café-rojiza, con d o s manchas blancas en
+la región cardíaca; resto del caparazón de color ocre a anaranjado. Pinza mayor de tonalidad malva clara. Región
+ventral blanquecina.
+
+Talla: Máxima: 6,4 cm (macho) y 5,7 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Hábitat y biología: G. quadratus vive en las zonas fango-arenosas de los
+manglares (bosques de Avicennia) y en los bosques halófilos de transición; es
+también muy abundante en la vegetación costera de las dunas, cerca de man-
+glares o de la desembocadura de lagunas costeras. En zonas pobladas por el
+hombre, invade las habitaciones y depósitos de basura. Ha sido registrado desde
+la línea del agua hasta zonas boscosas elevadas y es capaz de trepar árboles.
+Generalmente construye madrigueras de hasta 50 cm de profundidad. Depende
+del medio acuático para su reproducción.
+
+Pesca y utilización: Es posiblemente la especie de Gecarcinidae más común
+dentro del área, pero no es objeto de explotación comercial, probablemente
+debido a su talla algo reducida. Es utilizado ocasionalmente como alimento a nivel
+de subsistencia.
+600                                                                                                      •Cangrejos
+Otras e s p e c i e s presentes en el área
+
+Gecarcinus (Johngarthia) malpilensis Faxon, 1893                          GECAR Gecar 1
+
+Es - Moro de Malpelo; Fr - Tombourou de Malpelo; In - Malpelo land crab. Nacional:
+
+      Anchura máxima del caparazón: 7,6 cm. Muy parecido a Gecarcinus planatus, pero se distingue de esta
+       última especie por la muesca poco profunda, algo convexa, en el borde anterior del mero del tercer
+       maxilípedo, y por su color marfil-habano con tonos grises. Es una especie endémica de la isla Malpelo
+       (Colombia) que se ha adaptado a la vida sobre sustrato rocoso libre de vegetación. Busca refugio y sombra
+      en grietas y fisuras rocosas. Su alimentación consiste en algas, posiblemente insectos, lagartos y hasta
+      polluelos muertos de los pájaros bobo (género Sula). No existe información precisa acerca de las poblaciones
+      de Gecarcinus malpilensis y de la posibilidad de su explotación.
+
+                                                          diente orbital
+                                                        externo reducido
+
+                                                                                              muesca poco
+                                                                                                 profunda
+
+                                                                                              mero del 3 '
+                                                                                               maxilípedo
+
+                                                                           cuadro bucal (vista ventral)
+
+                                                                          IPÍHIP
+                                                                           ^iáfSpsii
+
+                                             caparazón                                 IKlll
+                                        moderadamente                     110' W 100'
+
+                                                ancho
+
+                 vista dorsal
+
+(según von Prahl y Manjarrés, 1984)
+Grapsidae                                                                                      601
+
+                                                GRAPSIDAE
+
+                                               Abuetes, carañas
+
+Caparazón generalmente cuadrilateral, con los márgenes laterales rectos o arqueados. Además del diente que
+      forma el ángulo orbital externo, muchas e s p e c i e s presentan 1 o 2 dientes (hasta 3 en especies de otras
+regiones) ántero-laterales. Frente más ancha que las órbitas, sin rostro y generalmente sin dientes. Orbitas
+ubicadas en los ángulos ántero-laterales o cerca de éstos. Cuadro bucal cuadrado; maxilípedos del tercer par
+a menudo separados por una abertura grande, romboidal, su palpo articulado en el ángulo ántero-externo,
+cerca de este ángulo o en el punto medio del margen anterior, del mero. Segundo a quinto par de pereiópodos
+semejantes en forma y tamaño, su dáctilo con espinas bien visibles.
+
+diente del borde diente orbital  frente órbita
+  ántero-lateral. externo
+
+                                                                         palpo          carpo
+
+                                                           articulación
+                                                           mero-carpal
+
+              vista dorsal                                                    3er' maxilípedo
+
+           (según Monod, 1956)
+
+Las especies de esta familia son típicos habitantes de la zona circumlitoral, encontrándose a menudo fuera del agua.
+
+Algunas habitan en zonas rocosas, mientras otras están asociadas con sustrato lodoso de estuarios en el cual excavan
+
+madrigueras, o con lagunas de manglares donde pueden encontrarse bajo las raíces o sobre las ramas de los árboles.
+Otras están asociadas1 con el "flotsam" (algas flotantes a la deriva) y con tortugas marinas.
+
+La familia Grapsidae está representada en el Pacífico central tropical por 4 subfamilias que incluyen unas 30 especies.
+Las 3 especies de interés pesquero pertenecen a las dos subfamilias más diversificadas: Grapsinae y Sesarminae.
+
+La subfamilia Sesarminae incluye solamente 3 géneros presentes en nuestra área: Aratus, con una sola especie {A.
+pisonii), fácilmente reconocible por su hábitat muy particular (arborícolo en bosques de mangle) y los manchones de pelos
+negros de las pinzas, Armases con 3 especies y Sesarma, con 4 especies. La subfamilia Grapsinae incluye 7 géneros
+presentes en el área. De las 15 especies de esta subfamilia presentes en el Pacífico centro-oriental, solamente dos son
+de interés para la pesca (a nivel de subsistencia): Grapsus grapsus y Goniopsis pulchra.
+
+Familias de aspecto similar presentes en el área
+
+Xanthidae y Goneplacidae: caparazón transversalmente ovalado, hexagonal o subcuadrado, sus márgenes ántero-late-
+
+rales generalmente dentados o divididos en lóbulos (por lo general 4 o 5); frente moderadamente ancha, con una hendidura
+
+mediana; órbitas no ubicadas en los ángulos ántero-laterales (salvo en algunas especies de Goneplacidae). Quelípedos
+
+generalmente fuertes y leve a fuertemente asimétricos.     hendidura mediana    dientes ántero-laterales
+
+           hendidura mediana         lóbulos o dientes
+                                      ántero-laterales
+
+           Xanthidae (vista dorsal)                               (según Garth, 1986)
+
+                                                           Goneplacidae (vista dorsal)
+602                                                                                                                       •Cangrejos
+
+Gecarcinidae: caparazón ovalado, más ancho que largo; márgenes ántero-laterales
+regiones branquiales pronunciadas; bordes á_ntero-l.atera-   TmVuIIIy\/ ao rqn un peoandnocs, sc in
+                                                              dientes ni lóbulos                                            región
+les fuertemente arqueados, sin dientes ni lóbulos; órbitas                                                                branquial
+
+céntricas.
+
+Ocypodidae: frente angosta, recurvada hacia abajo (con
+una hendidura mediana en Ucides). Orbitas muy anchas,
+ocupando la totalidad (salvo en Ucides) del margen anterior
+del caparazón (salvo el espacio ocupado por la frente) y
+generalmente abiertas en el lado externo; pedúnculos ocu-
+lares más largos que la anchura de la frente. Quelípedos
+leve (género Ocypode) o fuertemente (género Ucides y
+machos del género Uca) asimétricos.
+
+                                                                               caparazón ovalado
+
+                                                                      Gecarcinidae (vista dorsal)
+
+                                                              frente       quelípedos asimétricos                           órbita
+                                                             angosta          1-                                             muy
+                                                                                                                            ancha
+
+                                                                                                                          pedúnculo
+                                                                                                                             ocular
+
+     género Ucides (vista dorsal)                Ocypodidae                género Ocypode (vista dorsal)
+
+                                                                                     (según Brusca, 1980)
+
+Clave para las subfamilias presentes en el área
+
+1a. Anténulas visibles dorsalmente, ubicadas en dos fisuras profundas y anchas en la frente (Fig. 1)
+                                                                                                      (Plagusiinae: géneros Plagusia y Percnon)
+
+1b. Anténulas replegadas por debajo de la frente e invisibles dorsalmente                                                            —>2
+
+2a. Una cresta oblicua y peluda ubicada en la superficie ventral (visible) del mero del tercer par de
+
+     maxilípedos (Fig. 2)                                    (Sesarminae: géneros Aratus, Armases y Sesarma)
+
+2b. Superficie ventral (visible) del mero del tercer par de maxilípedos sin cresta oblicua y peluda                                  —» 3
+
+                           anténulas
+
+            extremo anterior en vista dorsal                                                              3er maxilípedo
+                   Fig. 1 Plagusiinae                                                                Fig. 2 Sesarminae
+Grapsidae                                                                                                                                  603
+
+3a. Borde ventral de la órbita prolongado ventralmente hacia el cuadro bucal (Fig. 3a y b)            (Grapsinae)
+
+3b. Borde ventral de la órbita no prolongado hacia el cuadro bucal, mal definido y reforzado por una
+
+cresta suborbital (Fig. 3c)                                                                    (Varuninae: Tetragrapsus jouyi)
+
+        borde anterior del caparazón          b o r d e anterior del caparazón  ^ 0j0          borde anterior del caparazón
+
+                                      -ojo                                                                                            ojo
+
+                                      frente                                            frente -
+
+frente
+
+cuadro                       borde ventral                               borde ventral               borde ventral de la órbita
+ bucal                        de l a ó r b i t a cbu uuacdar ,l°          de la órbita                     y cresta suborbital
+
+            a) Grapsinae (Grapsus grapsus) b) Grapsinae (Goniopsis pulchra)                    c) Tetragrapsus jouyi
+                                                    Fig. 3 vista ventral del extremo anterior
+                                                                         (mitad izquierda)
+
+Lista de las especies presentes en el área
+
+Las especies descritas o ilustradas van seguidas de sus respectivos códigos.
+
+        Aratus pisonii (Milne Edwards, 1837)
+
+        Armases angustum Smith, 1870
+        Armases magdalenense Rathbun, 1918
+        Armases occidentale Smith, 1870
+
+        Cyclograpsus cinereus Dana, 1851 (extralimital)
+        Cyclograpsus escondidensis Rathbun, 1933
+
+        Euchirograpsus americanas A. Milne Edwards, 1880
+
+        Geograpsus lividus (H. Milne Edwards, 1837)
+
+        Glyptograpsus impressus Smith, 1870
+
+        Goetice americanas Rathbun, 1923
+
+        Goniopsis cruentata (Latrielle, 1802) (extralimital: Atlántico)         GRAPS Goniops 2
+        Goniopsis pulchra (Lockington, 1876)                                    GRAPS Graps 1
+
+        Grapsus grapsus (Linnaeus, 1758)
+
+        Hemigrapsus nudus (Dana, 1851)
+        Hemigrapsus oregonensis (Dana, 1851)
+
+        Pachygrapsus  crassipes Randall, 1840
+        Pachygrapsus  minutus A. Milne Edwards, 1873
+        Pachygrapsus  planifrons de Man, 1888
+        Pachygrapsus  transversus (Gibbes, 1850)
+
+        Percnon abbreviatum (Dana, 1851)
+        Percnon gibbesi (H. Milne Edwards, 1853)
+        Percnon planissimum Herbst, 1804
+
+        Plagusia depressa tuberculata Lamarck, 1818
+        Plagusia immaculata Lamarck, 1818
+        Plagusia speciosa Dana, 1851
+
+        Planes cyaneus Dana, 1852
+
+        Sesarma  aequatoriale Ortmann, 1894                                     GRAPS Ses 2
+        Sesarma  rhizophorae Rathbun, 1906
+        Sesarma  rubinofforum Abele, 1973
+        Sesarma  sulcatum Smith, 1870
+
+        Tetragrapsus jouyi (Rathbun, 1893)
+604                                                                                                    •Cangrejos
+
+  Grapsus grapsus (Linnaeus, 1758)                                                       GRAPS Graps 1
+
+Nombres vernáculos: FAO: Es - Abuete negro; Fr - Anglette commune; In - Lightfoot crab.
+               Nacional:
+
+                            frente               caparazón casi
+                                                      circular
+
+                   espinas
+
+    dientes
+puntiagudos
+ en el mero
+
+                                                 extremos de los dedos
+                                                  en forma de cuchara
+
+                                                                                         pinza
+
+                                 vista dorsal
+
+                            (según Monod, 1956)
+
+Caracteres distintivos: Caparazón en ejemplares adúltos casi circular, recorrido por crestas transversales; frente y
+margen posterior casi rectos. Un solo diente ántero-lateral por detrás del diente externo de la órbita. Frente m e n o s
+ancha que la mitad de la anchura del caparazón, en posición vertical con respecto al caparazón, su margen ventral
+convexo y el dorsal sinuoso, provisto de 4 lóbulos. Anténulas replegadas por debajo de la frente e invisibles dorsalmente.
+Parte ventral (visible) del mero del tercer par de maxilípedos sin cresta oblicua y peluda. Borde ventral de la órbita
+prolongado ventralmente hacia el cuadro bucal. Quelípedos con numerosos tubérculos y espinas, extremos de
+los dedos en forma de cuchara. Segundo a quinto par de pereiópodos aplanados y recorridos por crestas, dáctilo
+espinoso; una serie de dientes puntiagudos en el borde distal inferior del mero de los pereiópodos 2 a 4. Isquio
+y mero del tercer maxilípedo sin cresta oblicua y peluda. Color: caparazón de tonalidad variable, desde gris verdoso
+o azul (casi negro) hasta café rojizo moteado con manchas blancas. Pinzas negras con extremos blancos.
+
+Talla: Máxima: 9 cm (macho) y 7,9 cm (hembra) de anchura del caparazón (tallas
+máximas conocidas).
+
+Hábitat y biología1. Vive entre las rocas más grandes a nivel de la línea del agua,
+en zonas de acantilados y vertientes abruptas expuestas a fuerte oleaje, siempre
+siguiendo el movimiento de las mareas.
+
+Pesca y utilización: No es un recurso importante y se explota sólo ¡ocalmente
+a nivel artesanal. Capturado a mano o con pequeñas redes de mano y utilizado
+como producto fresco. Extremadamente difícil de capturar de día por su agilidad,
+pero es una presa fácil durante la noche cuando permanece casi inmóvil entre
+las rocas.
+Grapsidae                                                                                               605
+
+Goniopsis pulchra (Lockington, 1876)  GRAPS Goniops 2
+
+Nombres vernáculos: FAO: Es - Caraña de mangle; Fr - Anglette des mangroves; In - Racer mangrove crab.
+               Nacional:
+
+                                                                           vista dorsal
+
+                                                                                        (según Brusca, 1980)
+
+Caracteres distintivos: Caparazón casi cuadrilateral, un poco más ancho que largo, sus márgenes ántero-laterales
+con un solo diente por detrás del diente externo de la órbita. Frente en posición vertical, s u anchura igual o superior a
+la mitad de aquella del caparazón. Antenas excluidas de la órbita, flagelo antenal sin acceso a la órbita. Anténulas
+replegadas por debajo de la frente e invisibles dorsalmente. Parte ventral (visible) del mero del tercer par de maxilípedos
+sin cresta oblicua y peluda. Borde ventral de la órbita prolongado ventralmente hacia el cuadro bucal. Una franja
+de pelos a los lados de la depresión entre las c o x a s de los pereiópodos del tercer y del cuarto par. Color: caparazón
+y superficie dorsal de los pereiópodos de color rojo o café-rojizo abigarrado de morado. Quelípedos rojo y
+amarillo. Cara externa de las pinzas amarillo vivo.
+
+Talla: Máxima: 4,9 cm (macho) y 4,2 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Hábitat y biología: Vive en la zona intermareal de lagunas costeras y estuarios,
+generalmente entre las raíces y sobre las ramas de bosques de mangle y sobre
+bancos lodosos a fangosos de estuarios, donde construye madrigueras poco
+profundas. Ocasionalmente se encuentra entre rocas, sobre sustrato lodoso,
+siempre cerca del agua.
+
+Pesca y utilización: No representa un potencial pesquero importante debido a
+su talla media relativamente pequeña. Además, es una especie difícil de capturar
+debido a la naturaleza poco accesible de su hábitat. Capturado ocasionalmente
+a nivel de subsistencia.
+606                                                                                                  •Cangrejos
+
+Sesarma sulcatum Smith, 1870  GRAPS Ses 2
+
+Nombres vernáculos: FAO: Es - Abuete cajeta peluda; Fr - Anglette potlue; In - Hairy matchbox crab.
+
+               Nacional:
+
+                                                                                       (según Brusca, 1980)
+
+Caracteres distintivos: Una especie de talla relativamente grande dentro del género. Caparazón recorrido por
+profundas ranuras y recubierto de una densa pubescencia negra, su borde ántero-lateral con un diente por detrás
+del diente orbital externo. Anténulas replegadas por debajo de la frente e invisibles dorsalmente. Una cresta oblicúa y
+peluda ubicada en la parte ventral (visible) del mero del tercer par de maxilípedos. Dáctilos del s e g u n d o al quinto
+par de pereiópodos c o n hileras longitudinales de pelos negros. Color: caparazón y pereiópodos café oscuros a
+café-grisáceos. Quelípedos en parte crema. Hembra con lineas amarillas en la frente.
+
+Talla: Máxima: 5 cm (macho) y 4 cm (hembra) de anchura del caparazón (tallas
+máximas conocidas).
+
+Hábitat y biología: Vive en la zona supralitoral de lagunas costeras y estuarios,
+cerca de bosques de mangle o en bancos lodosos o areno-lodosos. Ocasional-
+mente se encuentra entre las raices y sobre las ramas del mangle.
+
+P e s c a y utilización: No representa un potencial pesquero importante debido
+a su talla relativamente pequeña. Capturado ocasionalmente a nivel de sub-
+sistencia.
+Ocypodidae                                                                        607
+
+                                                   MAJIDAE
+
+                                       Cangrejos araña, panchote^
+
+Caparazón generalmente triangular, más angosto anteriormente. Frente prolongada hacia adelante en un rostro
+      formado por 1 o 2 espinas separadas o unidas, a veces muy largas. Caparazón generalmente e s p i n o s o ,
+particularmente en las regiones ántero-laterales, y a menudo parcialmente recubierto de setas en forma de gancho.
+Orbitas generalmente incompletas o ausentes (en algunas especies completas o casi completas). Quelípedos muy
+móviles, ocasionalmente más largos que los pereiópodos siguientes, los cuales son de forma semejante pero
+de distinta longitud y están cubiertos de espinas y pelos; dáctilos espinosos. Cuadro bucal cuadrangular; carpo
+del tercer par de maxilípedos articulado en el extremo o ángulo ántero-interno del mero.
+
+                               caparazón                        carpo del 3 '
+                          subtriangular con                      maxilípedo
+
+                                espinas y                           mero del 3 1
+                               tubérculos                            maxilípedo
+
+                          cuadro bucal
+                          cuadrangular
+
+            vista dorsal                     extremo anterior
+                                               (vista ventral)
+
+En el área de pesca No. 77, la familia Majidae sensu lato está representada por unas 93 especies, de las cuales sólo tres
+son de interés para la pesca debido a su talla relativamente grande. Muchas especies de Majidae viven en la zona
+intermareal, donde buscan refugio entre algas, esponjas y en las fisuras y grietas de las rocas; también son comunes en
+arrecifes coralinos, pero están prácticamente ausentes en áreas estuarinas y otros cuerpos de agua salobre.
+
+Según la revisión monográfica de J.S. Garth (1958), las especies de Majidae del Pacífico central tropical americano están
+agrupadas en 7 subfamilias. La propuesta reciente de P. Drach y D. Guinot de elevar estas subfamilias al rango de familias
+no ha sido adoptada por la mayoría de los autores americanos. Con el fin de evitar posibles confusiones, se ha decidido
+.seguir en este documento la clasificación tradicional de Garth.
+608                                                                                                         •Cangrejos
+
+Familias de aspecto similar presentes en el área
+Leucosiidae: cuadro bucal de forma triangular, más angosto en la porción anterior y con canales eferentes laterales.
+
+                                                                                                                                                                                    canal
+                                                                                                                                                                                  eferente
+
+                                                                                                                                                                                               cuadro
+                                                                                                                                                                                                bucal
+
+                     vista dorsal                                              extremo anterior
+                                                                                (vista ventral)
+                (según Garth, 1940)
+                                           Leucosiidae
+
+Atelecyclidae: pinzas del macho fuertemente asimétricas. Frente no prolongada en un rostro. Orbitas bien formadas.
+
+Parthenopidae: quelípedos siempre más largos que los demás pereiópodos, pesados y poco móviles, casi siempre
+provistos de fuertes carinas dentadas o dientes en los bordes; pinza de sección triangular. Orbitas bien definidas.
+
+quelípedos muy                               frente no    quelípedos largos,   pinza de sección triangular
+   asimétricos                             prolongada        fuertes y poco
+                                           en un rostro
+                                                         móviles, con carinas
+                                                                  dentadas
+
+                  macho en vista dorsal                                            vista dorsal
+
+                (según Abele y Kim, 1986)                                      (según Garth, 1958)
+
+                       Atelecyclidae                                             Parthenopidae
+
+Guía para distinguinir las subfamilias que incluyen especies de interés para la pesca
+
+Majinae y Mithracininae se diferencian de las demás subfamilias de Majidae del área por la presencia de órbitas completas
+o casi completas que encierran los ojos. En efecto, en la subfamilia Inachinae, las órbitas están ausentes y el pédunculo
+ocular carece de protección lateral; en las subfamilias restantes (Pisinae, Epialtinae = Acanthonychinae, Tychinae
+= Ophthalmiinae), las órbitas son rudimentarias o muy incompletas y protegen sólo parte del ojo.
+
+Majinae y Mithracininae se diferencian entre sí por la forma y extensión del primer artejo antenal: en Majinae es
+moderadamente ancho y ho se extiende notoriamente por debajo del ojo (Fig. 1 a); en Mithracininae es muy ancho y se
+extiende por debajo de la órbita, formando el piso de ésta (Fig. 1 b). En nuestra área de pesca, la subfamilia Majinae está
+representada por una sola especie, Maiopsis panamensis, mientras que la subfamilia Mithracininae cuenta con 20
+especies, la mayoría de ellas habitantes típicos de la zona intermareal. Sólo dos especies, Stenocionops ovata y Mithrax
+armatus, son de talla mediana a grande.
+
+                                            artejo antenal                                          artejo antenal
+                                     moderadamente ancho                                             muy ancho
+
+                                           pedúnculo ocular                                           pedúnculo
+                                                   visible                                          ocular oculto
+
+     a) Majinae (género Maiopsis)                            b) Mithracininae (género Stenocionops)
+
+                                     Fig. 1 extremo anterior en vista ventral
+Ocypodidae                                                                    609
+
+Lista de especies de Majinae y Mithracinae presentes en ei área
+Las especies descritas o ilustradas van seguidas de sus respectivos códigos.
+
+Subfamilia MAJINAE Samouelle, 1819                   MAJI Maiop 1
+        Maiopsis panamensis Faxon, 1893
+
+Subfamilia MITHRACINAE Balss, 1829
+        Ala cornuta (Stimpson, 1860)
+
+Hemus analogus Rathbun, 1898
+Hemus finneganae Garth, 1958
+
+Macrocoeloma  heptacanthum (Bell, 1835)
+Macrocoeloma  maccullochae Garth, 1940
+Macrocoeloma  villosum (Bell, 1835)
+
+Microphrys branchialis Rathbun, 1898
+Microphrys platysoma (Stimpson, 1860)
+Microphrys triangulatus (Lockington, 1877)
+
+Mithrax (Mithrax) armatus de Saussure, 1853          MAJI Mit 1
+Mithrax (Mithraculus) denticulatus Bell, 1835        MAJI Steno 1
+Mithrax (Mithrax) pygmaeus Bell, 1835
+Mithrax (Mithrax) sinensis clarionensis Garth, 1940
+Mithrax (Mithrax) sinensis sinensis Rathbun, 1892
+Mithrax (Mithrax) spinipes (Bell, 1835)
+Mithrax (Mithrax) tuberculatus Stimpson, 1860
+
+Stenocionops  angusta (Lockington, 1877)
+Stenocionops  beebei Glassell, 1936
+Stenocionops  ovata (Bell, 1835)
+
+Teleophrys cristulipes Stimpson, 1860
+
+Thoe sulcata panamensis Nobill, 1901
+Thoe sulcata sulcata Stimpson, 1860
+610                                                                                                        •Cangrejos
+
+Maiopsis panamensis F a x o n , 1893                                                                  MAJI Maiop 1
+
+Nombres vernáculos: FAO: Es - Cangrejo araña de Panamá; Fr - Crabe araignée du Panama; In - Panamic spidercrab.
+               Nacional:
+
+                                                 diente dorsal
+                                                   accesorio
+
+                                                                                                        artejo antena]
+                                                                                                moderadamente ancho,
+                                                                                               pedúnculo ocular visible
+
+                                                 espinas de
+                                                  la región
+                                                 branquial
+
+                                                    largas
+
+ espinas                                         caparazón
+del mero                                         recubierto
+                                                 de fuertes
+
+                                                   espinas
+
+                          macho en vista dorsal                                    extremo anterior en vista ventral
+
+Caracteres distintivos: Especie de gran talla. Caparazón ovalado-triangular, tan largo como ancho y recubierto de
+fuertes espinas; borde ántero-lateral y margen de las regiones branquiales con espinas particularmente largas.
+Rostro prominente, formado por 2 cuernos o dientes ligeramente divergentes, cada uno provisto de un fuerte
+diente dorsal accesorio cérca de su base, formando un ángulo casi recto con el eje del rostro. Ojos pequeños, con
+pedúnculos delgados y que sé retraen dentro de las órbitas. Estas últimas, grandes, separadas por un espacio amplio,
+pero incompletas ventralmente, su borde superior prominente, con dos fisuras y espinas, particularmente un par de
+espinas dorsales en forma de "V". Artejo basal de la antena moderadamente ancho, no cubre el pedúnculo ocular,
+con por lo menos 3 iargas y fuertes espinas anteriores. Pereiópodos sin carinas; quelípedos de la hembra mucho más
+cortos y delgados que el primer par de pereiópodos; quelípedos del macho muy largos y fuertes. Borde distal del mero
+del tercer par de pereiópodos con 3 espinas fuertes y otras más pequeñas. Macho y hembra con 7 segmentos
+abdominales. Color: tonalidad general del dorso del cuerpo rojo-anaranjada a café-rojiza; región ventral más clara, con
+zonas amarillentas o crema. Extremo de las pinzas crema o blanco.
+
+Talla: Máxima: 24 cm (macho) y 16,8 cm (hembra) de anchura del caparazón (tallas máximas conocidas).
+
+Habitat y biología: Ha sido encontrado entre 15 y 335 m de profundidad sobre
+fondos mixtos (arena con limo) y en las cercanías de zonas rocosas. Los machos
+son considerablemente más grandes que las hembras y presentan quelípedos
+más largos y mucho más fuertes, que pueden alcanzar hasta 57 cm de longitud.
+
+Pesca y utilización: Es el cangrejo más grande de todo el área de pesca.           ,a-  V\
+Sobrepasa netamente (en anchura de caparazón) la especie más ancha del
+género Chionoecetes (C. báirdi), explotada en el Pacífico noroccidental ("Snow          %
+
+crab"). Los machos más grandes pueden pesar hasta 3,5 kg (peso fresco). Ha
+
+sido capturado en pescas de arrastre experimentales en el centro del golfo de
+
+California y con chinchorros langosteros como fauna acompañante de langostas N
+
+(Panulirus) en el sureste del Golfo. Podría representar un recurso importante del
+
+área de pesca si se lograsen localizar poblaciones suficientemente grandes y
+
+accesibles a las redes de. arrastre o a la pesca mediante trampas. Aparece                                 m
+
+ocasionalmente en arrastres comerciales y es aprovechado por los pescadores             I O'W  l( «•  93'  ^
+
+a nivel de subsistencia.
+Ocypodidae                                                                                                    611
+                                                                                                MAJI Mit 1
+  Mithrax (Mithrax) armatus de S a u s s u r e , 1853
+
+Nombres vernáculos: FAO: Es - Araña porteña; Fr - Araignée portuaire; In - Harbour spidercrab.
+               Nacional:
+
+            cuernos rostrales
+
+                                 espina ántero-lateral
+                                 de la región hepática
+
+                                 espinas ántero-laterales
+                                  de la región branquial
+
+                                                tubérculo cónico                                superficie lisa
+
+               vista dorsal        caparazón                                        pinza         extremos de los
+                                 recubierto de                                                  dedos en forma de
+            (según Garth, 1958)
+                                   tubérculos                                                           cuchara
+                                  irregulares
+
+Caracteres distintivos: Caparazón ovoidal, con las regiones branquiales bien delimitadas, enteramente recubierto de
+numerosos tubérculos de tamaño irregular, más puntiagudos en las regiones póstero-laterales; 4 espinas
+ántero-laterales largas y embotadas, 3 branquiales y 1 en la región hepática, esta última acompañada de una espina
+accesoria poco visible. Rostro formado por 2 cuernos moderadamente largos, de extremo puntiagudo y ligeramente
+recurvado hacia adentro. Ojos completamente protegidos dentro de las cavidades orbitales. Mero y carpo de los
+quelípedos con numerosas espinas fuertes y romas; pinzas completamente lisas, a excepción de un fuerte tubérculo
+s u b c ó n i c o ubicado en la superficie externa, cerca de la base; dedos de las pinzas con el extremo e n forma de
+cuchara. Color: tonalidad general del cuerpo amarillo-ocre a verde.
+
+Talla: Máxima: 8,9 cm (macho) y 6,2 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Hábitat y biología: Vive en la zona intermareal, sobre arrecifes y entre rocas. Es
+capturado comúnmente en escolleras y a lo largo de los muelles de zonas
+portuarias y también es frecuente cerca de praderas o manchones de algas de
+color ocre.
+
+Pesca y utilización: Por su talla relativamente grande y su accesibilidad a la
+pesca artesanal, representa un recurso interesante a nivel de subsistencia. Es
+capturado ocasionalmente por los recolectores de moluscos en la zona intermá-
+real o en aguas someras del circumlitoral.
+612                              •Cangrejos
+
+Stenocionops ovata (Bell, 1835)  MAJI Stenó 1
+
+Nombres vernáculos: FAO: Es - Cangrejo araña terciopelo; Fr - Crabe araignée velours; In - Velvet spidercrab.
+               Nacional:
+
+Caracteres distintivos: Caparazón "aterciopelado", enteramente recubierto de pelos cortos. Ojos completamente
+protegidos por las órbitas que presentan un diente superior triangular muy ancho y otro lateral más pequeño.
+Rostro formado por 2 cuernos cortos, subtriangulares (más largos y divergentes en especímenes jóvenes) de longitud
+aproximadamente igual a i/7 a 1/12 de la longitud del caparazón. Caparazón con 5 espinas laterales (2 hepáticas y 3
+branquiales) y 9 e s p i n a s medianas, cortas y ocultas bajo la pubescencia e n ejemplares grandes. Quelípedos de
+la hembra más cortos que el primer par de pereiópodos; quelípedos del macho notoriamente más largos y fuertes. Pinzas
+granulosas bajo la pubescencia. Color: pubescencia del caparazón café-rojiza a café oscura, aquella de los pereiópo-
+dos, café más oscura o casi negra; dedos de la pinza claros. Espinas del caparazón blancas con tonos rojizos.
+
+Talla: Máxima: 13 cm (macho) y 9,8 cm (hembra) de anchura del caparazón (tallas
+máximas conocidas). Los machos más grandes pueden pesar hasta 1 kg (peso
+fresco).
+
+Hábitat y biología: Stenocionops ovata ha sido capturado entre 15 y 275 m de
+profundidad, sobre fondos arenosos, lodosos, o sustratos de corales, conchas,
+algas o esponjas. Los machos son considerablemente más grandes que las
+hembras y presentan quelípedos más largos y fuertes.
+
+Pesca y utilización: Esta especie parece estar representada por poblaciones
+abundantes en el golfo de California central, entre los 60 y 100 m de profundidad,
+accesibles a las redes de arrastre comerciales. Representa un potencial no
+explotado hasta la fecha que merece ser estudiado con atención.
+Ocypodidae                                                                        613
+
+                                           OCYPODIDAE
+
+                                                    Capucos
+
+Caparazón generalmente rectangular (ovalado en Ucides). Frente angosta, recurvada hacia abajo, sin dientes
+      o lóbulos (pero con una hendidura mediana e n Ucides). Orbitas muy anchas, o c u p a n d o c o n la frente la
+totalidad (excepto en Ucides) del margen anterior del caparazón , y generalmente abiertas en el lado externo;
+pedúnculos oculares m á s largos que la anchura de la frente. Cuadro bucal grande, un p o c o m á s angosto
+anteriormente y por lo general totalmente recubierto por el tercer par de maxilípedos. Segundo a quinto par
+de pereiópodos semejantes, variando p o c o en tamaño; quelípedos ligeramente (género Ocypode) o fuertemente
+(género Ucides y machos del género Uca) asimétricos.
+
+              quelípedos .muy asimétricos                    quelípedos levemente
+                                                                     asimétricos
+ pedúnculo
+ocular más                                                                              caparazón
+largo que la                                                                        í\s ovalado
+anchura de
+
+  la frente
+
+              género Ocypode                                 género Ucides
+
+              (según Brusca, 1980)
+
+Las especies de Ocypode y Uca son anfibias; durante la bajamar salen de sus madrigueras en busca de alimento, para
+establecer contactos intra- o inter-específicos o para reparar sus madrigueras, dentro de las cuales se refugian cuando,
+el mar recubre su hábitat. Las especies del género Uca presentan un comportamiento social muy elaborado y sus
+poblaciones o comunidades pueden ser observadas fácilmente en la cercanía de lagunas costeras o estuarios,
+particularmente en llanuras de sustratos areno-lodosos semi-compactos. Una sola especie, Ucides occidentalis, que
+previamente formaba parte de la fámilia Gecarcinidae, ocupa un nivel más elevado (supralitoral), raramente inundado y
+además alcanza una talla suficientemente grande para ser utilizada como recurso alimentario.
+
+Familias de aspecto similar presentes en el área
+
+Gecarcinidaé: caparazón siempre ovalado. Orbitas céntricas, pequeñas; frente relativamente ancha. Distancia órbito-fron-
+tal (entre los bordes externos de las órbitas) siempre netamente menor que la anchura del caparazón. Cuadro bucal
+cuadrangular, incompletamente recubierto por el tercer par de maxilípedos. Dáctilos del segundo ál quinto par de
+pereiópodos recorridos por hileras de espinas.
+
+              frente ancha                                   espacio descubierto
+                                       órbita
+
+espinas                                                                           maxilípedo
+
+              vista dorsal                                   cuadro bucal
+                                                             (vista ventral)
+                                               Gecarcinidae
+614                                                                                                                •Cangrejos
+
+Grapsidae: caparazón cuadrangular; frente ancha, generalmente mayor que la mitad de la anchura del caparazón;
+generalmente 1 o 2 dientes ántero-laterales fuera del diente orbital extemo; quelípedos simétricos, pinzas más cortas y
+robustas.
+
+Clave para los géneros presentes en el área
+
+1a. Caparazón ovalado, las regiones branquiales fuertemente proyectadas hacia los lados; distancia
+
+     órbito-frontal (entre los bordes externos de las órbitas) inferior a dos tercios de la anchura del
+
+     caparazón (Fig. 1a). Margen ventral de la frente con una hendidura mediana (Fig. 1b). Alcanza tallas
+
+     superiores a 7 cm de anchura de caparazón .                                          Ucides (U. occidentalis)
+
+1b. Caparazón rectangular; distancia órbito-frontal superior a dos tercios de la anchura del caparazón                       —> 2
+      (Figs 2a y 3a). Margen ventral de la frente convexo (Figs 3b y c) o levemente angular (Fig. 2b), sin
+      hendidura mediana
+
+                                  distancia
+
+     a) vista dorsal              Fig. 1 Ucides occidentalis                              b) vista ,rontal (mítad  derecha)
+
+2a. Pedúnculo ocular corto y robusto; córnea más larga que la mitad de la longitud del pedúnculo
+       (Fig. 2b). Quelípedos del macho (y de la hembra) ligeramente asimétricos (Fig. 2 a ) . . . . Ocypode (3 especies)
+
+quelípedos levemente asimétricos                          cornea
+                                                           larga
+                                     distancia
+                                  órbito-frontal
+
+     a) macho (vista dorsal)                      Fig. 2                     pedúnculo                         frente angular
+                                                                          ocular robusto
+         (según Brusca, 1980)                                                             b) vista frontal (mitad derecha)
+                                                          Ocypode
+Ocypodidae                                                                                                      615
+
+2b. Pedúnculo ocular delgado y alargado; córnea más corta que la mitad de la longitud del pedúnculo
+
+(Figs 3b y c). Quelípedos del macho fuertemente asimétricos (Fig. 3a), los de la hembra pequeños
+
+y simétricos                                                                  Uca (31 especies)
+
+              quelípedos                            pedúnculo ocular
+              fuertemente                             largo, delgado
+              asimétricos
+
+              distancia órbito-frontal
+
+                                                     pedúnculo
+                                                    ocular largo
+
+            a) macho (vista dorsal)     Fig. 3 Uca  cornea                    c) vista frontal (mitad derecha)
+                                                     corta
+              (según Brusca, 1980)
+
+Lista de las especies presentes en el área
+
+Las especies descritas o ¡lustradas van seguidas de sus respectivos códigos.
+        Ocypode ceratophthalma (Pallas, 1772)
+        Ocypode gaudichaudii (H. Milne Edwards y Lucas, 1843)
+        Ocypode occidentalis Stimpson, 1860
+
+Uca argillicola Crane, 1941                         OCYP Ucid 2
+Uca batuenta Crane, 1941
+Uca beebei Crane, 1941
+Uca brevifrons Stimpson, 1860
+Uca crenulata coloradensis (Rathbun, 1893)
+Uca crenulata crenulata Lockington, 1877
+Uca deichmanni Rathbun, 1935
+Uca dorotheae von Hagen, 1968
+Ucafestae Nobili, 1902
+Uca galapagensis Rathbun, 1902
+Uca heteropleura (Smith, 1870)
+Uca inaequalis Rathbun, 1935
+Uca latimanus (Rathbun, 1893)
+Uca leptochela Bott, 1954
+Uca limicola Crane, 1941
+Uca maracoani insignis (Milne Edwards, 1852)
+Uca música música Rathbun, 1914
+Uca música terpsichores Crane, 1941
+Uca oerstedi Rathbun, 1904
+Uca ornata (Smith, 1870)
+Uca panamensis (Stimpson, 1859)
+Uca princeps monilifera Rathbun, 1914
+Uca princeps princeps (Smith, 1870)
+Uca pygmaea Crane, 1941
+Uca saltitanta Crane, 1941
+Uca stenodactylus (H. Milne Edwards y Lucas, 1843)
+Uca stylifera (Milne Edwards, 1852)
+Uca tallanica von Hagen, 1968
+Uca tenuipedis Crane, 1941
+Uca thayeri umbratila Crane, 1941
+Uca tomentosa Crane, 1941
+Uca vocator ecuadoriensis Maccagno, 1928
+Uca zacae Crane, 1941
+
+Ucides occidentalis (Ortmann, 1897)
+616                                                                                            •Cangrejos
+
+Ucides occidentalis ( O r t m a n n , 1897)                                                    OCYP Ucid 2
+
+Otros nombres científicos aún utilizados: Ucides cordatas occidentalis (Ortmann, 1897)
+
+Nombres vernáculos: FAO: Es - Capuco verde; Fr - Crabe mantou vert; In - Mangrove ghost crab.
+               Nacional:
+
+                                             quelípedos muy largos
+
+                                             pedúnculos casi
+                                                  verticales
+
+Caracteres distintivos: Caparazón ovalado, las regiones branquiales hinchadas, fuertemente proyectadas hacia los
+lados; distancia órbito-frontal (entre los bordes externos de las órbitas) inferior a los d o s tercios de la anchura
+del caparazón. Pedúnculo ocular largo y robusto, casi vertical en el animal vivo (como en Uca). Margen ventral
+de la frente c o n una hendidura mediana. Quélipedos del macho extremadamente largos, algo asimétricos, con
+numerosos tubérculos y espinas, particularmente en los bordes dorsal y ventral de la pinza; mero con dos hileras de
+fuertes espinas en la superficie anterior. Color: caparazón rojo-grisáceo o gris-azulado, con los márgenes laterales
+rojo-anaranjados. Pereiópodos y gran parte de las pinzas de color rojo oscuro. Región ventral café o blanca.
+
+Talla: Máxima: 8,3 cm (macho) y 7,5 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Hábitat y biología: Común sobre sustratos lodosos en manglares, lagunas y
+otros ambientes salobres cerca de las desembocaduras de ríos; ocasionalmente
+se encuentra en áreas no inundadas, pero próximas a cuerpos de agua. Cons-
+truye madrigueras poco profundas, generalmente de menos de 50 cm de profun-
+didad y provistas de varias entradas, especialmente en zonas de manglares, y
+ocasionalmente en la zona supralitoral.
+
+Pesca y utilización: No existe información acerca de una posible explotación
+regular de Ucides occidentalis que es una de las dos especies (con U. cordatus)
+más grandes de la familia Ocypodidae en América. Probablemente se utiliza
+ocasionalmente a nivel de subsistencia por parte de pescadores locales.
+Ocypodidae                                                                                       617
+
+                                  PORTUNIDAE
+
+                                                      Jaibas
+
+Caparazón ancho, aplanado dorsalmente, con 4 a 9 dientes ántero-laterales, el diente lateral a menudo más largo
+      que los demás. Frente sin rostro, dividida en dientes o lóbulos más o menos desarrollados o bien, más o menos
+recto con una pequeña hendidura mediana. Cuadro bucal de forma cuadrangular: Propodio y dáctilo del quinto par de
+pereiópodos típicamente aplanados y generalmente ensanchados para facilitar la natación. Dáctilo de los pereiópodos
+sin fuertes espinas.
+
+               9 dientes
+
+               género Calünectes                                         (según Bmsca> 198Q)
+
+La familia Portunidae comprende los llamados "cangrejos nadadores" o "jaibas", presentes en todo el área de pesca, tanto
+en aguas salobres como marinas. El género más diversificado, Portunus, está representado en el área por 9 especies de
+interés para la pesca. Una de éstas, P. xantusii, es generalmente subdivi^ida en 3 subespecies. Dos especies (P. asper
+y P. xantusii) son particularmente abundantes y podrían ser utilizadas para la elaboración de harina u otros tipos de
+productos alimentarios.
+
+Familias de aspecto similar presentes en el área
+
+Todas las demás familias de Brachyura se distinguen de Portunidae por no tener el propodio y dáctilo del quinto par de
+pereiópodos aplanados, adaptados para la natación. Además de esta característica común, las familias citadas más abajo
+{de aspecto más parecido a Portunidae) pueden ser identificadas en base a los siguientes caracteres:
+
+Cancridae: dorso del caparazón no fuertemente aplanado, provisto (como algunas especies de Portunidae) de 9 dientes
+o lóbulos ántero-laterales, pero el noveno (diente lateral) nunca es más largo que los demás. Parte anterior del cuerpo
+ancha; frente sin rostro pero con tres dientes, uno mediano y dos laterales.
+
+Palicidae: margen ántero-lateral del caparazón irregularmente dentado, sin formar un arco regularmente convexo. Ultimo
+
+(quinto) p'ár de pereiópodos en posición dorsal y fuertemente reducido.  margen ánter0_lateral
+
+                                                                         irregularmente dentado
+
+                                  diente lateral
+
+            1  ,,         K       nunca más largo
+
+                                  que los demás
+
+               Cancridae          propodio y dáctilo                     Palicidae
+                                    no modificados
+618                                                                                                           •Cangrejos
+
+Gonepiacidae: caparazón no fuertemante deprimido dorso-ventralmente. Pinzas generalmente asimétricas. Frente sin
+dientes y no en forma de T.
+
+                                                                                                                                                           pedúnculo
+                                                                                                                                                          ocular largo
+                                                          2
+
+                                  propodio y dáctilo normales'
+
+                                         Gonepiacidae
+
+Clave para las especies presentes en el área
+
+1a. Pedúnculos oculares extremadamente largos, su longitud por lo menos igual a un tercio de la anchura
+      del caparazón. Caparazón con 4 o 5 dientes ántero-laterales, a veces muy pequeños (Figs 1a y 2 a ) . . . . —» 2
+
+1b. Pedúnculos oculares cortos, su longitud mucho menor que un tercio de la anchura del caparazón.            —> 3
+       Caparazón con 9 dientes ántero-laterales (Fig. 3)
+
+2a. Propodio y dáctilo de los pereiópodos 2, 3 y 4 típicamente aplanados, al Igual que en el quinto
+
+     pereiópodo (Fig. 1c). Pinza del quelípedo de longitud aproximadamente 4 veces mayor que su altura
+
+     (Fig. 1b)                                                                        Euphylax dovii
+
+2b. Propodio y dáctilo aplanados únicamente en el quinto pereiópodo (Fig. 2c). Pinza del quelípedo de
+
+     longitud inferior a 4 veces su altura (Fig. 2b). . .                             Euphylax robustus
+
+                                  pedúnculo ocular largo   pedúnculo ocular largo         4 dientes
+                                                                                      ántero-laterales
+
+                                                                                                              artejos no
+                                                                                                              aplanados
+
+                                c) 2 a 5 pereiópodos                                  c) 2°' a 4o" pereiópodos
+
+     b) pinza                                                               b) pinza
+
+                   Fig. 1 Euphylax dovii                                    Fig. 2 Euphylax robustus
+
+                (según Garth y Stephenson, 1966)                            (según Garth y Stephenson, 1966)
+
+                                                  i pedúnculo ocular corto
+
+                     9 dientes
+                ántero-laterales
+
+                diente lateral
+
+                                  Fig. 3 vista dorsal del caparazón
+Portunidae                                                                                                          619
+
+3a. Dientes ántero-laterales alternativamente largos y cortó? (Fig. 4a), Superficie externa y borde
+
+superior de ja pinza con un total de 4 espinas bien marcadas (Fig. 4b)                  . Cronius ruber
+
+3b, Dientes ántero-lateraleg iguales o subiguales, salvo el noveno (diente lateral) que puede ser mucho más
+       largo que el octavo (Fig. 3), Superficie externa y borde superior de la pinza qon 2 o 3 espinas (Fig." 5) . . , . . ^ 4
+
+                                               dientes ántero-laterales
+                                            alternativamente grandes y
+
+                                                         pequeños
+
+            a) caparazón en vista dorsal          Fig. 4 Cranius, ruber                 4 espinas
+
+                                 3 espinas  (según Garth y Stephenson. 1966)                b) pinza
+                                                         2 espinas
+                                                                                                         2 espinas
+
+a) Arenaeus mexicanus                               b) Callinectes arcuatus             c) Portunus asper
+
+                                            Fig. 5 pinzas (superficie externa)
+
+                                                (según Garth y Stephenson, 1966)
+
+4a. Fisura supraorbital profunda y ancha, en forma de "V" (Fig. 6a)                     Arenaeus mexicanus
+4b. Fisura supraorbital visible, pero poco marcada (Fig. 6b) . . , . . . . , , ,
+                                                                                                                     5
+
+fisura supraorbital                         fisura supraorbital poco
+  profunda, en V                                        marcada
+
+9) Arenaeus mexicanus                                                                   b) Portunus asper
+
+                                    Fig. 6 caparazón en vista dorsal (mitad izquierda)
+
+5a. Borde medial del carpo del quelípedo con una fuerte espina. Abdomen del macho triangular (Fig. 7a)
+
+                                                                                                                    Portunus (9 especies)
+
+5b, Borde medial del carpo del quelípedo sin espina. Abdomen del macho en forma de "T" (Fig. 7b)                    6
+
+a) género Portunus                                                                          b) género Callinectes
+                       Fig. 7 parte del quelípedo y abdomen del macho
+620                                                                                                          •Cangrejos
+
+6a. Dientes centrales de la frente muy reducidos, a veces completamente obsoletos (Fig. 8a). . Callinectes bellicosus
+
+6b. Dientes centrales de la frente bien desarrolladas, aunque siempre más pequeños que los dientes
+
+     laterales (Figs 8b, c y d)                                                                              —7
+
+     dientes centrales reducidos o ausentes
+
+        a) Callinectes bellicosus                                      b) Callinectes exasperatus
+
+                       dientes laterales triangulares                     dientes laterales redondeados
+
+        c) Callinectes arcuatus                                                      d) Callinectes toxotes
+
+                Fig. 8 margen anterior del caparazón con dientes de la frente
+
+7a. Diente lateral (9) del caparazón corto, su margen anterior menos de 2 veces la longitud del margen
+
+     posterior del diente inmediatamente precedente (8) (Fig. 9a). Especie circunscrita a Miraflores,
+
+     Panamá                                                                          Callinectes        exasperatus
+                                                                                                                —» 8
+7b. Diente lateral (9) del caparazón largo, su margen anterior más de 2 veces la longitud del margen
+       posterior del diente inmediatamente precedente (8) (Fig. 9b)
+
+margen       p                                         margen.
+                                                       anterior
+anterior^ r4
+
+diente lateral                                         diente lateral
+                                                             largo
+      corto
+                               exasperatus                             b) Callinectes  arcuatus
+               a) Callinectes
+
+                                 Fig. 9 caparazón (mitad izquierda) en vista dorsal
+Ocypodidae                                                                                              621
+
+8a. Dientes laterales de la frente en forma de triángulo agudo (Fig. 8c). Sexto segmento abdominal del
+
+macho más ancho en la base (contigua al quinto segmento), bordes laterales de la base netamente
+
+divergentes. Telson de la hembra en forma de triángulo equilátero (Fig. 10a)      Callinectes arcuatus
+
+8b. Dientes laterales de la frente en forma de lóbulo (Fig. 8d). Sexto segmento abdominal del macho
+
+angosto en la base (contigua al quinto segmento), bordes laterales de la base casi paralelos. Telson
+
+de la hembra en forma de triángulo más largo que ancho (Fig. 10b)                 Callinectes toxotes
+
+            macho              hembra                              macho          hembra
+
+a) Callinectes arcuatus                                                       b) Callinectes toxotes
+
+                         Fig. 10 abdomen de macho y hembra en vista ventral
+
+Lista de las especies presentes en el área
+Las especies descritas o ilustradas van seguidas de sus respectivos códigos.
+
+Arenaeus mexicanus (Gerstaecker, 1856)                             PORT Aren 2
+
+Callinectes        arcuatus Ordway, 1863                           PORT Cali 13
+Callinectes        bellicosus (Stimpson, 1859)                     PORT Cali 14
+Callinectes        exasperatus (Gerstaecker, 1856)                 PORT Cali 5
+Callinectes        toxotes Ordway, 1863                            PORT Cali 15
+
+Cronius ruber (Lamarck, 1818)                                      PORT Cron 1
+
+Euphylax dovii Stimpson, 1860                                      PORT Euphy 1
+Euphylax robustus A. Milne Edwards, 1874                           PORT Euphy 2
+
+Portunus acuminatus (Stimpson, 1871)                               PORT Portun 4
+Portunus asper (A. Milne Edwards, 1861)                            PORT Portun 5
+Portunus brevimanus (Faxon, 1895)
+Portunus guaymasensis Garth y Stephenson, 1966
+Portunus iridescens (Rathbun, 1893)
+Portunus stanfordi Rathbun, 1898
+Portunus tuberculatus (Stimpson, 1860)
+Portunus xantusii (Stimpson, 1860)
+622                                                                                                                  •Cangrejos
+                                                                                                            PORTAren 2
+  Arenaeus mexicanus (Gerstaecker, 1856)
+
+Nombres vernáculos: FAO: Es - Jaiba arenera; Fr - Crabe de sable; In - Sand swimcrab.
+               Nacional:
+
+fisura supraorbital       , pedúnculos oculares cortos
+ancha y profunda
+
+                                                                                       espinas o dientes
+                                                                                            en la mano
+
+diente lateral muy largo
+
+                     caparazón en vista dorsal                                  pinza (superficie externa)
+
+                          (según Garth y Stephenson, 1966)
+
+Caracteres distintivos: Caparazón con 9 dientes ántero-laterales iguales o subiguales, salvo el noveno que e s mucho
+más largo que el precedente. Pedúnculos oculares mucho más cortos que un tercio de la anchura del caparazón;
+fisura supraorbital profunda, ancha y en forma de "V", bien visible dorsalmente. Superficie externa de la mano
+del quelípedo con 1 o 2 e s p i n a s o dientes bien marcados; ángulo medial del carpo con Una espina o tubérculo
+relativamente pequeño. Color: caparazón de tonalidad variable, generalmente verde claro con las regiones laterales
+café o gris-negruzco, casi enteramente recubierto de manchas circulares blancas o rosadas. Pereiópodos grisáceos
+con puntos negros o gris-azulados; dáctilo del quinto pereiópodo amarillo.
+
+Talla: Máxima: 8,2 cm (macho) y 6,5 cm (hembra) de anchura del caparazón
+(espinas laterales incluidas).
+
+Hábitat y biología: Vive en las zonas más someras de la plataforma conti-
+nental, predominantemente sobre fondos arenosos, pero también lodosos o
+mixtos, en condiciones de salinidad normales (de unos 3 0 a 35%oS). Es
+capturado generalmente entre 10 y 40 m de profundidad, ocasionalmente en
+aguas más profundas (hasta 80 m) y es común encontrarlo muy cerca de la
+zona intermareal, entre pasto marino o sobre rocas o sustrato arenoso.
+
+Pesca y utilización: Explotado localmente a nivel artesanal en el sur del área
+(Colombia) y fuera del área (Perú), donde se comercializa en fresco. En el
+norte del área aparece comúnmente en las capturas de arrastre camaroneras
+provenientes de zonas poco profundas, pero es generalmente desechado.
+Portunidae                                                                                                623
+
+  Callinectes arcuatus Ordway, 1863                                                    PORT Cali 13
+
+Nombres vernáculos: FAO: Es - Jaiba cuata; Fr - Crabe couata; In - Cuata swimcrab.
+               Nacional:
+
+caparazón en vista dorsal                      abdomen (macho) en                      abdomen (hembra) en
+                                                    vista ventral                            vista ventral
+
+                                               (según Williams, 1974)
+
+Caracteres distintivos: Caparazón con 9 dientes ántero-laterales iguales o subiguales, salvo el noveno que e s más
+de 2 v e c e s más largo que el margen posterior del diente inmediatamente precedente. Dientes centrales de la
+frente bien desarrollados, aunque siempre más pequeños que los dientes laterales; e s t o s últimos en forma de
+triángulo agudo. Pedúnculos oculares cortos; fisura supraorbital bien definida pero no muy ancha. Superficie
+externa de la mano del quelípedo con 1 a 2 espinas o dientes bien marcados; ángulo medial del carpo sin espina,
+abdomen del macho en forma de "T", el s e x t o s e g m e n t o m á s ancho en s u b a s e (contigua al quinto s e g m e n t o ) , bordes
+laterales de la b a s e netamente divergentes. Telson de la hembra en forma de triángulo equilátero. Color: caparazón
+verde o aceitunado grisáceo. Quelípedos verde aceitunados dorsalmente, blancos ventralmente, con tonos azul-morados;
+extremidad de la pinza café-amarillenta. Pereiópodos verde-aceitunados, con reflejos de color turquesa; unión de los
+artejos con tubérculos anaranjados.
+
+Talla: Máxima: 14 cm (macho) y 12 cm (hembra) de anchura del caparazón.         «mi»:
+Se cita un ejemplar de 15 cm de sexo no determinado (tallas máximas
+conocidas).
+
+Hábitat y biología: Vive en estuarios y sistemas lagunares costeros, así como
+
+en aguas marinas costeras, sobre fondos lodosos, lodo-arenosos y dé lodo
+
+mezclado con conchuela. Se captura comúnmente en canales de zonas de
+
+manglares, cerca de las bocas de ríos y lagunas y en la plataforma continental
+
+hasta unos 40 m de profundidad. Es muy tolerante a variaciones de salinidad,
+
+encontrándose regularmente en aguas de salinidades que varían entre 1 y                H
+
+65 %o. Migra hacia las bocas de los sistemas iagunares-estuarinos y aguas
+
+marinas costeras durante la época de lluvias.
+
+Pesca y utilización: Es capturado en todo el área de pesca, tanto en la                          4•
+plataforma continental (fauna acompañante de las capturas de arrastre de
+camarones del género Penaeus), como especialmente en aguas estuarinas y             lio- H 100'
+
+lagunares (junto con camarones de aguas salobres o soto, con atarrayas,
+
+chinchorros, redes del tipo cuchara, líneas de mano y ocasionalmente, redes
+
+de arrastre). Muy abundante en aguas costeras durante la época de sequía. Su utilización como recurso pesquero es
+
+limitada debido a su talla media relativamente pequeña. Es explotado localmente en Colombia y México, donde es ofrecido
+
+como producto fresco en los mercados locales y utilizado como carnada; una pequeña parte del producto es exportada.
+
+Además se aprovecha al nivel de subsistencia.
+624                                                                                                                        •Cangrejos
+
+  Callinectes bellicosus ( S t i m p s o n , 1859)                                              PORT Cali 14
+
+Nombres vernáculos: FAO: Es - Jaiba guerrera; Fr - Crabe nageur soldat; In - Warrior swimcrab.
+                Nacional:
+
+                    frente con dientes centrales obsoletos
+
+                 pedúnculo
+                ocular corto
+
+diente lateral
+      largo
+
+                caparazón en vista dorsal                                              abdomen del macho en vista ventral
+
+                                                               (según Williams, 1974)
+
+Caracteres distintivos: Caparazón con 9 dientes ántero-laterales iguales o subiguales, salvo el noveno que e s más
+de 2 v e c e s más largo que el margen posterior del diente inmediatamente precedente. Dientes centrales de la
+frente muy reducidos, a veces completamente obsoletos. Pedúnculos oculares cortos; fisura supraorbital bien
+definida, pero no muy ancha. Superficie externa de la mano del quelípedo con 1 o 2 dientes bien marcados;
+ángulo medial del carpo sin espina, abdomen del macho en forma de "T", el sexto s e g m e n t o m á s a n c h o en la
+b a s e (contigua al quinto segmento), bordes laterales de la b a s e netamente divergentes. Telson de la hembra en
+forma de triángulo equilátero. Color: caparazón jaspeado, amarillo-verdoso a café-verdoso, ocasionalmente con marcas
+negras cerca de las órbitas y en la región branquial. Quelípedos con mero y carpo verde-amarillentos a café-verdosos,
+articulación del carpo rojo morada, y articulación del dedo móvil de la pinza con una mancha azul-verdosa o morada.
+
+Talla: Máxima: 17 cm (macho) y 14 cm (hembra) de anchura del caparazón
+(tallas máximas conocidas).
+
+Hábitat y biología: Vive en bahías arenosas y lagunas costeras, generalmen-
+te en aguas ciaras de salinidades cercanas o iguales a la del agua del mar
+(entre unos 30 y 38 %0), desde la zona intermareal hasta unos 20 rn de
+profundidad. Durante la temporada de calor efectúa migraciones limitadas a
+aguas más profundas.
+
+P e s c a y utilización: Es capturado principalmente en bahías y lagunas
+abiertas. Gracias a su.talla relativamente grande (hasta más de 0,5 kg de peso
+fresco por individuo) y particualrmente, por el gran tamaño de sus pinzas, esta
+especie se vende fresca en los mercados. Es abundante durante todo el año
+y su explotación no está reglamentada. Se captura con atarrayas, chinchorros,
+redes de cuchara, lineas con carnadas y trampas. La producción de especies
+de Callinectes para la costa Pacífica septentrional de México (de la cual C.
+bellicosus probablemente representa un buen porcentaje) alcanza unas
+2 000 t anuales. A pesar de su abundancia en bahías somerás del golfo de
+California, se aprovecha regularmente sólo en una parte de esa zona.
+Ocypodidae                                                                                                                            625
+
+         Callinectes toxotes O r d w a y , 1863                                                                    PORT Cal! 15
+       Nombres vernáculos: FAO: Es - Jaiba gigante; Fr - Crabe nageur géant; In - Giant swimcrab.
+                                                                                                                   telson formando
+                      Nacional:                                                                                       un triángulo
+                                                                                                                         alargado
+              frente con dientes centrales bien marcados
+                                                                             dientes laterales en forma de lóbulo
+
+                                                                               base angosta,
+                                                                                bordes casi
+                                                                                  paralelos
+
+diente lateral                             abdomen del macho                                  abdomen del hembra
+      largo                                   en vista ventral                                   en vista ventral
+
+                caparazón en vista dorsal
+
+                                           (según Williams, 1974)
+
+Caracteres distintivos: Caparazón con 9 dientes ántero-laterales iguales o subiguales, salvo el noveno que e s más
+de 2 v e c e s más largo que el margen posterior del diente inmediatamente precedente. Dientes centrales de la
+frente bien desarrollados, aunque siempre más pequeños que los dientes laterales, éstos últimos en forma de
+lóbulo. Pedúnculos oculares cortos; fisura supraorbital visible, pero no muy ancha. Superficie externa de la mano
+del quelípedo con 1 o 2 dientes bien marcados; ángulo medial del carpo sin espina. Abdomen del macho en forma
+de "T", el sexto s e g m e n t o m á s a n g o s t o e n la b a s e (contigua al quinto segmento), bordes laterales de la b a s e casi
+paralelos. Telson de la hembra en forma de un triángulo más largo que ancho. Color: no descrito.
+
+Talla: Máxima: 19,1 cm (macho) y 14,5 cm (hembra) de anchura del capara-
+zón.
+
+Hábitat y biología: Vive en lagunas costeras y estuarios a profundidades de
+hasta 30 m, generalmente en aguas de salinidad inferior a 30 %>, pero tolera
+variaciones de 0 a 55 %o.
+
+Pesca y utilización: Raro en la porción septentrional de su área de distribu-
+ción, pero explotado localmente en Colombia. Al igual que las demás especies
+del género, se captura con atarrayas, chinchorros, trampas y lineas con
+carnadas.
+626                                                                                               •Cangrejos
+
+Euphylax dovii S t i m p s o n , 1 8 6 0                                                      PORTE uphy 1
+
+Nombres vernáculos: FAO: Es - Jaiba marciana; Fr - Crabe nageur marciane; In - Pelagic swimcrab.
+               Nacional:
+
+                       frente sin dientes
+
+     pedúnculo ocular  centrales
+
+     muy largo
+
+4 dientes ántero
+ laterales cortos
+
+                                           mero con 4-6 espinas
+                                                  o tubérculos
+
+                   caparazón en vista dorsal                                                  pinza 4 veces más larga que alta
+
+                                                            (según Garth y Stephenson, 1966)
+
+ Caracteres distintivos: Caparazón blando, de forma subrectangular, de márgenes laterales convexos divididos
+en 4 o 5 dientes cortos, el posterior muy reducido. Frente en forma de "T". Pedúnculos oculares extremadamente
+largos, s u longitud por lo m e n o s igual a un tercio de la anchura del caparazón, distancia entre los extremos de
+los ojos aproximadamente igual a un 70% de la anchura del caparazón. Propodio y dáctilo de los pereiópodos 2,
+3 y 4 típicamente aplanados, al igual que el propodio y el dáctilo del quinto par. Pinza larga y delgada, s u longitud
+aproximadamente 4 v e c e s mayor que s u altura; borde anterior del mero del quelípedo con 4 a 6 espinas o
+tubérculos pequeños. Color: caparazón y mero de todos los pereiópodos de color morado, los demás artejos de las
+patas enteramente de color tinto. Región ventral azulada, salvo el esternón que es blanco y el abdomen de tono café.
+
+Talla: Máxima: 8,7 cm de anchura del caparazón (talla máxima conocida).
+
+Hábitat y biología: Una especie bentónica (desde la zona intermareal hasta
+unos 60 m de profundidad) y pelágica (hasta distancias de por lo menos 1 200
+millas náuticas de la costa). Durante su fase pelágica constituye una compo-
+nente importante de la dieta de atunes y aves marinas. Euphylax dovii y
+Portunus xantusii son las únicas dos especies de braquiuros pelágicos del
+Pacífico central tropical.
+
+Pesca y utilización: Durante su fase bentónica, E. dovii ha sido capturado
+con redes de arrastre sólo en pocas localidades del área. Sin embargo, se
+han detectado ocasionalmente poblaciones muy grandes (capturas del orden
+de 1 tonelada por arrastre) frente a las costas de México, por lo cual podría
+representar un recurso pesquero interesante. Es capturado con redes de
+arrastre y de cerco y con varios aparejos de tipo artesanal, utilizándose como
+producto fresco a nivel de subsistencia. Probablemente representa un recurso
+potencial para la elaboración de harina. Ejemplares capturados durante su
+fase pelágica se utilizan ocasionalmente como cebo en la pesca del atún.
+Ocypodidae                                                                                                         627
+
+Euphylax robustos A . M i l n e E d w a r d s , 1874                                           PORT Euphy 2
+
+Nombres vernáculos: FAÓ: Es - Jaiba robusta; Fr - Crabe nageur robuste; In - Robust swimcrab.
+                Nacional:
+
+            pedúnculo ocular  frente sin dientes
+                 muy largo          centrales
+
+                                                      mero con 3 espinas
+
+            caparazón en vista dorsal                                                  longitud de la pinza menos
+                                                                                           de 4 veces su altura
+                                                     (según Garth y Stephenson, 1966)
+
+Caracteres distintivos: Caparazón subrectangular, de consistencia dura, con los márgenes laterales oblicuos,
+divididos e n 4 o 5 dientes ántero-laterales, el anterior y el posterior bien desarrollados. Frente e n forma de "T".
+Pedúnculos oculares extremadamente largos, s u longitud por lo m e n o s igual a un tercio de la anchura del
+caparazón; distancia entre i o s extremos de los ojos aproximadamente 80% de la anchura del caparazón. Propodio
+y dáctilo aplanados s ó l o en el quinto par de pereiópodos. Quelípedos con pinza corta y muy robusta, sti longitud
+comprendida menos d e 4 v e c e s en la altura; borde anterior del mero con 3 fuertes espinas. Color caparazón y
+parte dorsal de las patas de color azul a azul-verdoso con tonos grisáceos. Mano y dáctilo de las pinzas café-aceitunado
+con tonos rosados. Pedúnculos oculares de color violeta. Superficie ventral de los pereiópodos y abdomen blancos y
+violetas.
+
+Talla: 12 cm (macho) y 10,1 cm (hembra) de anchura del caparazón.
+Hábitat y biología: Especie bentónica que vive sobre fondos lodosos y
+areno-lodosos, entre 10 y 66 m de profundidad. No presenta una fase pelágica.
+
+P e s c a y utilización: Esta especie aparece frecuentemente en las capturas
+de arrastre camaroneras en todo el área de pesca. Representa un recurso
+pesquero interesante por su talla relativamente grande y por el gran tamaño
+y el espesor de sus pinzas. Es utilizada a nivel de subsistencia o como al imento
+ocasional por parte de los pescadores, pero no se comercializa regularmente.
+Representa, junto con otras especies de portúnidos de menor talla pero más
+abundantes, una fuente potencial para la elaboración de harina.
+628                                                                                •Cangrejos
+
+Otras especies presentes en ei áréa
+
+Callinectes exasperatus (Gerstaecker, 1856)                                        PORT Cali 5
+
+Es - Jaiba rugosa; Fr - Crabe lire; In - Rugóse swimcrab. Nacional:
+
+      Anchura máxima del caparazón: 13 cm. Se distingue de las demás especies de Callinectes del Pacífico
+      central tropical por presentar los dientes centrales de la frente bien desarrollados, aunque siempre más
+       pequeños que los laterales, y el diente lateral del caparazón corto, menos de 2 veces mayor que el margen
+      posterior del diente inmediatamente precedente. Especie del Atlántico americano (Florida hasta Brasil),
+      capturada en Miraflores, en la porción occidental del Canal de Panamá.
+
+dientes centrales de la frente pequeños, pero bien desarrollados
+
+diente lateral                                               pinza
+      corto
+
+                     caparazón en vista dorsal
+
+                  (según Williams, 1974)
+
+Cronius rüber ( L a m a r c k , 1818)                                              PORT Cron 1
+
+Es - Jaiba pecosa; Fr - Etrille points noirs; In - Blackpoint swimcrab. Nacional:
+
+     Anchura máxima del caparazón: 8 cm. Se distingue de las demás jaibas con 9 espinas ántero-laterales por
+     la alternancia de espinas largas y cortas y la presencia, en la superficie externa de la mano de la pinza, de
+     4 dientes con puntas agudas negras; coloración, oscura (morado-negruzca), pereiópodos de tonalidades
+     oscuras morado-rojizas y morado-azuladas. Se encuentra comúnmente sobre fondos arenosos, cerca de
+     playas rocosas o zonas coralinas, entre la zona intermareal y unos 10 m de profundidad, pero suele aparecer
+     en capturas de arrastre'camaroneras provenientes de hasta 60 m de profundidad.
+
+9 dientes ántero-laterales alternativamente largos y cortos
+
+                                                . 4 espinas o dientes en la
+                                                superficie externa de la mano
+
+         caparazón en vista dorsal                           pinza
+
+     (según Garth y Stephenson, 1966)
+Ocypodidae                                                                                                         629
+
+Portunus asper (A. M i l n e E d w a r d s , 1861)                                        PORT Portun 4
+
+Es - Jaiba áspera; Fr - Etrille rugueuse; In - Rough swimcrab. Nacional:
+
+Anchura máxima del caparazón: 10,1 cm. Se distingue de las demás especies del género Portunus por la
+presencia de una espina y numerosas espínulas en el borde posterior del mero del 5o par de pereiópodos,
+
+y por sus quelípedos no muy largos y delgados. Es una especie extremadamente común en la plataforma
+
+continental de todo el Pacífico central tropical, desde la orilla hasta unos 110 m de profundidad, siendo más
+
+abundante entre 10 y 40 m.
+
+9 dientes ántero-laterales
+
+                 caparazón en vista dorsal
+
+            (según Garth' y Stephenson, 1966)
+
+                                                           carpo       propodio
+
+               quelípedo              borde posterior con una                    dáctilo
+                                  espina y numerosas espínulas
+(según Garth y Stephenson, 1966)
+                                                       5°' pereiópodo
+
+Portunus xantusii ( S t i m p s o n , 1860)                                               PORT Portun 5
+
+Es - Jaiba de Xantus; Fr - Etrille de Xantus; In - Xantus swimcrab. Nacional:
+
+Anchura máxima del caparazón: 7 cm. Se distingue de las demás especies del género Portunus por tener sólo
+espínulas en el borde posterior del mero del quinto par de pereiópodos y una espina medial no muy alargada en
+el carpo del quelípedo. Al igual que la especie anterior, es extremadamente común a lo largo de las costas de
+todo el Pacífico central tropical. Las 3 subespecies reconocidas actualmente se encuentran en la plataforma
+continental hasta unos 270 m de profundidad, pero son más comunes entre 10 y 100 m. La subespecie P. x.
+affinis (Faxon) presenta una prolongada fase pelágica y ha sido encontrada hasta 720 miilas nauticas de distancia
+de la costa de México. Esta especie constituye un elemento importante en la dieta de los atunes.
+
+9 dientes ántero-laterales
+
+              caparazón en vista dorsal             carpo         propodio
+
+(según Garth y Stephenson, 1966)
+
+            quelípedo             borde posterior sólo
+                                       con espínulas
+
+(según Garth y Stephenson, 1966)                    5o" pereiópodo             dáctilo
+630             •Cangrejos
+
+     XANTHIDAE
+
+                                 Cangrejos de piedra, jaibas de piedra
+
+Caparazón transversalmente ovalado o hexagonal, sin extensiones póstero-laterales por encima de los pereiópo-
+      dos; frente ancha, sin rostro, con una hendidura mediana; márgenes ántero-laterales generalmente
+dentados o divididos en lóbulos. Anténulas replegadas oblicua- o transversalmente. Aperturas genitales en las
+coxas del quinto par de pereiópodos. Segundo a cuarto pares de pereiópodos pubescentes, de forma semejante, pero
+de tamaños ligeramente diferentes. Pinzas de los quelípedos generalmente fuertes y leve a fuertemente asimé-
+tricas.
+
+Esta familia está representada en el área por más de 60 especies. La mayoría de ellas son de tallas inferiores a 4 cm de
+anchura del caparazón. Viven en playas rocosas, arrecifes coralinos, en la zona intermareal de estuarios y lagunas
+costeras y en la plataforma continental.
+
+La posición taxonómica de muchas especies de Xanthidae (sensu lato) es todavía incierta y la sistemática del grupo está
+actualmente bajo revisión. Algunos autores han recomendado su división en varias familias, pero los carcinólogos no han
+llegado aún a un consenso con respecto a la clasificación definitiva.
+
+Las caracteres diagnósticos de las especies de Xanthidae presentes en el área son muy complejos y a menudo difíciles
+de evidenciar en forma satisfactoria. Por este motivo se ha decidido no presentar aquí una clave para géneros y especies.
+Ocypodidae                                                                                                  631
+
+Familias d e aspecto similar presentes en el área
+
+Goneplacidae: familia muy estrechamente relacionada con Xanthidae, de la cual se distingue fundamentalmente por la
+disposición de las placas del abdomen y del esternón, así como por la forma y disposición de los pleópodos sexuales. En
+la familia Goneplacidae existe un conducto genital que se extiende entre la séptima y la octava placa esternal, modificando
+la posición del primer pleópodo o bien, éste se encuentra en posición netamente esternal, mientras en Xanthidae es coxal.
+Además, parte de la octava placa esternal es visible al lado del segundo segmento abdominal. Sin embargo, estas
+diferencias aparecen de manera progresiva en la línea evolutiva de la familia Goneplacidae, y los límites entre las dos
+familias son poco claras. Las especies de Goneplacidae son más frecuentes en aguas profundas.
+
+            1 pleópodo (cortado)                  vista dorsal                     pleópodo   7a' placa esternal
+              en posición esternal
+                                             (según Garth, 1986)                                                conducto
+                                                                                                                  genital
+                                              7a' placa
+                                               esternal
+
+segmentos   (                                 segmentos                                                                                          coxa
+                                             abdominales                                                                                        del 5o-
+abdominales 2 ,                                                                                                                                pereió-
+                                                                                                                                                 podo
+                 8a' placa esternal          coxa del 5
+                                             pereiópodo                                                    8 ' placa esternal
+
+            a) abertura genital típicamente esternal                                     b) conducto genital situado entre
+                                                                     Goneplacidae             la 7a" y la 8a' placa esternal
+
+                                                                                   parte posterior del cefalotórax del macho
+                                                                                         (mitad izquierda) en vista ventral
+
+Dynomenidae: quinto par de pereiópodos fuertemente reducido y en posición dorsal.
+
+Cancridae: frente del caparazón con 3 dientes, uno mediano y dos laterales; márgenes ántero-laterales formando un arco
+regular dividido en 9 dientes o lóbulos bien marcados. Anténulas replegadas longitudinalmente en sus fosetas.
+
+                                                                                                                      frente con 3 dientes
+
+                                                           9 dientes o lóbulos
+                                                             ántero-laterales
+
+                                                         anténulas replegadas
+                                                           longitudin almente
+
+                                                                                              vista dorsal
+
+5o' pereiópodo reducido                                  extremo anterior          Cancridae
+   y en posición dorsal                                  en vista ventral
+
+                 Dynomenidae (vista dorsal)
+632                                                                                                      •Cangrejos
+
+Grapsidae: caparazón generalmente cuadrilateral, con los márgenes laterales rectos o arqueados, provistos al máximo
+de 2 dientes por detrás del ángulo orbital extemo. Frente más ancha que las órbitas, estas últimas ubicadas en los ángulos
+ántero-laterales o cerca de éstos.
+
+Portunidae: márgenes ántero-laterales del caparazón con 5 o 9 dientes. Dáctilo del último par de pereiópodos aplanado
+para facilitar la natación. Parte dorsal del caparazón sin tubérculos, espinas o fuertes protuberencias.
+
+     diente orbital externo
+
+                                                                                                            5-9 dientes
+                                                                                                         ántero-laterales
+
+               Grapsidae (vista dorsal)                                                                   dáctilo
+                                                                                                         aplanado
+                   (según Monod, 1956)
+                                                                              Portunidae (vista dorsal)
+
+Lista de especies presentes en el área
+Las especies descritas o ilustradas van seguidas de sus respectivos códigos.
+
+     Actaea augusta Rathbun, 1898
+
+     Carpilus convexus (Forskál, 1775)
+     Cataleptodius occidentalis (Stimpson, 1871)
+     Cataleptodius taboganus (Rathbun, 1912)
+
+     Chacellus pacificus Hendrickx, 1989
+
+     Coralliope armstrongi (Garth, 1948)
+
+     Cycloxanthops vittatus (Stimpson, 1860)
+     Cycloxanthops bocki Garth, 1957
+
+     Daira americana Stimpson, 1860
+
+     Domecia hispida Eydoux y Souleyet, 1842
+
+     Edwardsium lobipes (Rathbun, 1898)
+
+     Epixanthus tenuidactylus (Lockington, 1877)
+
+     Eriphia squamata Stimpson, 1859
+
+     Eriphides hispida (Stimpson, 1860)
+
+     Eurypanopeus  canalensis Abele y Kim, 1989
+     Eurypanopeus  confragosus Rathbun, 1933
+     Eurypanopeus  dissimilis (Benedict y Rathbun, 1891)
+     Eurypanopeus  ovatus (Benedict y Rathbun, 1891)
+     Eurypanopeus  planissimus (Stimpson, 1860)
+     Eurypanopeus  planus (Smith, 1869)
+     Eurypanopeus  transversus (Stimpson, 1860)
+
+     Eurytium  affine (Streets y Kingsley, 1879)
+     Eurytium  albidigitum Rathbun, 1933
+     Eurytium  tristani minor (Bott, 1955)
+     Eurytium  tristani tristani (Rathbun, 1906)
+Ocypodidae                                                          633
+
+Globopilumnus xantusii Stimpson, 1860
+
+Glyptoxanthus labyrinthicus (Stimpson, 1860)
+Glyptoxanthus meandricus (Lockington, 1877)
+
+Gonopanope angusta (Lockington, 1877)
+Gonopanope areolata (Rathbun, 1898)
+Gonopanope nítida (Rathbun, 1898)
+
+Heteractaea lunata (Milne Edwards y Lucas, 1843)
+Heteractaea peterseni Garth, 1940
+
+Hexapanopeus  beebei Garth, 1961 (*)
+Hexapanopeus  costaricensis Garth, 1940
+Hexapanopeus  nicaraguensis (Rathbun, 1904)
+Hexapanopeus  orcutti Rathbun, 1930
+Hexapanopeus  rubicundus Rathbun, 1933
+Hexapanopeus  sinaloensis Rathbun, 1930
+
+Kraussia americana Garth, 1939
+
+Liomera cinctimana (White, 1847)
+
+Lipaesthesius leeanus Rathbun, 1898
+
+Lophopanopeus frontalis (Rathbun, 1893)
+
+Lophoxanthus lamellipes (Stimpson, 1860)
+
+Medaeus (sensu Rathbun) pelagius (Glassell, 1936)      XANTH Men 3
+Medaeus (sensu Rathbun) spinulifer (Rathbun, 1898)
+
+Menippe frontalis A. Milne Edwards, 1879
+Menippe obtusa Stimpson, 1859
+
+Metopocarcinus concavatus Crane, 1947
+Metopocarcinus truncatus Stimpson, 1860
+
+Microcassiope xantusii (Stimpson, 1871)
+
+Micropanope   armstrongi (Garth, 1948)
+Micropanope   ashcrafti Garth, 1986
+Micropanope   cristimanus Stimpson, 1871
+Micropanope   lata (Faxon, 1893)
+Micropanope   ? maculatus (Rathbun, 1898)
+Micropanope   taylori Garth, 1986
+
+Nanocassiope polita (Rathbun, 1893)
+
+Neopanope peterseni Glassell, 1933
+
+Ozius perlatus Stimpson, 1860                          XANTH Ozi 1
+Ozius verreauxii de Saussure, 1853
+
+Panopeus    aff. bermudensis Benedict y Rathbun, 1891
+Panopeus    chilensis Milne Edwards y Lucas, 1844
+Panopeus    diversus Rathbun, 1933
+Panopeus    latus Faxon, 1893
+Panopeus    mirafloresensis Abele y Kim, 1989
+Panopeus    purpureus Lockington, 1877
+Panopeus    rugosas A. Milne Edwards, 1880 (*)
+
+Paractaea sulcata (Stimpson, 1860)
+
+Paraxanthias insculptus (Stimpson, 1871)
+ 634                                                                       •Cangrejos
+
+          Pilumñoides rotundas Garth, 1940
+
+          Pilu'mnus depressus Stimpsoru 1871
+          Pilumnus gonzaleñsis Rathbun, 1893
+          Pilümtíus limosas Smith, 1869
+          Pilumnus nobilii Garth, 1948
+          Pilumñüs pygmaeiis Boone, 1926
+          Pilümnüs Yetícúlaim Ütirhp's'óñ, 1860
+          Pilambas spinóhirsúlus (Lockington, 1877)
+          Pilumnus stimpsoñi Miers, i 886
+         Pilumnus téctus Ráthbun, 1933
+         Pilumnus tównsendi Rathbun, 1923
+         Pilumnus Mntúsii StiitipSdri, 18Í30
+
+         Platyáctaea d&vii (Stimpson, 1871)
+         Plaiypodiella gemmata Rathbun, 1902
+         Platyp'odieíla rotundatá (Stiriipsón, 1860)
+
+         Quadrélla nítida Smith, 1869
+
+         frápeziii' corallina Gerstaécker, 1856
+         Trapézia digitalis Latreille, 18¿5
+         Trapézia ferrügiñea Latreille, 1825
+         Trapézia formosa Smith, 1869
+
+        Xáñthódius coóksoni Miers* 1877
+        Xanihodías sternberghi Stimpson, 1859
+
+        Xárilhódiüs (sema ÍRáthbüri.) stimpson i (Á. Milñé Edwards, 1879)
+
+(*) Sólo éñ la costa Pacífiba dél Canal dé Panamá.
+Xanthidae                                                        635
+
+Menippe frontalis A> M i l n e E d w a r d s , 1879              XANTH Men 3
+
+Nombréis vernáculos: FAÓ: És - Cangrejo de piedra estridulante; Fr - Grabe caillou stiiduláht; In * Stfidulatihg stóné crab.
+
+                Nacional:
+
+           estrías del órgano                        2 ' diente
+               estridulante                          bilobülado
+
+Caracteres distintivos: Caparazón algo irregular, pero sin fuertes protuberancias dorsales. Margen ántero-lateral
+dividido en 5 dientes: el primero (orbital externo) siifiple y angosto, el segundó medianamente ancho» subrectan-
+gular, sinuoso o bilobulado, él tercero y el cuarto anchos y subrectangularefi, y el quinto fuerte y triangular.
+Hendidura mediana de la frente profunda, separando d o s pares de lóbulós laterales, el externo doble con los
+ápices d i s p u e s t o s en sentido oblicuo con respecto ál borde del caparazón. Margen orbital inferior con 3 lóbulos.
+Superficie interna dé la palrná dé las pinzas dé ambos sexos con un órgano estridulante Cónstituido por un zona ovalada
+con fuertes estrías ó ranuras; Color: tonalidad general del cuerpo café oscura.
+
+Talla: 12,8 ern (rnaCho) y 10 cm (hémbra) de anchura del caparazón (tallas
+máximas conocidas).
+
+Hábitat y biología: Vive en playas rocosas, por debajo de las piedras,
+generalmente en la franja externa de la zona intermareal y éh áreas sometidas
+a un oleaje mediano a fuerte. La especie congénere del Atlántico, M. merce-
+naria, ha sido capturada hasta unos 51 m de profundidad y construye
+madrigueras en el lodo por debajo de las rocas.
+
+P e s c a y utilización: La talla relativamente grande y én particular, él tamaño
+dé las pinzas del macho, permiten considerar esta especie como un recurso
+potencial interesante para la pesca de subsistencia y para su comercialización
+én mercados locales. Es explotada localmenté en el golfo de California, donde
+se captura cómo fauna acompañante de la langosta {Panulirus) en trampas
+langosteras y, más comunmente, Chinchorros. Por lo general se utilizan sólo
+las pinzas. No parece existir una pesquería regular para éste recurso. Eh
+cambió, la especie Atlántica, M frontalis, se captura en grandes cantidades
+(hasta 1 0001 por año, mediante trámpas).
+636                                                               •Cangrejos
+
+Ozius verreauxii de S a u s s u r e , 1853                        XANTH Ozi 1
+
+Nombres vernáculos: FAO: Es - Cangrejo de piedra perforado; Fr - Crabe caillou perforé; In - Punched stone crab.
+               Nacional:
+
+                                            4 lóbulos subiguales
+
+                                                                  borde anterior del
+                                                                     cuadro bucal
+
+                                                                                      orificio circular
+
+     vista dorsal                                                                                                                mero del 3er'
+                                                                                                                                  maxilípedo
+
+                                                                  extremo anterior en vista ventral
+
+Caracteres distintivos: Caparazón m e n o s de una vez y media más ancho que largo, sus márgenes ántero-laterales
+divididos en 5 dientes en forma de lóbulos (incluido el diente orbital externo): primero a tercer dientes anchos y poco
+altos, cuarto y quinto dientes pequeños, pero bien visibles. Frente más o menos lisa dorsalmente, dividida en 4
+lóbulos subiguales, los laterales un poco más pequeños que los medianos. Orbitas en posición dorsal, circulares y
+con un fuerte reborde posterior. Dedo móvil de la pinza mayor con un fuerte diente cerca de su base. Borde anterior del
+mero del tercer par de maxilípedos con una profunda hendidura semicircular que junto con una hendidura similar
+del borde anterior del cuadro bucal, forma un orificio circular. Color: tonalidad general del cuerpo grisácea, con
+bandas coral en la articulación carpo-meral del segundo al cuarto par de pereiópodos.
+
+Talla: 8,6 cm (macho) y 8,2 cm (hembra) de anchura del caparazón (tallas
+máximas conocidas).
+
+Hábitat y biología: Vive por debajo de las piedras en playas rocosas de la
+zona intermareal, generalmente en la franja externay en áreas semiprotegidas
+o expuestas a un oleaje mediano.
+
+P e s c a y utilización: No existe una pesca regular para esta especie. Se
+explota [ocalmente a nivel de subsistencia.
+

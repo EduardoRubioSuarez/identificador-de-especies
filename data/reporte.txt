@@ -1,0 +1,2 @@
+claves=8 pasos=45 opciones=90 inferidas=0 taxones=82 (familias=20, géneros=27, especies=31, con ficha=27)
+AVISO: familias:13b posible guion de fin de línea

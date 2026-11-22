@@ -1,0 +1,23 @@
+Verificación visual contra las imágenes de las páginas del PDF (hecha a mano):
+   Se renderizaron las páginas de las 8 claves y se comparó cada enlace del JSON con lo impreso.
+   - Clave de familias (pp. 567-574): los 19 pasos, 38 opciones y todos los destinos coinciden con el PDF.
+     Los 4 enlaces que el OCR no leía (2b a 6, 9a a 10, 9b a 19, 11a a 12) se confirmaron con la flecha impresa.
+   - Calappidae (pp. 577-579), Cancridae (p. 586), Dorippidae (p. 592), Gecarcinidae (pp. 595-596),
+     Grapsidae (pp. 602-603), Ocypodidae (pp. 614-615) y Portunidae (pp. 618-621): todos los destinos coinciden.
+   - Los avisos de A y B son del OCR/maquetación (columnas intercaladas con figuras), no errores de datos.
+   - Observaciones del documento: la clave de Calappidae imprime "Cycloes bardii" y su lista "Cycloes bairdii";
+     se usa la de la lista. La lista de Portunidae imprime 16 especies aunque la lista de familias declara 18.
+
+Fichas (27 especies), comparadas con la imagen de su página:
+   Calappidae (pp. 580-584), Cancridae (587-589), Gecarcinidae (597-599), Portunidae (622-627, incluye las 3 de Callinectes),
+   Dorippidae (593), Grapsidae (604-606), Majidae (610-612), Ocypodidae (616), Xanthidae (635-636).
+   Se leyeron los nombres vernáculos, los caracteres distintivos, la talla, el hábitat y la pesca de cada una.
+   Se encontraron y corrigieron unas 40 diferencias, todas de OCR o de texto ajeno a la ficha:
+   - letras sueltas ("s u longitud", "e n forma", "e s mucho", "d e 4 veces", "ios extremos", "ei área"),
+   - signos de mapas y figuras ("10' N -0'", "3 WMM", ",a- V", "de V unos", "1 y H 65"),
+   - errores de lectura ("moderamente", "frontral", "se comercializado", "20 rn", "potlue", "cordatas", "i/7", "Quélipedos"),
+   - texto de otras especies pegado al final de la ficha de Gecarcinus quadratus (la nota sobre G. malpilensis),
+   - el género se imprime "Cancer", sin tilde (el OCR lo leía "Cáncer"),
+   - el código de Stenocionops ovata es "MAJI Steno 1".
+   Se conservan las erratas del propio documento ("particualrmente", "Spoted"), pero se ponen las tildes que sin duda corresponden
+   aunque el PDF las omita: América, Ángulo, círculos, comúnmente, líneas, órbitas/Órbitas, raíces, típico; e "intermareal" sin tilde.

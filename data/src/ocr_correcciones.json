@@ -1,0 +1,266 @@
+[
+ [
+  "¡as\\b",
+  "las"
+ ],
+ [
+  "¡ocalmente",
+  "localmente"
+ ],
+ [
+  "\\biagunares",
+  "lagunares"
+ ],
+ [
+  "\\bciaras\\b",
+  "claras"
+ ],
+ [
+  "\\bcircuios\\b",
+  "círculos"
+ ],
+ [
+  "\\blateraias\\b",
+  "laterales"
+ ],
+ [
+  "\\biargas\\b",
+  "largas"
+ ],
+ [
+  "\\bal imento\\b",
+  "alimento"
+ ],
+ [
+  "\\bexternay\\b",
+  "externa y"
+ ],
+ [
+  "\\bc[ée]rca\\b",
+  "cerca"
+ ],
+ [
+  "\\bad[úu]ltos\\b",
+  "adultos"
+ ],
+ [
+  "\\bb[áa]irdi\\b",
+  "bairdi"
+ ],
+ [
+  "\\boblic[úu]a\\b",
+  "oblicua"
+ ],
+ [
+  "\\bsuborbitari[áa]s\\b",
+  "suborbitarias"
+ ],
+ [
+  "\\bart[ée]sanal\\b",
+  "artesanal"
+ ],
+ [
+  "\\bcentró-oriental\\b",
+  "centro-oriental"
+ ],
+ [
+  "Cáncerporteri",
+  "Cáncer porteri"
+ ],
+ [
+  "\\balli\\b",
+  "allí"
+ ],
+ [
+  "impor-\\s*-20\\*\\s*tante",
+  "importante"
+ ],
+ [
+  "\\béxternq\\b",
+  "externo"
+ ],
+ [
+  "\\bs u\\b",
+  "su"
+ ],
+ [
+  "\\be s\\b",
+  "es"
+ ],
+ [
+  "\\be n\\b",
+  "en"
+ ],
+ [
+  "\\bd e\\b",
+  "de"
+ ],
+ [
+  "\\bsti\\b",
+  "su"
+ ],
+ [
+  "\\bios\\b",
+  "los"
+ ],
+ [
+  "\\bei\\b",
+  "el"
+ ],
+ [
+  "\\bdé\\b",
+  "de"
+ ],
+ [
+  "\\bde!",
+  "del"
+ ],
+ [
+  "\\bél ángulo\\b",
+  "el ángulo"
+ ],
+ [
+  "\\bmoderamente\\b",
+  "moderadamente"
+ ],
+ [
+  "\\bColor;",
+  "Color:"
+ ],
+ [
+  "\\bColor caparazón",
+  "Color: caparazón"
+ ],
+ [
+  "\\s+,",
+  ","
+ ],
+ [
+  "\\bfrontral\\b",
+  "frontal"
+ ],
+ [
+  "\\bse comercializado\\b",
+  "se comercializa"
+ ],
+ [
+  "con Una espina",
+  "con una espina"
+ ],
+ [
+  "de V unos",
+  "de unos"
+ ],
+ [
+  "1 y H 65",
+  "1 y 65"
+ ],
+ [
+  "\\b20 rn\\b",
+  "20 m"
+ ],
+ [
+  "su\\.talla",
+  "su talla"
+ ],
+ [
+  "de\\.la órbita",
+  "de la órbita"
+ ],
+ [
+  "redes de\\. arrastre",
+  "redes de arrastre"
+ ],
+ [
+  "Anglette potlue",
+  "Anglette poilue"
+ ],
+ [
+  "\\bi/7\\b",
+  "1/7"
+ ],
+ [
+  "\\bQuélipedos\\b",
+  "Quelípedos"
+ ],
+ [
+  "\\bcordatas\\b",
+  "cordatus"
+ ],
+ [
+  "\\blineas con carnadas",
+  "líneas con carnadas"
+ ],
+ [
+  "\\bsomerás\\b",
+  "someras"
+ ],
+ [
+  "Tombourou á taches",
+  "Tombourou à taches"
+ ],
+ [
+  "\\s*\\b3 WMM\\b",
+  ""
+ ],
+ [
+  "\\s,a-\\s*V\\s",
+  " "
+ ],
+ [
+  "langostas N \\(",
+  "langostas ("
+ ],
+ [
+  "^\\.\\s+",
+  ""
+ ],
+ [
+  "Cáncer",
+  "Cancer"
+ ],
+ [
+  "\\s*\\b10\\W{1,2}\\s*N\\s*-\\s*0\\W*$",
+  ""
+ ],
+ [
+  "\\bAmerica\\b",
+  "América"
+ ],
+ [
+  "\\bAngulo\\b",
+  "Ángulo"
+ ],
+ [
+  "\\bcirculos\\b",
+  "círculos"
+ ],
+ [
+  "\\bcomunmente\\b",
+  "comúnmente"
+ ],
+ [
+  "\\blineas\\b",
+  "líneas"
+ ],
+ [
+  "\\bOrbitas\\b",
+  "Órbitas"
+ ],
+ [
+  "\\borbitas\\b",
+  "órbitas"
+ ],
+ [
+  "\\braices\\b",
+  "raíces"
+ ],
+ [
+  "\\btipico\\b",
+  "típico"
+ ],
+ [
+  "\\bintermáreal\\b",
+  "intermareal"
+ ]
+]
